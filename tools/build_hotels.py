@@ -42,6 +42,31 @@ OFFICIAL_OVERRIDE = {
     "Silver Shell Grand": "Silver Shell Grand",
 }
 
+IMG_DIR = ROOT / "images"
+IMG_EXT = {".jpg", ".jpeg", ".png", ".webp", ".avif"}
+
+
+def find_images(slug: str):
+    """Images dropped into images/<slug>/ (sorted by name; 01-*.jpg first = cover)."""
+    d = IMG_DIR / slug
+    if not d.is_dir():
+        return []
+    return [f"images/{slug}/{f.name}" for f in sorted(d.iterdir()) if f.suffix.lower() in IMG_EXT]
+
+
+from urllib.parse import quote_plus
+
+
+def image_sources(name: str, website, address):
+    q = quote_plus(name if name.lower().endswith("goa") else f"{name} Goa")
+    out = {
+        "official_site": website,
+        "google_images": f"https://www.google.com/search?tbm=isch&q={q}",
+        "google_maps": f"https://www.google.com/maps/search/?api=1&query={quote_plus(address or name + ' Goa')}",
+    }
+    return out
+
+
 hotels = []
 missing = []
 for i, r in enumerate(rates["hotels"], start=1):
@@ -109,6 +134,9 @@ for i, r in enumerate(rates["hotels"], start=1):
             "highlights": d.get("highlights") or [],
             "nearby_attractions": d.get("nearby_attractions") or [],
             "sources": d.get("sources") or [],
+            "images": find_images(slugify(r["name"])),
+            "cover_image": (find_images(slugify(r["name"])) or [None])[0],
+            "image_sources": image_sources(re.sub(r"\s*\([^)]*\)\s*$", "", d.get("official_name") or r["name"]).strip(), d.get("website"), d.get("address")),
             "research_confidence": d.get("confidence"),
             "research_notes": d.get("notes"),
         }
@@ -141,7 +169,8 @@ cols = [
     "distance_from_thivim_station_km", "total_rooms", "room_types", "amenities",
     "check_in", "check_out", "dining", "website", "phone", "google_rating",
     "google_review_count", "ota_rating", "description", "highlights",
-    "nearby_attractions", "research_confidence", "research_notes",
+    "nearby_attractions", "cover_image", "images", "image_count",
+    "research_confidence", "research_notes",
 ]
 with (OUT / "hotels.csv").open("w", newline="", encoding="utf-8") as fh:
     w = csv.writer(fh)
@@ -159,8 +188,16 @@ with (OUT / "hotels.csv").open("w", newline="", encoding="utf-8") as fh:
             h["check_in"], h["check_out"], h["dining"], h["website"], h["phone"],
             h["google_rating"], h["google_review_count"], h["ota_rating"], h["description"],
             " | ".join(h["highlights"]), " | ".join(h["nearby_attractions"]),
+            h["cover_image"], " | ".join(h["images"]), len(h["images"]),
             h["research_confidence"], h["research_notes"],
         ])
+
+with (OUT / "image_sources.csv").open("w", newline="", encoding="utf-8") as fh:
+    w = csv.writer(fh)
+    w.writerow(["id", "hotel", "drop_photos_into", "photos_found", "official_site", "google_images", "google_maps"])
+    for h in hotels:
+        w.writerow([h["id"], h["official_name"], f"images/{h['slug']}/", len(h["images"]),
+                    h["image_sources"]["official_site"] or "", h["image_sources"]["google_images"], h["image_sources"]["google_maps"]])
 
 # ---------- Markdown ----------
 def md_val(v):
@@ -218,6 +255,7 @@ for h in hotels:
         f"**Check-in / out:** {md_val(h['check_in'])} / {md_val(h['check_out'])}  ",
         f"**Ratings:** Google {md_val(h['google_rating'])}" + (f" ({h['google_review_count']} reviews)" if h["google_review_count"] else "") + f" · {md_val(h['ota_rating'])}  ",
         f"**Website:** {md_val(h['website'])}  ",
+        f"**Photos:** {len(h['images'])} in images/{h['slug']}/" + ("" if h["images"] else " (none yet)") + "  ",
         f"**Phone:** {md_val(h['phone'])}  ",
         "",
         md_val(h["description"]),
@@ -255,8 +293,17 @@ for h in hotels:
     if h["distance_from_mopa_airport_km"]:
         dist.append(f"✈ Mopa {h['distance_from_mopa_airport_km']} km")
     link = f'<a href="{E(h["website"])}" target="_blank" rel="noopener">Official site</a>' if h["website"] else ""
+    initials = "".join(w[0] for w in re.findall(r"[A-Za-z]+", h["official_name"])[:2]).upper()
+    if h["cover_image"]:
+        figure = f'<figure class="cover"><img src="{E(h["cover_image"])}" alt="{E(h["official_name"])}" loading="lazy"></figure>'
+    else:
+        figure = f'<figure class="cover ph" data-cat="{E(h["category"])}"><span>{E(initials)}</span><small>Photo coming soon</small></figure>'
+    gallery = ""
+    if len(h["images"]) > 1:
+        gallery = '<div class="gallery">' + "".join(f'<a href="{E(src)}" target="_blank"><img src="{E(src)}" alt="" loading="lazy"></a>' for src in h["images"][1:]) + "</div>"
     cards.append(f"""
 <article class="card" data-cat="{E(h['category'])}" data-area="{E(h['area'] or '')}" data-name="{E(h['official_name'].lower())}" data-cp="{h['rates']['dbl_cp']}" id="{E(h['slug'])}">
+  {figure}
   <header>
     <div>
       <span class="cat">{E(h['category'])}</span> <span class="stars">{stars}</span>
@@ -281,6 +328,7 @@ for h in hotels:
     <p><b>Dining:</b> {E(h['dining'] or '—')}</p>
     <p><b>Check-in / out:</b> {E(h['check_in'] or '—')} / {E(h['check_out'] or '—')}</p>
     <p><b>Nearby:</b> {E('; '.join(h['nearby_attractions']) or '—')}</p>
+    {gallery}
     <p class="meta">{' · '.join(x for x in [link, E(h['phone']) if h['phone'] else ''] if x)}</p>
   </details>
 </article>""")
@@ -308,7 +356,12 @@ h1{{margin:0 0 4px;font-size:1.7rem}}.sub{{color:var(--muted);margin:0 0 20px}}
 .notice{{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:10px;padding:12px 16px;margin:0 0 18px}}
 .notice ul{{margin:6px 0 0;padding-left:20px}}
 .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}}
-.card{{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px}}
+.card{{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px;overflow:hidden}}
+.cover{{margin:-16px -16px 2px;aspect-ratio:16/9;overflow:hidden;background:var(--chip);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:4px}}
+.cover img{{width:100%;height:100%;object-fit:cover;display:block}}
+.cover.ph span{{font-size:2.2rem;font-weight:700;letter-spacing:.05em;color:#fff;opacity:.9}}.cover.ph small{{color:#fff;opacity:.8;font-size:.75rem}}
+.cover.ph[data-cat="3 Star"]{{background:linear-gradient(135deg,#2b4c7e,#567ebb)}}.cover.ph[data-cat="4 Star"]{{background:linear-gradient(135deg,#1d3b6e,#8a6d2f)}}.cover.ph[data-cat="Beach Hotel"]{{background:linear-gradient(135deg,#0f6e8c,#39a6c4)}}
+.gallery{{display:grid;grid-template-columns:repeat(auto-fill,minmax(72px,1fr));gap:6px;margin:8px 0}}.gallery img{{width:100%;aspect-ratio:1;object-fit:cover;border-radius:6px;display:block}}
 .card header{{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}}
 .card h3{{margin:2px 0 4px;font-size:1.1rem}}
 .cat{{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:700}}

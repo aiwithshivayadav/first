@@ -72,6 +72,7 @@ Online market rate = public per-night price for a standard double room seen on b
 **Check-in / out:** 14:00 (one OTA lists 13:00) / 12:00 (one OTA lists 11:30)  
 **Ratings:** Google — · 6.8/10 (31 reviews) and 7.5/10 (24 reviews) on Kayak-aggregated OTA listings  
 **Website:** —  
+**Photos:** 0 in images/delta-residency/ (none yet)  
 **Phone:** +91 832 227 9226  
 
 Hotel Delta Residency Goa is a compact 25-room hotel on Beach Road in Calangute's Gauro Vaddo, a short walk from Calangute Beach and the market area. Rooms are air-conditioned and split into Standard and Superior categories, and guests have access to an outdoor pool, a multi-cuisine restaurant and bar, and free Wi-Fi. It suits budget-conscious travellers who want a simple base close to North Goa's busiest beach strip.
@@ -107,6 +108,7 @@ Hotel Delta Residency Goa is a compact 25-room hotel on Beach Road in Calangute'
 **Check-in / out:** 14:00 / 12:00  
 **Ratings:** Google — · 6.0/10 Orbitz; 6.8/10 (110 ratings) HotelsCombined; 5.8/10 (18 ratings) Sembo  
 **Website:** —  
+**Photos:** 0 in images/amara-casa-baga/ (none yet)  
 **Phone:** +91 70309 13923  
 
 Amara Casa Baga is a 25-room hotel in Saunta Vaddo, roughly five minutes on foot from Baga Beach and within about 2 km of Calangute Beach. Rooms come in three compact categories with queen beds and free Wi-Fi, and the property offers an outdoor pool, a restaurant and bar, and complimentary breakfast. Its location puts guests close to Baga's beach shacks, Tito's Lane and the Saturday night market circuit.
@@ -143,6 +145,7 @@ Amara Casa Baga is a 25-room hotel in Saunta Vaddo, roughly five minutes on foot
 **Check-in / out:** 13:00 / 10:00  
 **Ratings:** Google — · 4/5 TripAdvisor (475 reviews); 7.6/10 Hotels.com  
 **Website:** https://sinq.in/sinq-beach-resort-calangute  
+**Photos:** 0 in images/sinq-beach-resort-calangute/ (none yet)  
 **Phone:** +91 832 227 6922  
 
 SinQ Beach Resort is a 66-room property in Tivai Vaddo, Calangute, a few minutes' walk from Calangute Beach and about 40 km from Dabolim Airport. Rooms have balconies, flat-screen TVs and mini-fridges, and the resort centres on an outdoor pool deck with a kids' pool, cabanas and a poolside bar. Breakfast is served at the in-house restaurant Ingredients, and the resort is part of the SinQ hospitality group known for its Candolim nightlife venues.
@@ -179,6 +182,7 @@ SinQ Beach Resort is a 66-room property in Tivai Vaddo, Calangute, a few minutes
 **Check-in / out:** 12:00 / 11:00  
 **Ratings:** Google — · —  
 **Website:** —  
+**Photos:** 0 in images/silver-shell-calangute/ (none yet)  
 **Phone:** —  
 
 Silver Shell Resort is a 41-room hotel in Porba Vaddo, central Calangute, roughly a kilometre from the beach and opposite the Hard Rock Hotel. It offers double and twin rooms with air conditioning and tea/coffee makers, along with a swimming pool, poolside bar, multi-cuisine restaurant and free breakfast. Free parking, a lift and power backup make it a practical mid-range choice for families and groups.
@@ -214,6 +218,7 @@ Silver Shell Resort is a 41-room hotel in Porba Vaddo, central Calangute, roughl
 **Check-in / out:** 13:30 / 10:00  
 **Ratings:** Google — · 6.0/10 (49 reviews) Kayak-aggregated for Goveia Holiday Resort  
 **Website:** https://goveiaresort.com/  
+**Photos:** 0 in images/goveia-grand/ (none yet)  
 **Phone:** +91 93261 12995  
 
 Goveia Grand Resort sits in a lane off Candolim's main road near the Cafe Coffee Day junction, about 350 m from Candolim Market and roughly 40 km from Dabolim Airport. Rooms have balconies, air conditioning and satellite TV, and the resort offers an outdoor pool with a kids' pool, a restaurant and bar, and free parking. Fort Aguada and Candolim and Sinquerim beaches are a short drive away.
@@ -249,6 +254,7 @@ Goveia Grand Resort sits in a lane off Candolim's main road near the Cafe Coffee
 **Check-in / out:** 14:00 to 21:00 / 11:00  
 **Ratings:** Google 4.2 (591 reviews) · 3.4/5 (85 reviews) Trip.com/Ctrip  
 **Website:** —  
+**Photos:** 0 in images/regalsand-by-welcome-goa/ (none yet)  
 **Phone:** +91 80000 72224  
 
 Regal Sands Hotel is an 80-room property run by Welcom2Goa in Naikawaddo, on the Calangute-Anjuna road side of Calangute. It is within about a ten-minute drive of both Calangute and Candolim beaches and offers a swimming pool, on-site dining and a 24-hour front desk. Its size makes it a practical option for groups and tour series looking for a pool hotel between Calangute and Anjuna.
@@ -285,6 +291,7 @@ Regal Sands Hotel is an 80-room property run by Welcom2Goa in Naikawaddo, on the
 **Check-in / out:** — / —  
 **Ratings:** Google — · 6.0-6.8/10 Hotels.com (varies by regional site)  
 **Website:** —  
+**Photos:** 0 in images/shalom-indus-residency-candolim/ (none yet)  
 **Phone:** —  
 
 Shalom Indus Residency is a small 11-room guesthouse-style hotel in Bamon Vaddo, Candolim, about a 12-minute walk from Candolim Beach. Rooms are compact, air-conditioned and offered in Deluxe, Premium and Family categories, and the property has a pool, a restaurant and bar, and free Wi-Fi. It is a budget-friendly option for travellers who want to be near Candolim's cafes and a short drive from Fort Aguada.
@@ -320,6 +327,7 @@ Shalom Indus Residency is a small 11-room guesthouse-style hotel in Bamon Vaddo,
 **Check-in / out:** — / —  
 **Ratings:** Google — · —  
 **Website:** https://www.airabeachresort.com/  
+**Photos:** 0 in images/aira-beach-resort-calangute/ (none yet)  
 **Phone:** +91 93199 56598  
 
 Aira Beach Resort is a newer property in Gauravaddo, central Calangute, positioned close to the beach, cafes and nightlife of North Goa. Accommodation ranges from Deluxe rooms with balconies to Suites with bathtubs and Penthouse Suites with private jacuzzis and partial sea views. Facilities include a large swimming pool, a gym, a games zone, a conference hall and an air-conditioned multi-cuisine restaurant.
@@ -355,6 +363,7 @@ Aira Beach Resort is a newer property in Gauravaddo, central Calangute, position
 **Check-in / out:** 14:00 (early check-in from 13:00 subject to availability) / 12:00  
 **Ratings:** Google — · 10/10 Hotels.com (very few reviews); 4.3/6 on a European tour-operator site (70% good/very good)  
 **Website:** http://www.victorexoticagoa.com  
+**Photos:** 0 in images/victor-exotica/ (none yet)  
 **Phone:** +91 832 247 9515  
 
 Victor Exotica is a refurbished 78-room resort on Fort Aguada Road in Candolim, roughly 500-800 m from Candolim Beach. It offers Deluxe rooms plus one-bedroom and duplex apartments for families, all with balconies and minibars, set around an outdoor pool and garden. The Mouraria restaurant serves buffet meals, and guests can also use the spa, gym and indoor games, with water sports arranged nearby.
@@ -391,6 +400,7 @@ Victor Exotica is a refurbished 78-room resort on Fort Aguada Road in Candolim, 
 **Check-in / out:** 14:00 (late check-in subject to availability) / —  
 **Ratings:** Google — · 6.0/10 Hotels.com / Expedia group  
 **Website:** —  
+**Photos:** 0 in images/baga-bliss/ (none yet)  
 **Phone:** —  
 
 Baga Bliss is a 21-room hotel in Khobra Vaddo, on the Calangute side of the Baga road, about a 15-minute walk from both Baga and Calangute beaches. Rooms were renovated in 2023 and come in Deluxe and Premium double categories with air conditioning, flat-screen TVs and kettles. The property has an outdoor pool, an on-site restaurant and free parking, and sits close to Tito's Lane and Casino Palms.
@@ -426,6 +436,7 @@ Baga Bliss is a 21-room hotel in Khobra Vaddo, on the Calangute side of the Baga
 **Check-in / out:** — / —  
 **Ratings:** Google — · —  
 **Website:** https://www.royalorchidhotels.com/  
+**Photos:** 0 in images/regenta-place-mars/ (none yet)  
 **Phone:** +91 89561 22310  
 
 Regenta Place M.A.R.S. Candolim is a 36-room hotel opened in December 2025 by Royal Orchid Hotels under its value-focused Regenta Place brand, about 1 km from Candolim Beach and 2.7 km from Calangute Beach. Every room has a balcony, air conditioning, LCD TV and mini-bar fridge, across Standard, Club, Deluxe and Family categories. The rooftop hosts an infinity pool, the open-air Limelight multi-cuisine restaurant and the Seasons Hall for small events.
@@ -462,6 +473,7 @@ Regenta Place M.A.R.S. Candolim is a 36-room hotel opened in December 2025 by Ro
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · —  
 **Website:** https://www.stonewoodresorts.com/sibaya-courtyard-premium-baga/  
+**Photos:** 0 in images/sibaya-courtyard/ (none yet)  
 **Phone:** +91 80101 24124  
 
 Sibaya Courtyard by Stone Wood Premier is a newly opened 40-room courtyard hotel in Khobra Vaddo, Baga, part of the Goa-based Stone Wood Hotels & Resorts group. Every room has a private balcony, and the property offers a swimming pool, restaurant and free parking within easy reach of Baga Beach, Calangute Beach and the Tito's Lane nightlife strip.
@@ -497,6 +509,7 @@ Sibaya Courtyard by Stone Wood Premier is a newly opened 40-room courtyard hotel
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · 3/5 Tripadvisor (304 reviews); 6.8/10 Expedia  
 **Website:** https://www.joiadomar.com  
+**Photos:** 0 in images/calux-joia-do-mar-calangute/ (none yet)  
 **Phone:** +91 98236 22244  
 
 Calux Joia Do Mar Resort is a 40-room resort on the Calangute-Arpora Road in Porba Vaddo, a short drive from both Calangute and Baga beaches. The property is built around an outdoor pool with a swim-up bar and offers two restaurants, balcony rooms and free parking.
@@ -533,6 +546,7 @@ Calux Joia Do Mar Resort is a 40-room resort on the Calangute-Arpora Road in Por
 **Check-in / out:** 1:00 PM / 11:30 AM  
 **Ratings:** Google — · 4/5 Tripadvisor (827 reviews); 7.3/10 Booking.com (84 reviews)  
 **Website:** https://www.adamohotels.com/adamothebellus-goa/  
+**Photos:** 0 in images/adamo-the-bellus/ (none yet)  
 **Phone:** +91 832 227 5334  
 
 Adamo The Bellus Goa is a 4-star hotel in Naika Vaddo, Calangute, set in tropical gardens within walking distance of Calangute Beach and market. It offers over 100 rooms and suites, an outdoor pool, the Clove restaurant and bar, La Soin Spa, a gym and banquet facilities, making it suitable for both leisure stays and events.
@@ -569,6 +583,7 @@ Adamo The Bellus Goa is a 4-star hotel in Naika Vaddo, Calangute, set in tropica
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · 4/5 Tripadvisor (25 reviews); 7.8/10 Trip.com (85 reviews); 5.6/10 Expedia  
 **Website:** https://bellsbeachresort.com/  
+**Photos:** 0 in images/bells-beach-resort/ (none yet)  
 **Phone:** +91 77097 55001  
 
 Bells Beach Resort, run by Resort De Balneaire, sits in Porba Vaddo between Calangute and Baga, roughly a 15-minute walk from either beach. The resort offers 61 air-conditioned rooms, an outdoor pool with a children's section, a restaurant and bar, a gym and a complimentary daily manager's reception.
@@ -604,6 +619,7 @@ Bells Beach Resort, run by Resort De Balneaire, sits in Porba Vaddo between Cala
 **Check-in / out:** 1:00 PM / 11:00 AM  
 **Ratings:** Google — · 4/5 Tripadvisor (383 reviews); 8.9/10 Lastminute.com (336 reviews)  
 **Website:** https://www.grandeurdesanchi.com  
+**Photos:** 0 in images/grandure-de-sachi/ (none yet)  
 **Phone:** +91 90110 00243  
 
 Grandeur De Sanchi is a 4-star boutique resort on Holiday Street in Gaurawaddo, a short walk from Calangute Beach. It offers themed rooms ranging from deluxe to jacuzzi suites, an outdoor pool with poolside bar, two restaurants, La Bella Spa, a rooftop terrace and a free beach shuttle.
@@ -638,6 +654,7 @@ Grandeur De Sanchi is a 4-star boutique resort on Holiday Street in Gaurawaddo, 
 **Check-in / out:** 2:00 PM / 12:00 PM  
 **Ratings:** Google — · 4/5 Tripadvisor (65 reviews); 8.8/10 Expedia  
 **Website:** https://veranohotelgoa.com/  
+**Photos:** 0 in images/verano-hotel-spa/ (none yet)  
 **Phone:** —  
 
 Verano Hotel & Spa is a boutique lifestyle hotel on the Calangute-Mapusa Road in Nagoa, Arpora, set among tropical gardens a short drive from Baga and Calangute beaches. The 59-room property has a year-round outdoor pool with a kids' section, a spa, a restaurant and pool bar, a children's play area and free parking.
@@ -674,6 +691,7 @@ Verano Hotel & Spa is a boutique lifestyle hotel on the Calangute-Mapusa Road in
 **Check-in / out:** 12:00 PM / 11:00 AM  
 **Ratings:** Google — · 7.9/10 Booking.com  
 **Website:** https://sairajbeachresortgoa.com/  
+**Photos:** 0 in images/sairaj-beach-resort/ (none yet)  
 **Phone:** +91 832 295 5566  
 
 Sairaj Beach Resort is a 72-room resort in Naikawaddo, Calangute, about a kilometre from Calangute Beach and a few minutes' drive from Baga. Its bright yellow buildings surround an outdoor pool, and the property offers the La Savour multi-cuisine restaurant, a coffee shop, spa and beauty parlour, and a rooftop terrace.
@@ -709,6 +727,7 @@ Sairaj Beach Resort is a 72-room resort in Naikawaddo, Calangute, about a kilome
 **Check-in / out:** 1:00 PM / 11:00 AM  
 **Ratings:** Google — · 3.6/5 Tripadvisor (243 reviews); 7.2/10 Booking.com (15 reviews)  
 **Website:** https://www.sukhmantra.com  
+**Photos:** 0 in images/sukhmantra-resort/ (none yet)  
 **Phone:** +91 86000 40091  
 
 Sukhmantra Resort & Spa is a boutique resort in Baman Vaddo, Candolim, on the Calangute-Fort Aguada road a short walk from Candolim Beach. The 60-room property features an outdoor pool with pool bar, a rooftop multi-cuisine restaurant and bar, an Ayurvedic spa, a fitness centre and conference facilities, with a free shuttle to the beach.
@@ -745,6 +764,7 @@ Sukhmantra Resort & Spa is a boutique resort in Baman Vaddo, Candolim, on the Ca
 **Check-in / out:** 1:30 PM / 11:00 AM  
 **Ratings:** Google — · 7.8/10 Trip.com (84 reviews); 7.0/10 Booking.com (13 reviews)  
 **Website:** https://www.vagatordowntown.com  
+**Photos:** 0 in images/vagator-downtown/ (none yet)  
 **Phone:** +91 79977 19009  
 
 Vagator Downtown by VDP is a hotel opened in 2022 on the main Anjuna-Vagator road near the Bharat petrol pump, within a short drive of Anjuna and Vagator beaches. Its rooftop pool with swim-up bar and valley views is the centrepiece, supported by a rooftop restaurant, two bars, balcony rooms, free parking and shuttle services.
@@ -782,6 +802,7 @@ Vagator Downtown by VDP is a hotel opened in 2022 on the main Anjuna-Vagator roa
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · —  
 **Website:** —  
+**Photos:** 0 in images/casa-pearl/ (none yet)  
 **Phone:** —  
 
 Casa Pearl by WS is a 32-room, 4-star hotel in Porba Waddo, Calangute, about 1.6 km from both Calangute and Baga beaches. All rooms are in the Super Deluxe category, and the property has a swimming pool, a restaurant and a banquet hall, with an elevator and 24-hour front desk.
@@ -819,6 +840,7 @@ Casa Pearl by WS is a 32-room, 4-star hotel in Porba Waddo, Calangute, about 1.6
 **Check-in / out:** 3:00 PM / —  
 **Ratings:** Google — · 9.0/10 Hotels.com; 8.6/10 Trip.com  
 **Website:** https://sinq.in/sinq-symbol-calangute/  
+**Photos:** 0 in images/sinq-symbol-calangute/ (none yet)  
 **Phone:** +91 98810 98030 (toll-free 1800 212 3578)  
 
 SinQ Symbol is a 104-room hotel in Naika Vaddo, Calangute, about 800 m from Calangute Beach and a short walk from Calangute Market. It offers a rooftop infinity pool, three restaurants and a bar, with room categories ranging from Classic Doubles to Signature and Royal Suites.
@@ -856,6 +878,7 @@ SinQ Symbol is a 104-room hotel in Naika Vaddo, Calangute, about 800 m from Cala
 **Check-in / out:** 2:00 PM / 12:00 PM  
 **Ratings:** Google — · 8.0/10 Expedia; 7.0/10 Booking.com; 3.7/5 Tripadvisor (213 reviews)  
 **Website:** https://sinq.in/  
+**Photos:** 0 in images/sinq-party-hotel-candolim/ (none yet)  
 **Phone:** +91 832 247 9444  
 
 SinQ Party Hotel is a 32-room hotel opposite Taj Holiday Village in Sinquerim, Candolim, a few minutes' walk from Candolim and Sinquerim beaches. Marketed as India's first party hotel, it has an outdoor pool with cabanas, two bars, a restaurant and an on-site nightclub.
@@ -894,6 +917,7 @@ SinQ Party Hotel is a 32-room hotel opposite Taj Holiday Village in Sinquerim, C
 **Check-in / out:** 1:00 PM to 7:00 PM / 9:00 AM to 11:00 AM  
 **Ratings:** Google — · 9.2/10 Booking.com; 7.8/10 Trip.com (107 reviews); 3.7/5 Tripadvisor (32 reviews)  
 **Website:** https://sinq.in/our-hotels/sinq-prive/  
+**Photos:** 0 in images/sinq-prive-candolim/ (none yet)  
 **Phone:** —  
 
 SinQ Privé is a 4-star boutique hotel on Aguada Road in Sinquerim, Candolim, a short walk from Candolim Beach and about 1.5 km from Fort Aguada. Its signature feature is a rooftop infinity pool with jacuzzis and a bar, complemented by the Soi restaurant, a gym and individually furnished rooms and suites.
@@ -932,6 +956,7 @@ SinQ Privé is a 4-star boutique hotel on Aguada Road in Sinquerim, Candolim, a 
 **Check-in / out:** — / —  
 **Ratings:** Google 4.6 (104 reviews) · 5/5 Tripadvisor (very few reviews)  
 **Website:** https://sinq.in/our-hotels/sinq-anvaya/  
+**Photos:** 0 in images/sinq-anvaya-assonora-bicholim/ (none yet)  
 **Phone:** —  
 
 SinQ Anvaya is a small nature retreat of ten lake-facing thatched-roof cottages in Advalpal, Assonora, in the Bicholim hinterland of North Goa. Each cottage has a private plunge pool and deck, and the property offers a shared outdoor pool, restaurant, bar and complimentary bicycles, with Mayem Lake about a 15-minute drive away.
@@ -966,6 +991,7 @@ SinQ Anvaya is a small nature retreat of ten lake-facing thatched-roof cottages 
 **Check-in / out:** 12:00 PM / 11:00 AM  
 **Ratings:** Google — · 4.2/5 Justdial (2,563 ratings); 3.8/5 MakeMyTrip (141 ratings); 3/5 Tripadvisor (29 reviews)  
 **Website:** —  
+**Photos:** 0 in images/silver-shell-grand/ (none yet)  
 **Phone:** —  
 
 Silver Shell Resort is a 41-room property in Porba Vaddo, central Calangute, opposite the Hard Rock Hotel and about 1 km from Calangute Beach and 200 m from Calangute Market. Opened in 2018, it is known for a large swimming pool with a pool-side bar, a multi-cuisine restaurant and four room categories from Classic to Family rooms.
@@ -1003,6 +1029,7 @@ Silver Shell Resort is a 41-room property in Porba Vaddo, central Calangute, opp
 **Check-in / out:** 2:00 PM / —  
 **Ratings:** Google — · 4.8/5 Tripadvisor (130 reviews, 2026 Travellers' Choice); 9.0/10 Expedia  
 **Website:** https://holitelhotels.com/holitel-anjuna/  
+**Photos:** 0 in images/holitel-anjuna/ (none yet)  
 **Phone:** +91 832 6620600 / 01 (reservations +91 89565 48432)  
 
 Holitel Anjuna Goa is a 42-room contemporary hotel opened in February 2024 in the Arpora-Anjuna belt, about a 10-minute drive from Anjuna Beach and 3.7 km from Baga. It features bohemian-inspired suites, some with private plunge pools, an outdoor pool with pool bar, a rooftop terrace, a spa and a restaurant serving Goan, Indian and international dishes.
@@ -1038,6 +1065,7 @@ Holitel Anjuna Goa is a 42-room contemporary hotel opened in February 2024 in th
 **Check-in / out:** — / —  
 **Ratings:** Google — · —  
 **Website:** https://holitelhotels.com/  
+**Photos:** 0 in images/holitel-calangute/ (none yet)  
 **Phone:** +91 832 6620600 / 01 (reservations +91 89565 48432, front desk +91 89565 48431)  
 
 Holitel Calangute is the second property of Holitel Hotels, a Goa brand launched in 2024, located in the Calangute-Baga belt of North Goa. It is positioned for group travel and events, with premium rooms and two banquet venues that can each host more than 200 guests for weddings and corporate gatherings.
@@ -1070,6 +1098,7 @@ Holitel Calangute is the second property of Holitel Hotels, a Goa brand launched
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · 3.7/5 MakeMyTrip (1,554 ratings); 4.8/5 EaseMyTrip (112 reviews); 8.5/10 Priceline (10 reviews)  
 **Website:** https://simshineshotels.com/  
+**Photos:** 0 in images/simshines-candolim/ (none yet)  
 **Phone:** +91 89564 53900  
 
 Simshines Hotels, Villas, Suites & Spa is a resort in Sequeira Vaddo, Candolim, about 800 m from Candolim Beach. It combines hotel rooms and one-bedroom suites with balconies and private pool villas featuring rooftop barbecue decks and in-room jacuzzis, supported by a spa, gym, swimming pools and an on-site restaurant.
@@ -1105,6 +1134,7 @@ Simshines Hotels, Villas, Suites & Spa is a resort in Sequeira Vaddo, Candolim, 
 **Check-in / out:** — / —  
 **Ratings:** Google — · 9.4/10 Trip.com (41 reviews)  
 **Website:** https://www.lacabana.in/  
+**Photos:** 0 in images/la-cabana-beach-spa/ (none yet)  
 **Phone:** +91 83089 61900 / +91 98228 35550  
 
 La Cabana Beach & Spa sits directly on Ashwem Beach in Mandrem, North Goa, with the Arabian Sea at its doorstep. The resort offers wooden cottages, beach-facing chalets and villas set around an outdoor pool, together with an Ayurvedic spa and a beachfront restaurant. Its quiet stretch of coast is a short drive from Morjim and Arambol beaches.
@@ -1141,6 +1171,7 @@ La Cabana Beach & Spa sits directly on Ashwem Beach in Mandrem, North Goa, with 
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · —  
 **Website:** https://www.stonewoodresorts.com/sibaya-beach-resort-morjim/  
+**Photos:** 0 in images/sibaya-beach-resort-by-stonewood/ (none yet)  
 **Phone:** +91 91120 01581 (front office); +91 80101 24124 (central reservations)  
 
 Sibaya Beach Resort by Stone Wood is set on the quiet sands of Morjim Beach, the turtle-nesting stretch of North Goa's coast. Its 42 cottages and suites surround a swimming pool, with an in-house restaurant, an Ayurvedic spa and the Saz on the Beach sunset club. The resort suits travellers who want a calm beach base within easy reach of Ashvem, Mandrem and the busier Baga and Anjuna scene.
@@ -1179,6 +1210,7 @@ Sibaya Beach Resort by Stone Wood is set on the quiet sands of Morjim Beach, the
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · 7.8/10 Expedia/Hotels.com (also shown as 8.0/10 'Very good' on Hotels.com)  
 **Website:** http://www.dallasbeachresort.com/  
+**Photos:** 0 in images/dallas-beach-resort-morjim/ (none yet)  
 **Phone:** +91 77699 88093  
 
 Dallas Beach Resort stands on Ashwem Beach at the Morjim end of North Goa's quiet northern coast, with sea views, palms and direct access to the sand. The resort offers deluxe rooms, sea-view cottages and private villas alongside indoor and outdoor pools, a spa and two restaurants. It is a practical base for exploring Morjim, Ashvem, Mandrem and Arambol.
@@ -1214,6 +1246,7 @@ Dallas Beach Resort stands on Ashwem Beach at the Morjim end of North Goa's quie
 **Check-in / out:** — / —  
 **Ratings:** Google — · 8.3/10 Booking.com (169 reviews); 4/5 TripAdvisor (233 reviews, ranked #1 of 69 B&Bs/inns in Morjim)  
 **Website:** https://www.stonewoodresorts.com/aralea-beach-resort-morjim  
+**Photos:** 0 in images/aralia-beach-resort-morjim/ (none yet)  
 **Phone:** +91 91120 07594 (hotel); +91 80101 24124 (central reservations)  
 
 Aralea Beach Resort by Stone Wood Premier is a garden-style resort a minute's walk from Ashvem Beach on the Morjim coast. Its 69 rooms and cottages look onto lawns or the outdoor pool, and the resort runs its own 'Here & Now' beach shack directly on the sand. With a banquet hall and multi-cuisine restaurant, it is popular for beach weddings as well as leisure stays.
@@ -1251,6 +1284,7 @@ Aralea Beach Resort by Stone Wood Premier is a garden-style resort a minute's wa
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · 3/5 TripAdvisor (61 reviews); 7.8/10 Trip.com (40 reviews); 3.3/5 Goibibo  
 **Website:** https://amararesorts.in/oceanfront-club-resort-in-goa  
+**Photos:** 0 in images/amara-oceanfront/ (none yet)  
 **Phone:** +91 96151 59494  
 
 Amara Oceanfront Resort & Club is a compact 28-room resort on Tito's Lane 2, right beside Baga Beach in the heart of North Goa's nightlife district. Rooms range from premium doubles to family and honeymoon suites, and the property has an indoor pool, a multi-cuisine restaurant with ocean views, a bar and its own nightclub. It suits guests who want the beach and Baga's clubs within walking distance.
@@ -1290,6 +1324,7 @@ Amara Oceanfront Resort & Club is a compact 28-room resort on Tito's Lane 2, rig
 **Check-in / out:** 2:00 PM / 11:00 AM  
 **Ratings:** Google — · 3.0/5 TripAdvisor (4 reviews, ranked #57 of 70 B&Bs/inns in Baga)  
 **Website:** https://surfhousebaga.in/  
+**Photos:** 0 in images/surf-house-beach-resort-baga/ (none yet)  
 **Phone:** +91 89568 88392 / +91 94595 91111  
 
 Surf House Beach Resort is a surf-themed beach club and resort that opened in 2025 directly on Baga Beach, next to the Bacardi Shack and a short walk from Tito's Lane. Its 27 rooms include cottages and sea-view premium doubles arranged around an outdoor pool, with a restaurant, bar and beach shack on site. The resort offers surfing lessons for beginners and experienced surfers in the Arabian Sea.
@@ -1326,6 +1361,7 @@ Surf House Beach Resort is a surf-themed beach club and resort that opened in 20
 **Check-in / out:** — / —  
 **Ratings:** Google 4.1 (1401 reviews) · 3/5 TripAdvisor (85 reviews); 7.7/10 Hotels.com (115 reviews)  
 **Website:** https://sinq.in/  
+**Photos:** 0 in images/sinq-beach-morjim/ (none yet)  
 **Phone:** +91 832 227 6922 (hotel); 1800 212 3578 (SinQ Hospitality)  
 
 SinQ Beach Morjim is a 30-room beachfront property from SinQ Hospitality, set directly on Morjim Beach with views over the Arabian Sea. Cottages and suites, several with sea-facing balconies fitted with bathtubs or jacuzzis, sit beside a pool and the brand's beachfront restaurant and nightclub, where sundowners build into evening music. It is around 18 km from Mopa airport and a short drive from Ashvem and Mandrem beaches.

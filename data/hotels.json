@@ -129,6 +129,13 @@
         "https://cvent.com/venues/sv-SE/goa/resort/delta-residency/venue-b0dc99d5-b38f-42ea-9549-4f8968eabb24",
         "https://spalba.com/properties/delta-residency-5537"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Hotel+Delta+Residency+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=151%2F20%2C+Gauro+Vaddo%2C+Beach+Road%2C+Near+St.+Anthony%27s+Chapel%2C+Calangute%2C+Bardez%2C+Goa+403516%2C+India"
+      },
       "research_confidence": "medium",
       "research_notes": "Room count conflicts between sources: most OTA listings say 25 rooms (Standard/Superior); an events-venue listing (Cvent) says 40 rooms. Check-in/out times differ slightly across OTAs. No official website found; OTA pages could not be opened directly (proxy-blocked), so data comes from search summaries of those pages."
     },
@@ -220,6 +227,13 @@
         "https://airshop.gr/en/hotel/India/Casa-Baga/33533",
         "https://www.aaa.com/tripcanvas/hotel/amara-casa-baga-AA181632"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Amara+Casa+Baga+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=40%2F7+Saunta+Vaddo%2C+Baga%2C+Bardez%2C+Goa+403509%2C+India"
+      },
       "research_confidence": "medium",
       "research_notes": "OTAs classify it as 3.5-star; listed here as 3 per the agency's category. Dabolim distance conflicts between sources (50 km vs 21.3 km) so left null. The Amara Resorts group (amararesorts.in) runs several Baga properties (Amara Grand Baga, Amara Baga Villa, Amara Oceanfront) - do not confuse with those; this listing is the Saunta Vaddo property. amararesorts.in could not be opened to confirm ownership."
     },
@@ -315,6 +329,13 @@
         "https://www.travelocity.com/Calangute-Hotels-SinQ-Beach-Resort.h3830488.Hotel-Reviews",
         "https://www.oyster.com/india/hotels/sinq-beach-resort/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://sinq.in/sinq-beach-resort-calangute",
+        "google_images": "https://www.google.com/search?tbm=isch&q=SinQ+Beach+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Tivai+Vaddo%2C+Opposite+Don+Bosco+Hostel%2C+Calangute%2C+Bardez%2C+Goa+403516%2C+India"
+      },
       "research_confidence": "high",
       "research_notes": "Room count differs by source: Hotels.com says 66 rooms over 4 floors; trade directories say 47. OTAs rate it 3.5-star. Some guest reviews mention confusion over access to the sister SinQ Privee club facilities. Official website URL taken from a trade directory listing and not opened directly."
     },
@@ -409,6 +430,13 @@
         "https://www.oyorooms.com/49880/",
         "https://www.trip.com/hot/hotel-map/silver-shell-map.html"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Silver+Shell+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Plot+369+%28also+listed+as+H.No.+4%2F806%29%2C+Porba+Vaddo%2C+Opposite+Hard+Rock+Hotel%2C+Behind+KFC%2C+Calangute%2C+Bardez%2C+Goa+403516%2C+India"
+      },
       "research_confidence": "medium",
       "research_notes": "Property has been franchised under both OYO (Capital O 28820) and FabHotel Prime brands, so OTA names vary. Two slightly different house numbers appear for the same Porba Vaddo location. No direct hotel phone or official website found (only the OYO booking line). No reliable guest rating found."
     },
@@ -503,6 +531,13 @@
         "https://www.kayak.com/Candolim-Hotels-Goveia-Holiday-Homes.397615.ksp",
         "https://www.travelweekly-asia.com/Hotels/Goa-India/Goveia-Holiday-Homes-p8600352"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://goveiaresort.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Goveia+Grand+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Near+Aradi+Sub+Station%2C+Lane+opposite+Cafe+Coffee+Day%2C+Candolim%2C+Bardez%2C+Goa+403515%2C+India"
+      },
       "research_confidence": "low",
       "research_notes": "Two very similarly named properties exist in the same lane in Candolim: 'Goveia Grand Resort' (approx. 50 rooms; phones +91 93261 12995 / +91 91585 84444 / +91 85509 91724) and 'Goveia Holiday Homes / Goveia Holiday Resort' (60-67 rooms; phone +91 77680 70202; also listed as OYO 1254 and GT Goveia Suites). They may be the same property under a rebrand or adjacent sister properties. Star rating varies by source (2 to 4 stars). Check-in/out, rating and restaurant name shown are from the Goveia Holiday Resort listings and may not apply to Goveia Grand. Official site goveiaresort.com could not be opened to confirm."
     },
@@ -582,6 +617,13 @@
         "https://m.ctrip.com/html5/hotel/hoteldetail/107613479.html",
         "https://us.trip.com/hotels/saligao-hotel-detail-107613479/regal-sands-hotel/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Regal+Sands+Hotel+-+Calangute+Goa%2C+by+Welcom2Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Naikawaddo%2C+near+Calangute-Anjuna+Road%2C+near+Dharwadkar+Hospital%2C+Dongorpur%2C+Calangute%2C+Goa+403516%2C+India"
+      },
       "research_confidence": "medium",
       "research_notes": "No hotel named exactly 'Regalsand' exists online; the closest match is 'Regal Sands Hotel - Calangute Goa, by Welcom2Goa', which matches the 'By Welcome Goa' suffix. Trip.com appears to list the same property ID under the name 'The Mayfield Boutique Hotel', suggesting a possible rebrand. Room types and detailed amenity list not found; star rating not confirmed by any source. Welcom2Goa website could not be resolved."
     },
@@ -672,6 +714,13 @@
         "https://www.travelocity.com/Candolim-Hotels-Fabhotel-Shalom-Indus-Residency.h113015591.Hotel-Information",
         "https://ostrovok.ru/hotel/india/nerul/mid9896024/shalom_indus_residency/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Shalom+Indus+Residency+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=1%2C+Bamon+Vaddo%2C+Candolim%2C+Bardez%2C+Goa+403515%2C+India"
+      },
       "research_confidence": "medium",
       "research_notes": "Operates under the FabHotel franchise on OTAs. No phone number, official website, check-in times or Google rating found. Distance to beach is stated inconsistently (12-minute walk vs 15-minute drive) across OTA text."
     },
@@ -754,6 +803,13 @@
         "https://www.airabeachresort.com/",
         "https://airabeachresort.com/booking.html"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.airabeachresort.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Aira+Beach+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=H.No.+E-1%2F218%2C+Gauravaddo%2C+Calangute%2C+Bardez%2C+Goa+403516%2C+India"
+      },
       "research_confidence": "low",
       "research_notes": "Only the official website was found; no OTA listing, review score, room count, star rating, check-in times or distance data could be located, and the site itself could not be opened directly (proxy-blocked), so details come from search snippets of it. Do not confuse with 'Aria Beach' in Vagator, a different property. The website lists the email as reservations@aira.com, which looks generic and should be verified."
     },
@@ -850,6 +906,13 @@
         "https://in.via.com/hotels/victor-exotica-beach-resort-21787",
         "https://bulgaria-italia.com/hotel/id/06897.asp"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "http://www.victorexoticagoa.com",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Victor+Exotica+Beach+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Fort+Aguada+Road%2C+Bammon+Vaddo%2C+Candolim%2C+Bardez%2C+Goa+403516%2C+India"
+      },
       "research_confidence": "medium",
       "research_notes": "OTAs now list the property as 'Victor Exotica an Indy Resort' (Expedia URL slug 'Indy Suites Candolim'), indicating a management change/rebrand. The hotel's own marketing describes it as four-star; OTAs list 3-star. The official domain victorexoticagoa.com did not resolve when tested and may be defunct. The 10/10 Hotels.com score is based on very few reviews and should not be quoted as representative."
     },
@@ -941,6 +1004,13 @@
         "https://ae.hotels.com/es/ho3207540768/skon-baga-bliss-hotel-by-orion-hotels-calangute-india",
         "https://www.espanol.skyscanner.com/hoteles/india/calangute-hoteles/skon-baga-bliss-hotel-by-orion-hotels/ht-216953460"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Baga+Bliss+by+Celestiial+Hospitality+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=SY+No.+194%2F7%2C+Pocket+5-B%2C+Ground+Floor%2C+Khobra+Vaddo%2C+Calangute%2C+Bardez%2C+Goa+403516%2C+India"
+      },
       "research_confidence": "medium",
       "research_notes": "Property has changed operator/brand at least once (Skon ... by Orion Hotels, now Baga Bliss by Celestiial Hospitality). No phone number, official website, Google rating or check-out time found. Dabolim Airport is quoted only as a 62-minute drive, not in km."
     },
@@ -1032,6 +1102,13 @@
         "https://www.easemytrip.com/hotels/regenta-place-mars-candolim-goa-9611781/",
         "https://bag2bag.in/hotels-stay/goa/candolim/regenta-place-mars-candolim"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.royalorchidhotels.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Regenta+Place+M.A.R.S.+Candolim+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=D%2C+Ximer%2C+H.No.+1168%2C+Near+Jamaleshwar+Temple%2C+Gauravaddo%2C+Candolim%2C+Bardez%2C+Goa+403515%2C+India"
+      },
       "research_confidence": "high",
       "research_notes": "Opened December 2025 (press release dated 8 Dec 2025), so guest ratings are not yet established; a TripAdvisor listing exists but its score was not retrievable. Second phone from the press release: +91 89561 22314; GM email gm.rpmc@royalorchidhotels.com. Royal Orchid describes it as '3-star deluxe'. Do not confuse with Regenta Central Imperial Candolim or Regenta Central North Goa (Arpora), other Royal Orchid properties nearby."
     },
@@ -1123,6 +1200,13 @@
         "https://distancebetween2.com/baga_beach/dabolim_airport",
         "https://distancebetween2.com/baga_beach/thivim_railway_station"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.stonewoodresorts.com/sibaya-courtyard-premium-baga/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Sibaya+Courtyard+by+Stone+Wood+Premier+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=H.+No.+236%2F10+B%2C+Khobra+Vaddo%2C+Baga%2C+Bardez%2C+North+Goa+403515"
+      },
       "research_confidence": "medium",
       "research_notes": "Very new property (press coverage dated Sept 2026), so no guest reviews or Google rating were found yet. Name appears as both 'Premier' and 'Premium' across sources. Do not confuse with Sibaya Beach Resort in Morjim (same operator) or Sibaya Lodge in South Africa. Airport/station distances are locality-level figures for Baga Beach, not hotel-measured. Star rating is from the Agoda listing; the official site could not be fetched to confirm amenities beyond pool, restaurant and parking."
     },
@@ -1219,6 +1303,13 @@
         "https://www.rome2rio.com/s/Goa-Mopa-Airport-GOX/ULTIMATE-STAY-Calangute",
         "https://distancebetween2.com/thivim_railway_station/calangute"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.joiadomar.com",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Calux+Joia+Do+Mar+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Porba+Vaddo%2C+Calangute-Arpora+Road%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "medium",
       "research_notes": "OTAs classify this as a 3-star property, not 4-star. Guest reviews are mixed (Tripadvisor 3/5). Airport and station distances are Calangute locality figures; one OTA quoted 20.3 km to Dabolim which appears to be straight-line. Official site could not be fetched to confirm room categories."
     },
@@ -1321,6 +1412,13 @@
         "https://cvent.com/venues/goa/hotel/adamo-the-bellus/venue-22af06cb-f830-4016-bb5e-63ee6f6ad369",
         "https://www.kayak.com/Calangute-Hotels-Adamo-The-Bellus.408570.ksp"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.adamohotels.com/adamothebellus-goa/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Adamo+The+Bellus+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Naika+Vaddo%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "high",
       "research_notes": "Located in Calangute (Naika Vaddo), not Candolim. Room count varies by source: 117 (meeting-venue listings), 112 (Yatra) and 88 (Expedia); 117 used. Check-out time shown as 11:30 AM on Booking.com and 11:00 AM elsewhere. A toll-free number 1800-102-3266 is also listed."
     },
@@ -1417,6 +1515,13 @@
         "https://bellsbeachresort.com/",
         "https://www.readytotrip.com/hotels/India/West%20Zone/Goa/North%20Goa/Calangute/bells-beach-resort-a-unit-of-resort-de-balneaire/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://bellsbeachresort.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Bells+Beach+Resort%2C+A+Unit+of+Resort+De+Balneaire+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Survey+No.+193%2F3%2C+Porba+Vaddo%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "medium",
       "research_notes": "Star rating conflicts: Expedia lists 3.5-star, Booking.com/ReadyToTrip list 4-star. Room count 61 (Expedia) vs 56 (Tripadvisor). Guest scores vary widely across platforms (5.6 to 7.8/10), with some reviews citing dated maintenance. Also trades as Resort De Balneaire (www.resortdebalneaire.com, additional phones 7709755003 / 0832-2950080). Mopa and Thivim distances are Calangute locality figures."
     },
@@ -1516,6 +1621,13 @@
         "https://www.lastminute.com/hotels/india/calangute/grandeur-de-sanchi_hid-1694630",
         "https://nz.hotels.com/ho513669/grandeur-de-sanchi-calangute-india"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.grandeurdesanchi.com",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Grandeur+De+Sanchi+-+Luxury+Beach+Resort+%26+Spa+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=1%2F230-A%2C+Holiday+Street%2C+Gaurawaddo%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "medium",
       "research_notes": "Name in brief is misspelled; correct spelling is 'Grandeur De Sanchi'. Room count conflicts: 70 (Expedia/Hotels.com) vs 48 (meeting-venue listings). Official domain grandeurdesanchi.com did not resolve during research, so the website may be offline. A separately listed 'Grandeur Sanchi Resort' on Expedia appears to be a duplicate listing with lower scores (6.6-7.6/10). Mopa and Thivim distances are Calangute locality figures."
     },
@@ -1612,6 +1724,13 @@
         "https://veranohotelgoa.com/",
         "https://www.skyscanner.co.in/hotels/india/goa-hotels/verano-hotel-&-spa-arpora-goa/ht-224787393"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://veranohotelgoa.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Verano+Hotel+%26+Spa+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=80%2F1%2C+Calangute-Mapusa+Road%2C+Fuldem+Waddo%2C+Nagoa%2C+Arpora%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "medium",
       "research_notes": "OTAs and a Tripadvisor review describe this as a 3-star hotel, not 4-star. No public phone number was found in search results and the official site could not be fetched. Hotel is relatively new (reviews from 2025 mention it as recently opened). Mopa distance (14 mi) is from the hotel's OTA listing; Dabolim distance quoted 40-41 km by Trip.com/Skyscanner. Thivim distance not published."
     },
@@ -1708,6 +1827,13 @@
         "https://in.trip.com/hotels/calangute-hotel-detail-58269549/sairaj-beach-resort-calangute-goa/",
         "https://www.goibibo.com/hotels/sairaj-beach-resort-hotel-in-goa-4718381304187436889/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://sairajbeachresortgoa.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Sairaj+Beach+Resort+-+Calangute+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Survey+No.+166%2F13%2C+Naikawaddo%2C+Near+Poriat+Football+Ground%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "medium",
       "research_notes": "Star rating conflicts: Hotels.com/Booking describe it as 4-star accommodation while Expedia lists 3.5-star. Room type names were not confirmed from the official site (could not be fetched); the three listed are generic categories seen on OTAs and should be verified. Additional reservation mobile numbers listed: 7620003252, 9822182817. Mopa distance is a Calangute locality figure."
     },
@@ -1807,6 +1933,13 @@
         "https://www.ashextourism.com/hotelsresorts/Goa/sukhmantra.htm",
         "https://distancebetween2.com/candolim/thivim_railway_station"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.sukhmantra.com",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Sukhmantra+Resort+%26+Spa+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=317%2FC%2C+Baman+Vaddo%2C+Calangute-Fort+Aguada+Road%2C+Candolim%2C+Bardez%2C+Goa+403515"
+      },
       "research_confidence": "medium",
       "research_notes": "Room count conflicts: 60 (Expedia/Spalba) vs 46 or 43 (older tour-operator pages). Guest scores are mixed and vary widely (5.4 to 7.2/10 on OTAs; 3.6/5 Tripadvisor). Thivim distance quoted as 22 km (one source) and 18 km (another). Mopa distance is a Candolim locality figure. Official site could not be fetched."
     },
@@ -1911,6 +2044,13 @@
         "https://en.planetofhotels.com/india/assagao/vagator-downtown",
         "https://www.justdial.com/Goa/Vagator-Downtown-GRAND-CHIVAR-BHARAT-PETROL-PUMP-Anjuna/0832PX832-X832-230429025710-R9G8_BZDET/amp"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.vagatordowntown.com",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Vagator+Downtown+by+VDP+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Plot+No.+412%2F3A%2C+Near+Bharat+Petrol+Pump%2C+Deul+Wada%2C+Anjuna-Vagator%2C+Bardez%2C+Goa+403509"
+      },
       "research_confidence": "medium",
       "research_notes": "Expedia lists it as 3.5-star; some aggregators show 4-star. Room count 52 (Expedia) vs 48 (PlanetOfHotels). Address is given in several variants (some include 'Bliss Samudra' and survey no. 187/14); the hotel sits on the Anjuna-Vagator boundary and one aggregator files it under Assagao. Dabolim distance is a Vagator locality figure; Thivim distance (11 mi) from Booking.com listing. Official site could not be fetched."
     },
@@ -2004,6 +2144,13 @@
         "https://www.adanione.com/india-hotels/casa-pearl-by-ws-calangute-goa-5345676",
         "https://us.lastminute.com/hotels/india/calangute/casa-pearl-by-ws_hid-101646265"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Casa+Pearl+by+WS+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=H.No.+4%2F42+C%2C+Plot+Sy.+No.+363%2F19%2C+Porba+Waddo%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "medium",
       "research_notes": "No hotel named exactly 'Casa Pearl' was found; the closest and most likely match is 'Casa Pearl by WS' in Calangute (4-star on MakeMyTrip/EaseMyTrip). Other 'Pearl' properties in North Goa (Le Pearl Goa Resort & Spa in Anjuna/Vagator, Verda Le Pearl in Candolim, Candolim Pearl villa) are different hotels. No official website, phone or Google rating could be verified; OTA pages could not be opened directly because of network restrictions in this session."
     },
@@ -2100,6 +2247,13 @@
         "https://us.trip.com/hotels/calangute-hotel-detail-132908471/sinq-symbol/",
         "https://www.easemytrip.com/hotels/sinq-symbol-9771958/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://sinq.in/sinq-symbol-calangute/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=SinQ+Symbol+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Sy.+No.+184%2F1%2C+Naika+Vaddo+%28Naika+Waddo%29%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "high",
       "research_notes": "SinQ's official domain is sinq.in (not sinqhotels.com, which does not resolve). The official page title markets SinQ Symbol as a 4-star hotel, while Expedia/Hotels.com classify it as 3-star. Check-in 3 PM comes from a search summary of the official page; check-out time not confirmed. Do not confuse with SinQ Signature, SinQ Beach Resort or SinQ Edge, which are separate SinQ properties in Calangute/Panaji."
     },
@@ -2195,6 +2349,13 @@
         "https://www.justdial.com/Goa/Sinq-Party-Hotel-Opposite-Taj-Holiday-Village-Sinquerim-Candolim/0832PX832-X832-180921224158-H4Y7_BZDET",
         "https://www.hrs.com/en/hotel/740595"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://sinq.in/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=SinQ+Party+Hotel+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Opposite+Taj+Holiday+Village%2C+Sinquerim%2C+Candolim%2C+Bardez%2C+Goa+403515"
+      },
       "research_confidence": "high",
       "research_notes": "OTAs classify this as a 3-star (Expedia 3.5-star) property, not 4-star. The hotel enforces a 'no male stag groups' policy, which should be stated on any listing. Phone number is from PlanetofHotels and should be re-verified before publishing. Dabolim distance varies by source (37-39 km road)."
     },
@@ -2295,6 +2456,13 @@
         "https://en.planetofhotels.com/india/candolim/sinq-prive",
         "https://ca.trip.com/hotels/candolim-hotel-detail-22801004/sinq-prive/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://sinq.in/our-hotels/sinq-prive/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=SinQ+Priv%C3%A9+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Opposite+Taj+Holiday+Village%2C+Aguada+Road%2C+Sinquerim%2C+Candolim%2C+Goa+403515"
+      },
       "research_confidence": "high",
       "research_notes": "Room count differs by source: Expedia/Hotels.com list 41 accommodations, the official sinq.in page says 39 rooms and suites. The official page title markets it as a 5-star 'luxury' hotel, while Expedia lists 4-star. Hotels.com shows a 9.8/10 score but Tripadvisor is 3.7/5, so ratings diverge widely. No direct hotel phone was found (only Orbitz call-centre numbers, which were excluded)."
     },
@@ -2391,6 +2559,13 @@
         "https://www.tripadvisor.com/Hotel_Review-g28159876-d28158747-Reviews-SinQ_Anvaya-Advalpal_North_Goa_District_Goa.html",
         "https://www.google.co.in/travel/hotels/entity/ChoI15LT2fuyyNjSARoNL2cvMTFsZDE1cHZ4YxAB"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://sinq.in/our-hotels/sinq-anvaya/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=SinQ+Anvaya+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Near+Club+Mahindra%2C+Advalpal%2C+Assonora%2C+Bicholim%2C+Goa+403503"
+      },
       "research_confidence": "medium",
       "research_notes": "Not a 4-star hotel in the usual sense: Expedia/Hotels.com classify it as 2.5-star and Tripadvisor lists it as a B&B/inn; the brand markets it as a 'luxury nature resort'. It is inland (Bicholim taluka), not near a beach. Check-in/out times, phone, and airport/station distances were not verified. Google rating (4.6, 104 reviews) came from a search snippet of the Google Hotels listing and should be refreshed."
     },
@@ -2492,6 +2667,13 @@
         "https://www.klook.com/en-IN/hotels/detail/28670-silver-shell-hotel/",
         "https://www.instagram.com/silvershellresortgoa/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": null,
+        "google_images": "https://www.google.com/search?tbm=isch&q=Silver+Shell+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Plot+369+%2F+H.No.+4%2F80%2C+Porba+Vaddo%2C+Opposite+Hard+Rock+Hotel%2C+Behind+KFC%2C+Calangute%2C+Bardez%2C+Goa+403516"
+      },
       "research_confidence": "low",
       "research_notes": "No property named 'Silver Shell Grand' was found on any OTA, Google or social listing. The only Calangute property with this name is 'Silver Shell Resort' / 'Hotel Silver Shell' in Porba Vaddo (opened 2018), which markets itself as 4-star but is classified 3-star by OTAs. It also appears under aggregator brands 'Capital O 28820 Silver Shell Resort' (OYO) and 'FabHotel Prime Silver Shell'. 'Silver Shell Grand' may be a rebrand, a new wing, or a different property; verify with the supplier before publishing. Address appears as Plot 369 on some listings and H.No. 4/80 on others. Phone, website and Google rating not verified."
     },
@@ -2591,6 +2773,13 @@
         "https://in.trip.com/hotels/anjuna-hotel-detail-117491528/holitel-anjuna-goa/",
         "https://www.klook.com/en-US/hotels/detail/1409092-holitel-anjuna-goa/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://holitelhotels.com/holitel-anjuna/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Holitel+Anjuna+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=511%2F3%2C+Anjuna%2C+Bardez%2C+North+Goa+403509"
+      },
       "research_confidence": "high",
       "research_notes": "Expedia classifies it as 3.5-star; the brand positions it as luxury. Official site gives PIN 403509 while Expedia shows 403516. Dabolim distance conflicted across sources (28 km vs ~43 km road) so it is left null. Phone numbers are the Holitel group numbers listed on holitelhotels.com and may serve both properties."
     },
@@ -2663,6 +2852,13 @@
       "sources": [
         "https://holitelhotels.com/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://holitelhotels.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Holitel+Calangute+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=153%2F1%2C+Calangute%2C+Bardez%2C+North+Goa+403516"
+      },
       "research_confidence": "low",
       "research_notes": "Only the brand's own website mentions Holitel Calangute; no OTA listing (MakeMyTrip, Booking, Expedia, Tripadvisor) or Google listing was found, so it may be newly opened or not yet distributed online. Room count, room types, star rating, check-in/out, dining and distances could not be verified. Amenities marked 'brand-level claim' are from the Holitel group description and may describe Holitel Anjuna rather than this property. Phone numbers are the group's numbers from holitelhotels.com."
     },
@@ -2755,6 +2951,13 @@
         "https://www.priceline.com/hotel-deals/en-us/P5000140128/H257240804/simshines-hotels-villas-suites-spa-candolim.ssp",
         "https://www.easemytrip.com/hotels/the-tanisi-resorts-and-pool-villas-candolim-4926116/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://simshineshotels.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Simshines+Hotels%2C+Villas%2C+Suites+%26+Spa+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=H.No.+615%2FA%2F2%2C+Sequeira+Vaddo%2C+Candolim%2C+Bardez%2C+Goa+403515"
+      },
       "research_confidence": "medium",
       "research_notes": "Priceline and MakeMyTrip list the property as 5-star, not 4-star. The EaseMyTrip URL slug ('the-tanisi-resorts-and-pool-villas') suggests the property was previously marketed as 'The Tanisi Resorts and Pool Villas'. Total room/villa count not published. Airport and station distances are generic Candolim figures, not hotel-specific, and are therefore left null in the numeric fields. The property does not accept bachelor/bachelorette parties. Google rating not verified."
     },
@@ -2854,6 +3057,13 @@
         "https://www.travelocity.com/Aronda-Hotels-La-Cabana-Beach-And-Spa.h5559101.Hotel-Information",
         "https://us.halalbooking.com/la-cabana-beach-and-spa/p/249312"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.lacabana.in/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=La+Cabana+Beach+%26+Spa+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=House+No.+224%2C+Ashvem+Beach%2C+Ashvem+Wada%2C+Mandrem%2C+Goa+403527"
+      },
       "research_confidence": "medium",
       "research_notes": "Room count conflicts: OTAs (Expedia/Trip.com) list 30 rooms while the official site lacabana.in states 78 rooms; official figure used. Pin code appears as both 403527 (official site, Mandrem) and 403512 on OTAs. No star rating is published officially; one aggregator shows it as 4-star but this was not verified. A secondary OTA score of 7.4/10 (27 ratings) and a TripAdvisor-style 4.6/5 (1,525 reviews) appeared in search summaries but could not be opened. Check-in/out times not found. Official site and OTA pages could not be fetched directly (network blocked), so details come from search-result summaries."
     },
@@ -2954,6 +3164,13 @@
         "https://www.travelocity.com/Morjim-Hotels-Mr-Kamal-Sewalia.h70578245.Hotel-Information",
         "https://nz.trip.com/hotels/morjim-hotel-detail-79788055/sibaya-beach-resort"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.stonewoodresorts.com/sibaya-beach-resort-morjim/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Sibaya+Beach+Resort+by+Stone+Wood+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=182%2F1%2C+Gawdewada%2C+Morjim+Beach%2C+Morjim%2C+Pernem%2C+Goa+403512"
+      },
       "research_confidence": "medium",
       "research_notes": "Expedia/Travelocity list this property under the host name 'Mr. Kamal Sewalia' (professional host) with the same address. One aggregator shows an average rating of 3.4/5 but the platform could not be verified, so no OTA rating is recorded. No star classification found. Mopa airport distance not found for this property (a sister Stone Wood property is listed at 26.4 km). Official and OTA pages could not be fetched directly; facts come from search-result summaries of those pages."
     },
@@ -3049,6 +3266,13 @@
         "https://www.trivago.com/en-US/oar/dallas-beach-resorts-ashvem-beach-morjim?search=100-33018984",
         "https://www.justdial.com/Goa/Dallas-Beach-Resorts-Near-Ajoba-Temple-Morjim/0832PX832-X832-230221161526-P3I6_BZDET"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "http://www.dallasbeachresort.com/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Dallas+Beach+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Survey+No.+211-2A%2C+Ashvem+Beach+Road%2C+Morjim%2C+Goa+403527"
+      },
       "research_confidence": "medium",
       "research_notes": "Room count conflicts: Expedia/Hotels.com list 86 rooms; another aggregator lists 76. Star rating 3.5 is Expedia's own classification, not an official Indian star grade. Address variants: 'Asvem Beach Road, 211-2A, Morjim, Goa 403527' (Expedia) vs 'Sy No. 211-2A, Ground Floor, Ashvem Beach Road, Mandrem, Morjim, Goa 403512' (Google/Justdial). A search summary showed an aggregator score of 9.1/10 from 1,076 reviews, but the platform could not be verified so it is not recorded as a Google rating. Airport/station distances not found. Pages could not be fetched directly; data from search-result summaries."
     },
@@ -3145,6 +3369,13 @@
         "https://www.ixigo.com/hotels/aralea-beach-resort-by-stone-wood-in-morjim-451942-d",
         "https://ph.trip.com/hotels/morjim-hotel-detail-114394770/aralea-beach-resort-by-stone-wood"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://www.stonewoodresorts.com/aralea-beach-resort-morjim",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Aralea+Beach+Resort+by+Stone+Wood+Premier+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Survey+No.+241%2F3%2C+New+Wada%2C+Morjim%2C+Pernem%2C+Goa+403512"
+      },
       "research_confidence": "high",
       "research_notes": "Spelled 'Aralea' (not 'Aralia') by the brand. Address variants: official site gives 'Survey No. 241/3, New Wada, Morjim, Pernem 403512'; Booking.com gives 'Survey No 214/3, Village Asuvem, Mandrem Road, Pernem 403519'; Trip.com gives 'Plot No. 89, New Wada, Matriz Predial, Morjim'. Star rating of 3 comes from an OTA aggregator description, not an official grade. One source quoted roughly 40 km to Dabolim and 20 km to Mopa, but this looked approximate so distances are left null. Room count: official 69, Hotels.com 70. Check-in/out not found. ixigo shows 8.6/10 from 461 reviews. Pages could not be fetched directly; data from search-result summaries."
     },
@@ -3244,6 +3475,13 @@
         "https://www.booking.com/reviews/in/hotel/amara-beach-resort-amp-club-baga.html",
         "https://www.goibibo.com/hotels/review-of-amara-oceanfront-resort-club-baga-hotel-in-goa-5353347018038752510/"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://amararesorts.in/oceanfront-club-resort-in-goa",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Amara+Oceanfront+Resort+%26+Club%2C+Baga+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=245%2F8%2C+Tito%27s+Lane+2%2C+Baga%2C+Goa+403516"
+      },
       "research_confidence": "high",
       "research_notes": "Also listed as 'Amara Beach Resort & Club Baga' on Booking.com (4.0/10 from only 5 reviews) and 'Amara Ocean Front Beach Resort' on MakeMyTrip. Guest reviews are mixed: some praise beach access and staff, others report no sea-view rooms, no direct beach connection from the hotel and maintenance issues. Justdial shows 4/5 from 1,048 ratings. Calangute/Anjuna distances are approximate. Pages could not be fetched directly; data from search-result summaries."
     },
@@ -3341,6 +3579,13 @@
         "https://www.tripadvisor.com/Hotel_Review-g635747-d33259718-Reviews-Surf_House_Beach_Resort-Baga_North_Goa_District_Goa.html",
         "https://www.adanione.com/india-hotels/surf-house-beach-resort-by-calux-right-on-baga-beach-goa-4562621"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://surfhousebaga.in/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=Surf+House+Beach+Resort+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=Next+to+Bacardi+Shack%2C+Baga+Beach%2C+Tito%27s+Lane+2%2C+Baga%2C+Calangute%2C+Goa+403516"
+      },
       "research_confidence": "low",
       "research_notes": "Newly opened (2025) property with very few reviews: TripAdvisor 3.0/5 from 4 reviews, Hotels.com 4.0/10 from a single review. One review reports the reception accepts cash only. Address given two ways: 'Next to Bacardi Shack, Baga Beach, Calangute 403516' (official/TripAdvisor) and 'Titos Lane 2, Next to Paes Pearl Resort, Baga 403516' (Hotels.com). Star rating of 3 is an OTA classification. Hotels.com lists it as a 'private host' property. Airport/station distances not found. Pages could not be fetched directly; data from search-result summaries."
     },
@@ -3443,6 +3688,13 @@
         "https://www.tripadvisor.com/Hotel_Review-g1936425-d13329463-Reviews-SinQ_Beach_Morjim-Morjim_North_Goa_District_Goa.html",
         "https://www.kayak.com/Morjim-Hotels-Sinq-Beach-Morjim.3603517.ksp"
       ],
+      "images": [],
+      "cover_image": null,
+      "image_sources": {
+        "official_site": "https://sinq.in/",
+        "google_images": "https://www.google.com/search?tbm=isch&q=SinQ+Beach+Morjim+Goa",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=H.+No.+761%2F2%2C+Gawdewada%2C+Morjim%2C+Goa+403512"
+      },
       "research_confidence": "medium",
       "research_notes": "The domain sinqhotels.com given in the brief did not resolve; the brand's live site is sinq.in, where SinQ Beach Morjim appears under nightclubs/pubs while 'SinQ Beach Resort' (a different property in Calangute) appears under hotels. Do not confuse the two. Star rating of 4 is per Google/OTA listings, not a verified official grade. Dabolim distance varies by source (57.2 km by road; one OTA quotes 31 km, likely straight-line). OTA scores vary (6.6/10 on one Expedia-group site, 7.7/10 on Hotels.com) and recent TripAdvisor reviews report maintenance problems. Check-in/out not found. Pages could not be fetched directly; data from search-result summaries."
     }

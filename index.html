@@ -18,7 +18,12 @@ h1{margin:0 0 4px;font-size:1.7rem}.sub{color:var(--muted);margin:0 0 20px}
 .notice{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:10px;padding:12px 16px;margin:0 0 18px}
 .notice ul{margin:6px 0 0;padding-left:20px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px;overflow:hidden}
+.cover{margin:-16px -16px 2px;aspect-ratio:16/9;overflow:hidden;background:var(--chip);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:4px}
+.cover img{width:100%;height:100%;object-fit:cover;display:block}
+.cover.ph span{font-size:2.2rem;font-weight:700;letter-spacing:.05em;color:#fff;opacity:.9}.cover.ph small{color:#fff;opacity:.8;font-size:.75rem}
+.cover.ph[data-cat="3 Star"]{background:linear-gradient(135deg,#2b4c7e,#567ebb)}.cover.ph[data-cat="4 Star"]{background:linear-gradient(135deg,#1d3b6e,#8a6d2f)}.cover.ph[data-cat="Beach Hotel"]{background:linear-gradient(135deg,#0f6e8c,#39a6c4)}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(72px,1fr));gap:6px;margin:8px 0}.gallery img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:6px;display:block}
 .card header{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
 .card h3{margin:2px 0 4px;font-size:1.1rem}
 .cat{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:700}
@@ -65,6 +70,7 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
 
 <section class="grid" id="grid">
 <article class="card" data-cat="3 Star" data-area="Calangute" data-name="hotel delta residency goa" data-cp="2000" id="delta-residency">
+  <figure class="cover ph" data-cat="3 Star"><span>HD</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -89,10 +95,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site multi-cuisine restaurant and bar</p>
     <p><b>Check-in / out:</b> 14:00 (one OTA lists 13:00) / 12:00 (one OTA lists 11:30)</p>
     <p><b>Nearby:</b> St. Anthony&#x27;s Chapel (approx. 140 m); St. Alex Church (approx. 0.8 km); Calangute Market (approx. 1.1 km); Calangute Beach (approx. 1.8 km by road)</p>
+    
     <p class="meta">+91 832 227 9226</p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Baga" data-name="amara casa baga" data-cp="3500" id="amara-casa-baga">
+  <figure class="cover ph" data-cat="3 Star"><span>AC</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -117,10 +125,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site restaurant and bar; breakfast included in most rates</p>
     <p><b>Check-in / out:</b> 14:00 / 12:00</p>
     <p><b>Nearby:</b> Baga Beach (approx. 5-minute walk); Calangute Beach (within approx. 2 km); Tito&#x27;s Lane / Baga nightlife; Fort Aguada; Chapora Fort</p>
+    
     <p class="meta">+91 70309 13923</p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Calangute" data-name="sinq beach resort" data-cp="3000" id="sinq-beach-resort-calangute">
+  <figure class="cover ph" data-cat="3 Star"><span>SB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -145,10 +155,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Ingredients restaurant (breakfast buffet included; lunch and dinner) plus poolside bar</p>
     <p><b>Check-in / out:</b> 13:00 / 10:00</p>
     <p><b>Nearby:</b> Calangute Beach (approx. 5-minute walk); Fort Aguada (approx. 6-minute drive); Baga Beach; Candolim</p>
+    
     <p class="meta"><a href="https://sinq.in/sinq-beach-resort-calangute" target="_blank" rel="noopener">Official site</a> · +91 832 227 6922</p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Calangute" data-name="silver shell resort" data-cp="4700" id="silver-shell-calangute">
+  <figure class="cover ph" data-cat="3 Star"><span>SS</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -173,10 +185,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Multi-cuisine restaurant with poolside bar; complimentary breakfast</p>
     <p><b>Check-in / out:</b> 12:00 / 11:00</p>
     <p><b>Nearby:</b> Calangute Beach (approx. 1 km); Baga Beach (approx. 7-minute drive); Calangute Market; Saligao</p>
+    
     <p class="meta"></p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Candolim" data-name="goveia grand resort" data-cp="2500" id="goveia-grand">
+  <figure class="cover ph" data-cat="3 Star"><span>GG</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -201,10 +215,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> In-house restaurant (Aquira, per OTA listings) with poolside bar; continental breakfast</p>
     <p><b>Check-in / out:</b> 13:30 / 10:00</p>
     <p><b>Nearby:</b> Candolim Market (approx. 350 m); Sinquerim Beach (approx. 2.6 km); Fort Aguada (approx. 10-minute drive); Candolim Beach</p>
+    
     <p class="meta"><a href="https://goveiaresort.com/" target="_blank" rel="noopener">Official site</a> · +91 93261 12995</p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Calangute" data-name="regal sands hotel - calangute goa, by welcom2goa" data-cp="2200" id="regalsand-by-welcome-goa">
+  <figure class="cover ph" data-cat="3 Star"><span>RS</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -229,10 +245,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site dining; guests praise the food in reviews</p>
     <p><b>Check-in / out:</b> 14:00 to 21:00 / 11:00</p>
     <p><b>Nearby:</b> Calangute Beach (approx. 10-minute drive); Candolim Beach (approx. 10-minute drive); Anjuna Beach; Saturday Night Market, Arpora</p>
+    
     <p class="meta">+91 80000 72224</p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Candolim" data-name="shalom indus residency" data-cp="2200" id="shalom-indus-residency-candolim">
+  <figure class="cover ph" data-cat="3 Star"><span>SI</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -257,10 +275,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> In-house restaurant and bar; many cafes within a 5-minute walk</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Candolim Beach (approx. 12-minute walk); All About Alcohol Museum (approx. 6-minute walk); Fort Aguada (approx. 8-minute drive); Deltin Royale Casino (approx. 15-minute drive)</p>
+    
     <p class="meta"></p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Calangute" data-name="aira beach resort" data-cp="3500" id="aira-beach-resort-calangute">
+  <figure class="cover ph" data-cat="3 Star"><span>AB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -285,10 +305,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Fully air-conditioned multi-cuisine restaurant serving local and international dishes</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Calangute Beach; Baga Beach; Calangute Market</p>
+    
     <p class="meta"><a href="https://www.airabeachresort.com/" target="_blank" rel="noopener">Official site</a> · +91 93199 56598</p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Candolim" data-name="victor exotica beach resort" data-cp="2800" id="victor-exotica">
+  <figure class="cover ph" data-cat="3 Star"><span>VE</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -313,10 +335,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Mouraria restaurant - buffet breakfast, lunch and dinner</p>
     <p><b>Check-in / out:</b> 14:00 (early check-in from 13:00 subject to availability) / 12:00</p>
     <p><b>Nearby:</b> Candolim Beach (approx. 0.8 km); Sinquerim Beach; Fort Aguada; Calangute Beach</p>
+    
     <p class="meta"><a href="http://www.victorexoticagoa.com" target="_blank" rel="noopener">Official site</a> · +91 832 247 9515</p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Calangute" data-name="baga bliss by celestiial hospitality" data-cp="3200" id="baga-bliss">
+  <figure class="cover ph" data-cat="3 Star"><span>BB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -341,10 +365,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site restaurant; several cafes and pizzerias within a 5-10 minute walk</p>
     <p><b>Check-in / out:</b> 14:00 (late check-in subject to availability) / —</p>
     <p><b>Nearby:</b> Baga Beach (approx. 13-minute walk); Calangute Beach (approx. 15-minute walk); Tito&#x27;s Lane; Casino Palms</p>
+    
     <p class="meta"></p>
   </details>
 </article>
 <article class="card" data-cat="3 Star" data-area="Candolim" data-name="regenta place m.a.r.s. candolim" data-cp="3500" id="regenta-place-mars">
+  <figure class="cover ph" data-cat="3 Star"><span>RP</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">3 Star</span> <span class="stars">★★★</span>
@@ -369,10 +395,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Limelight - rooftop open-air multi-cuisine restaurant with panoramic views; 24-hour in-room dining</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Candolim Beach (approx. 1 km); Calangute Beach (approx. 2.7 km); Baga Beach (approx. 4.6 km); Fort Aguada; Jamaleshwar Temple (adjacent)</p>
+    
     <p class="meta"><a href="https://www.royalorchidhotels.com/" target="_blank" rel="noopener">Official site</a> · +91 89561 22310</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Baga" data-name="sibaya courtyard by stone wood premier" data-cp="4500" id="sibaya-courtyard">
+  <figure class="cover ph" data-cat="4 Star"><span>SC</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -397,10 +425,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> One on-site restaurant (name not published)</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Baga Beach (close by); Calangute Beach (close by); Tito&#x27;s Lane (close by); Saturday Night Market, Arpora (approx. 3 km)</p>
+    
     <p class="meta"><a href="https://www.stonewoodresorts.com/sibaya-courtyard-premium-baga/" target="_blank" rel="noopener">Official site</a> · +91 80101 24124</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="calux joia do mar resort" data-cp="3500" id="calux-joia-do-mar-calangute">
+  <figure class="cover ph" data-cat="4 Star"><span>CJ</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★</span>
@@ -425,10 +455,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Two on-site restaurants (Indian, Chinese, vegetarian options) plus in-pool &#x27;Joy Bar&#x27;</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Calangute Beach (approx. 5 min by car); Baga Beach (approx. 5 min by car); Candolim Beach (3.1 km); Anjuna Beach (6.6 km); Saturday Night Market, Arpora (nearby)</p>
+    
     <p class="meta"><a href="https://www.joiadomar.com" target="_blank" rel="noopener">Official site</a> · +91 98236 22244</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="adamo the bellus goa" data-cp="5200" id="adamo-the-bellus">
+  <figure class="cover ph" data-cat="4 Star"><span>AT</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -453,10 +485,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Clove - multi-cuisine restaurant (Goan, North Indian, Continental) with bar and pool/garden views; 24-hour room service</p>
     <p><b>Check-in / out:</b> 1:00 PM / 11:30 AM</p>
     <p><b>Nearby:</b> Calangute Beach (approx. 10 min walk); Calangute Market (approx. 10 min walk); Baga Beach (1.4 km); Candolim Beach (2.9 km); Anjuna Beach (7.7 km)</p>
+    
     <p class="meta"><a href="https://www.adamohotels.com/adamothebellus-goa/" target="_blank" rel="noopener">Official site</a> · +91 832 227 5334</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="bells beach resort, a unit of resort de balneaire" data-cp="3900" id="bells-beach-resort">
+  <figure class="cover ph" data-cat="4 Star"><span>BB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -481,10 +515,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site restaurant serving Goan and multi-cuisine food by the poolside lounge; bar</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Baga Beach (approx. 14 min walk); Calangute Beach (approx. 15 min walk); Tito&#x27;s Lane, Baga (nearby); Saturday Night Market, Arpora (nearby)</p>
+    
     <p class="meta"><a href="https://bellsbeachresort.com/" target="_blank" rel="noopener">Official site</a> · +91 77097 55001</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="grandeur de sanchi - luxury beach resort &amp; spa" data-cp="4000" id="grandure-de-sachi">
+  <figure class="cover ph" data-cat="4 Star"><span>GD</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -509,10 +545,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Two on-site restaurants (Indian and Chinese cuisine; breakfast to dinner) plus poolside bar</p>
     <p><b>Check-in / out:</b> 1:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Calangute Beach (short walk); Candolim Beach (approx. 10 min drive); Baga Beach (approx. 3 km); Calangute Market (nearby)</p>
+    
     <p class="meta"><a href="https://www.grandeurdesanchi.com" target="_blank" rel="noopener">Official site</a> · +91 90110 00243</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Arpora" data-name="verano hotel &amp; spa" data-cp="3500" id="verano-hotel-spa">
+  <figure class="cover ph" data-cat="4 Star"><span>VH</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★</span>
@@ -537,10 +575,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Family-friendly restaurant serving Indian cuisine with buffet breakfast; pool bar with outdoor seating</p>
     <p><b>Check-in / out:</b> 2:00 PM / 12:00 PM</p>
     <p><b>Nearby:</b> Baga Beach (3.7 km); Calangute Beach (within 5 km); Mae De Deus Church, Saligao (2.2 km); Chapora Fort (approx. 9 km); Saturday Night Market, Arpora (nearby)</p>
+    
     <p class="meta"><a href="https://veranohotelgoa.com/" target="_blank" rel="noopener">Official site</a></p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="sairaj beach resort - calangute goa" data-cp="3700" id="sairaj-beach-resort">
+  <figure class="cover ph" data-cat="4 Star"><span>SB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -565,10 +605,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> La Savour multi-cuisine family restaurant (open round the clock) plus coffee shop</p>
     <p><b>Check-in / out:</b> 12:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Calangute Beach (approx. 1 km); Baga Beach (approx. 4 min drive); Calangute Market (nearby); Anjuna Beach (approx. 20 min drive)</p>
+    
     <p class="meta"><a href="https://sairajbeachresortgoa.com/" target="_blank" rel="noopener">Official site</a> · +91 832 295 5566</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Candolim" data-name="sukhmantra resort &amp; spa" data-cp="3200" id="sukhmantra-resort">
+  <figure class="cover ph" data-cat="4 Star"><span>SR</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -593,10 +635,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Rooftop multi-cuisine restaurant and bar (buffet and a la carte); pool bar</p>
     <p><b>Check-in / out:</b> 1:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Candolim Beach (walking distance); Calangute Beach (approx. 6 min drive); Fort Aguada (approx. 4 km); Sinquerim Beach (approx. 3 km); Baga Beach (approx. 10 min drive)</p>
+    
     <p class="meta"><a href="https://www.sukhmantra.com" target="_blank" rel="noopener">Official site</a> · +91 86000 40091</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Vagator" data-name="vagator downtown by vdp" data-cp="3200" id="vagator-downtown">
+  <figure class="cover ph" data-cat="4 Star"><span>VD</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★</span>
@@ -621,10 +665,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Rooftop pool restaurant and bar serving Indian, Chinese, seafood, pizza and local cuisine</p>
     <p><b>Check-in / out:</b> 1:30 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Anjuna Beach (approx. 10 min drive); Vagator Beach (nearby); Chapora Fort (nearby); St. Michael&#x27;s Church, Anjuna (approx. 10 min drive); Baga Beach (5.9 km); Calangute Beach (7.4 km)</p>
+    
     <p class="meta"><a href="https://www.vagatordowntown.com" target="_blank" rel="noopener">Official site</a> · +91 79977 19009</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="casa pearl by ws" data-cp="3200" id="casa-pearl">
+  <figure class="cover ph" data-cat="4 Star"><span>CP</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -649,10 +695,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> In-house multi-cuisine restaurant (name not published on OTAs)</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Calangute Beach - 1.6 km; Baga Beach - 1.6 km; Candolim Beach - 3.3 km; Anjuna Beach - 6.7 km; Dabolim Airport - 36.5 km; Thivim Railway Station - 16.6 km</p>
+    
     <p class="meta"></p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="sinq symbol" data-cp="3600" id="sinq-symbol-calangute">
+  <figure class="cover ph" data-cat="4 Star"><span>SS</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -677,10 +725,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Three on-site restaurants plus a bar/lounge</p>
     <p><b>Check-in / out:</b> 3:00 PM / —</p>
     <p><b>Nearby:</b> Calangute Beach - 0.8 km; Calangute Market - 5 min walk; Poriat Football Ground - 0.2 km; Baga Beach - 10 min drive; Tito&#x27;s Lane - 5 min drive</p>
+    
     <p class="meta"><a href="https://sinq.in/sinq-symbol-calangute/" target="_blank" rel="noopener">Official site</a> · +91 98810 98030 (toll-free 1800 212 3578)</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Candolim" data-name="sinq party hotel" data-cp="3300" id="sinq-party-hotel-candolim">
+  <figure class="cover ph" data-cat="4 Star"><span>SP</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★</span>
@@ -705,10 +755,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site restaurant serving breakfast, lunch and dinner; two bars and the SinQ nightclub</p>
     <p><b>Check-in / out:</b> 2:00 PM / 12:00 PM</p>
     <p><b>Nearby:</b> Candolim Beach - 6 min walk; Sinquerim Beach - 9 min walk; Fort Aguada; Calangute Beach; Thivim Railway Station - about 23 km; Dabolim Airport - about 39 km</p>
+    
     <p class="meta"><a href="https://sinq.in/" target="_blank" rel="noopener">Official site</a> · +91 832 247 9444</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Candolim" data-name="sinq privé" data-cp="4150" id="sinq-prive-candolim">
+  <figure class="cover ph" data-cat="4 Star"><span>SP</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -733,10 +785,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Soi restaurant (Goan cuisine) plus rooftop pool bar and hookah lounge</p>
     <p><b>Check-in / out:</b> 1:00 PM to 7:00 PM / 9:00 AM to 11:00 AM</p>
     <p><b>Nearby:</b> Candolim Beach - 6 min walk; Sinquerim Beach - 10 min walk; Aguada Lighthouse - 1.4 km; Fort Aguada - 1.5 km; Calangute Beach - 4.7 km; Mopa Airport - about 32 km; Dabolim Airport - about 37 km</p>
+    
     <p class="meta"><a href="https://sinq.in/our-hotels/sinq-prive/" target="_blank" rel="noopener">Official site</a></p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Assonora" data-name="sinq anvaya" data-cp="6400" id="sinq-anvaya-assonora-bicholim">
+  <figure class="cover ph" data-cat="4 Star"><span>SA</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars"></span>
@@ -761,10 +815,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site restaurant and bar/lounge</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Mayem Lake - about 8.4 km (15 min drive); Shree Devi Kelbai Temple - 15 min drive; Club Mahindra Assonora - adjacent</p>
+    
     <p class="meta"><a href="https://sinq.in/our-hotels/sinq-anvaya/" target="_blank" rel="noopener">Official site</a></p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="silver shell grand" data-cp="4200" id="silver-shell-grand">
+  <figure class="cover ph" data-cat="4 Star"><span>SS</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★</span>
@@ -789,10 +845,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Multi-cuisine restaurant with pool-side bar and shisha lounge</p>
     <p><b>Check-in / out:</b> 12:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Calangute Market - 200 m; Calangute Beach - 1 km; Candolim Beach - 2.8 km; Saturday Night Market (Arpora) - 2.5 km; Fort Aguada - 6 km; Anjuna Beach - 7.9 km</p>
+    
     <p class="meta"></p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Anjuna" data-name="holitel anjuna goa" data-cp="4000" id="holitel-anjuna">
+  <figure class="cover ph" data-cat="4 Star"><span>HA</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -817,10 +875,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Restaurant serving Goan, Indian and international cuisine; pool bar</p>
     <p><b>Check-in / out:</b> 2:00 PM / —</p>
     <p><b>Nearby:</b> Anjuna Beach - 10 min drive; Baga Beach - 3.7 km; Calangute Beach - 5.3 km; Thivim Railway Station - 13.7 km; Mopa Airport - 27.2 km</p>
+    
     <p class="meta"><a href="https://holitelhotels.com/holitel-anjuna/" target="_blank" rel="noopener">Official site</a> · +91 832 6620600 / 01 (reservations +91 89565 48432)</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Calangute" data-name="holitel calangute" data-cp="4900" id="holitel-calangute">
+  <figure class="cover ph" data-cat="4 Star"><span>HC</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars"></span>
@@ -845,10 +905,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> —</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Calangute Beach; Baga Beach</p>
+    
     <p class="meta"><a href="https://holitelhotels.com/" target="_blank" rel="noopener">Official site</a> · +91 832 6620600 / 01 (reservations +91 89565 48432, front desk +91 89565 48431)</p>
   </details>
 </article>
 <article class="card" data-cat="4 Star" data-area="Candolim" data-name="simshines hotels, villas, suites &amp; spa" data-cp="4500" id="simshines-candolim">
+  <figure class="cover ph" data-cat="4 Star"><span>SH</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">4 Star</span> <span class="stars">★★★★</span>
@@ -873,10 +935,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site restaurant with buffet breakfast</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Candolim Beach - 800 m; Fort Aguada; Calangute Beach; Dabolim Airport - about 41 km (Candolim average); Thivim Railway Station - about 17 km (Candolim average)</p>
+    
     <p class="meta"><a href="https://simshineshotels.com/" target="_blank" rel="noopener">Official site</a> · +91 89564 53900</p>
   </details>
 </article>
 <article class="card" data-cat="Beach Hotel" data-area="Ashvem" data-name="la cabana beach &amp; spa" data-cp="8500" id="la-cabana-beach-spa">
+  <figure class="cover ph" data-cat="Beach Hotel"><span>LC</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">Beach Hotel</span> <span class="stars"></span>
@@ -901,10 +965,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Beachfront sea-view fine-dining restaurant and bar on Ashwem Beach</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Mandrem Beach (within 2 km); Morjim Beach (approx. 15-minute drive); Arambol Beach (approx. 15-minute drive); Thivim Railway Station (21.9 km); Dabolim Airport (57.2 km)</p>
+    
     <p class="meta"><a href="https://www.lacabana.in/" target="_blank" rel="noopener">Official site</a> · +91 83089 61900 / +91 98228 35550</p>
   </details>
 </article>
 <article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="sibaya beach resort by stone wood" data-cp="5200" id="sibaya-beach-resort-by-stonewood">
+  <figure class="cover ph" data-cat="Beach Hotel"><span>SB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">Beach Hotel</span> <span class="stars"></span>
@@ -929,10 +995,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> In-house restaurant and Wooden Deck serving Goan and international cuisine; Saz on the Beach (Club Saz) sunset bar with DJs</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Ashvem Beach (approx. 3-minute walk); Morjai Temple (approx. 4-minute drive); Arambol Beach (approx. 8.4 km); Baga Beach (approx. 17.7 km); Thivim Railway Station (21.6 km); Dabolim Airport (56.9 km)</p>
+    
     <p class="meta"><a href="https://www.stonewoodresorts.com/sibaya-beach-resort-morjim/" target="_blank" rel="noopener">Official site</a> · +91 91120 01581 (front office); +91 80101 24124 (central reservations)</p>
   </details>
 </article>
 <article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="dallas beach resort" data-cp="5200" id="dallas-beach-resort-morjim">
+  <figure class="cover ph" data-cat="Beach Hotel"><span>DB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">Beach Hotel</span> <span class="stars">★★★</span>
@@ -957,10 +1025,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> Two restaurants including Hurry Curry World (Halal, open for breakfast, lunch and dinner); coastal dining and poolside bar</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Morjim Beach (approx. 3-minute walk); Ashvem Beach (on site / within 10-minute walk); Baga Beach (approx. 17.4 km); Calangute Beach (approx. 17.7 km)</p>
+    
     <p class="meta"><a href="http://www.dallasbeachresort.com/" target="_blank" rel="noopener">Official site</a> · +91 77699 88093</p>
   </details>
 </article>
 <article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="aralea beach resort by stone wood premier" data-cp="5700" id="aralia-beach-resort-morjim">
+  <figure class="cover ph" data-cat="Beach Hotel"><span>AB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">Beach Hotel</span> <span class="stars">★★★</span>
@@ -985,10 +1055,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> In-house multi-cuisine restaurant and bar; &#x27;Here &amp; Now&#x27; beach shack on Ashvem Beach, open daily</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Ashvem Beach (0.1 km); Morjai Temple (approx. 4-minute drive); Morjim Beach (approx. 4.5 km); Arambol Beach (approx. 7.6 km); Anjuna Beach (approx. 15.6 km); Baga Beach (approx. 18.2 km)</p>
+    
     <p class="meta"><a href="https://www.stonewoodresorts.com/aralea-beach-resort-morjim" target="_blank" rel="noopener">Official site</a> · +91 91120 07594 (hotel); +91 80101 24124 (central reservations)</p>
   </details>
 </article>
 <article class="card" data-cat="Beach Hotel" data-area="Baga" data-name="amara oceanfront resort &amp; club, baga" data-cp="5000" id="amara-oceanfront">
+  <figure class="cover ph" data-cat="Beach Hotel"><span>AO</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">Beach Hotel</span> <span class="stars">★★★★</span>
@@ -1013,10 +1085,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> In-house multi-cuisine restaurant with ocean views, plus bar and nightclub</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Baga Beach (80 m); Tito&#x27;s Lane nightlife (walking distance); Calangute Beach (approx. 2 km); Anjuna Beach (approx. 5 km); Chapora Fort (9.1 km); Thivim Railway Station (19.2 km); Dabolim Airport (42 km)</p>
+    
     <p class="meta"><a href="https://amararesorts.in/oceanfront-club-resort-in-goa" target="_blank" rel="noopener">Official site</a> · +91 96151 59494</p>
   </details>
 </article>
 <article class="card" data-cat="Beach Hotel" data-area="Baga" data-name="surf house beach resort" data-cp="4500" id="surf-house-beach-resort-baga">
+  <figure class="cover ph" data-cat="Beach Hotel"><span>SH</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">Beach Hotel</span> <span class="stars">★★★</span>
@@ -1041,10 +1115,12 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> On-site restaurant and bar plus the Surf House Shack on Baga Beach</p>
     <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
     <p><b>Nearby:</b> Baga Beach (2-minute walk); Tito&#x27;s Lane (3-minute walk); Casino Palms (20-minute walk); Calangute Beach (3-minute drive); Anjuna Beach (6-minute drive)</p>
+    
     <p class="meta"><a href="https://surfhousebaga.in/" target="_blank" rel="noopener">Official site</a> · +91 89568 88392 / +91 94595 91111</p>
   </details>
 </article>
 <article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="sinq beach morjim" data-cp="5300" id="sinq-beach-morjim">
+  <figure class="cover ph" data-cat="Beach Hotel"><span>SB</span><small>Photo coming soon</small></figure>
   <header>
     <div>
       <span class="cat">Beach Hotel</span> <span class="stars">★★★★</span>
@@ -1069,6 +1145,7 @@ footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid 
     <p><b>Dining:</b> SinQ Beach beachfront restaurant and nightclub with sea-view seating, crafted drinks and live music; buffet breakfast included</p>
     <p><b>Check-in / out:</b> — / —</p>
     <p><b>Nearby:</b> Morjim Beach (on site); Ashvem Beach (approx. 5-minute drive); Mandrem Beach (approx. 5-minute drive); Baga Beach (approx. 18 km); Mopa Airport (18.3 km); Thivim Railway Station (21.9 km); Dabolim Airport (57.2 km)</p>
+    
     <p class="meta"><a href="https://sinq.in/" target="_blank" rel="noopener">Official site</a> · +91 832 227 6922 (hotel); 1800 212 3578 (SinQ Hospitality)</p>
   </details>
 </article></section>
