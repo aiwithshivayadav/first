@@ -13,44 +13,46 @@ Basis: Per room per night, double sharing, base category room. CP = breakfast; M
 
 ## Rate summary
 
-| # | Hotel | Category | Area | DBL CP | DBL MAP |
-|---|---|---|---|---|---|
-| 1 | Hotel Delta Residency Goa | 3 Star | Calangute | ₹2,000 | ₹3,000 |
-| 2 | Amara Casa Baga | 3 Star | Baga | ₹3,500 | ₹4,200 |
-| 3 | SinQ Beach Resort | 3 Star | Calangute | ₹3,000 | ₹3,700 |
-| 4 | Silver Shell Resort | 3 Star | Calangute | ₹4,700 | ₹5,300 |
-| 5 | Goveia Grand Resort | 3 Star | Candolim | ₹2,500 | ₹3,000 |
-| 6 | Regal Sands Hotel - Calangute Goa, by Welcom2Goa | 3 Star | Calangute | ₹2,200 | ₹2,800 |
-| 7 | Shalom Indus Residency | 3 Star | Candolim | ₹2,200 | ₹2,800 |
-| 8 | Aira Beach Resort | 3 Star | Calangute | ₹3,500 | ₹4,200 |
-| 9 | Victor Exotica Beach Resort | 3 Star | Candolim | ₹2,800 | ₹3,400 |
-| 10 | Baga Bliss by Celestiial Hospitality | 3 Star | Calangute | ₹3,200 | ₹4,200 |
-| 11 | Regenta Place M.A.R.S. Candolim | 3 Star | Candolim | ₹3,500 | ₹4,500 |
-| 12 | Sibaya Courtyard by Stone Wood Premier | 4 Star | Baga | ₹4,500 | ₹5,500 |
-| 13 | Calux Joia Do Mar Resort | 4 Star | Calangute | ₹3,500 | ₹4,200 |
-| 14 | Adamo The Bellus Goa | 4 Star | Calangute | ₹5,200 | ₹6,700 |
-| 15 | Bells Beach Resort, A Unit of Resort De Balneaire | 4 Star | Calangute | ₹3,900 | ₹4,900 |
-| 16 | Grandeur De Sanchi - Luxury Beach Resort & Spa | 4 Star | Calangute | ₹4,000 | ₹4,800 |
-| 17 | Verano Hotel & Spa | 4 Star | Arpora | ₹3,500 | ₹4,200 |
-| 18 | Sairaj Beach Resort - Calangute Goa | 4 Star | Calangute | ₹3,700 | ₹4,400 |
-| 19 | Sukhmantra Resort & Spa | 4 Star | Candolim | ₹3,200 | ₹3,900 |
-| 20 | Vagator Downtown by VDP | 4 Star | Vagator | ₹3,200 | ₹3,900 |
-| 21 | Casa Pearl by WS | 4 Star | Calangute | ₹3,200 | ₹3,900 |
-| 22 | SinQ Symbol | 4 Star | Calangute | ₹3,600 | ₹4,400 |
-| 23 | SinQ Party Hotel | 4 Star | Candolim | ₹3,300 | ₹4,200 |
-| 24 | SinQ Privé | 4 Star | Candolim | ₹4,150 | ₹5,150 |
-| 25 | SinQ Anvaya | 4 Star | Assonora | ₹6,400 | ₹8,400 |
-| 26 | Silver Shell Grand | 4 Star | Calangute | ₹4,200 | ₹4,900 |
-| 27 | Holitel Anjuna Goa | 4 Star | Anjuna | ₹4,000 | ₹5,000 |
-| 28 | Holitel Calangute | 4 Star | Calangute | ₹4,900 | ₹5,900 |
-| 29 | Simshines Hotels, Villas, Suites & Spa | 4 Star | Candolim | ₹4,500 | ₹5,500 |
-| 30 | La Cabana Beach & Spa | Beach Hotel | Ashvem | ₹8,500 | ₹10,500 |
-| 31 | Sibaya Beach Resort by Stone Wood | Beach Hotel | Morjim | ₹5,200 | ₹7,200 |
-| 32 | Dallas Beach Resort | Beach Hotel | Morjim | ₹5,200 | ₹6,700 |
-| 33 | Aralea Beach Resort by Stone Wood Premier | Beach Hotel | Morjim | ₹5,700 | ₹6,500 |
-| 34 | Amara Oceanfront Resort & Club, Baga | Beach Hotel | Baga | ₹5,000 | ₹6,000 |
-| 35 | Surf House Beach Resort | Beach Hotel | Baga | ₹4,500 | ₹5,700 |
-| 36 | SinQ Beach Morjim | Beach Hotel | Morjim | ₹5,300 | ₹7,300 |
+Online market rate = public per-night price for a standard double room seen on booking sites (MakeMyTrip, Booking.com, Goibibo, Agoda, etc.) when checked on 7 Oct 2026. Online prices change daily; treat them as indicative.
+
+| # | Hotel | Category | Area | Contract DBL CP | Contract DBL MAP | Online market rate | Market source |
+|---|---|---|---|---|---|---|---|
+| 1 | Hotel Delta Residency Goa | 3 Star | Calangute | ₹2,000 | ₹3,000 | — | — |
+| 2 | Amara Casa Baga | 3 Star | Baga | ₹3,500 | ₹4,200 | — | — |
+| 3 | SinQ Beach Resort | 3 Star | Calangute | ₹3,000 | ₹3,700 | — | — |
+| 4 | Silver Shell Resort | 3 Star | Calangute | ₹4,700 | ₹5,300 | — | — |
+| 5 | Goveia Grand Resort | 3 Star | Candolim | ₹2,500 | ₹3,000 | — | — |
+| 6 | Regal Sands Hotel - Calangute Goa, by Welcom2Goa | 3 Star | Calangute | ₹2,200 | ₹2,800 | — | — |
+| 7 | Shalom Indus Residency | 3 Star | Candolim | ₹2,200 | ₹2,800 | — | — |
+| 8 | Aira Beach Resort | 3 Star | Calangute | ₹3,500 | ₹4,200 | — | — |
+| 9 | Victor Exotica Beach Resort | 3 Star | Candolim | ₹2,800 | ₹3,400 | — | — |
+| 10 | Baga Bliss by Celestiial Hospitality | 3 Star | Calangute | ₹3,200 | ₹4,200 | — | — |
+| 11 | Regenta Place M.A.R.S. Candolim | 3 Star | Candolim | ₹3,500 | ₹4,500 | — | — |
+| 12 | Sibaya Courtyard by Stone Wood Premier | 4 Star | Baga | ₹4,500 | ₹5,500 | — | — |
+| 13 | Calux Joia Do Mar Resort | 4 Star | Calangute | ₹3,500 | ₹4,200 | — | — |
+| 14 | Adamo The Bellus Goa | 4 Star | Calangute | ₹5,200 | ₹6,700 | — | — |
+| 15 | Bells Beach Resort, A Unit of Resort De Balneaire | 4 Star | Calangute | ₹3,900 | ₹4,900 | — | — |
+| 16 | Grandeur De Sanchi - Luxury Beach Resort & Spa | 4 Star | Calangute | ₹4,000 | ₹4,800 | — | — |
+| 17 | Verano Hotel & Spa | 4 Star | Arpora | ₹3,500 | ₹4,200 | — | — |
+| 18 | Sairaj Beach Resort - Calangute Goa | 4 Star | Calangute | ₹3,700 | ₹4,400 | — | — |
+| 19 | Sukhmantra Resort & Spa | 4 Star | Candolim | ₹3,200 | ₹3,900 | — | — |
+| 20 | Vagator Downtown by VDP | 4 Star | Vagator | ₹3,200 | ₹3,900 | — | — |
+| 21 | Casa Pearl by WS | 4 Star | Calangute | ₹3,200 | ₹3,900 | — | — |
+| 22 | SinQ Symbol | 4 Star | Calangute | ₹3,600 | ₹4,400 | — | — |
+| 23 | SinQ Party Hotel | 4 Star | Candolim | ₹3,300 | ₹4,200 | — | — |
+| 24 | SinQ Privé | 4 Star | Candolim | ₹4,150 | ₹5,150 | — | — |
+| 25 | SinQ Anvaya | 4 Star | Assonora | ₹6,400 | ₹8,400 | — | — |
+| 26 | Silver Shell Grand | 4 Star | Calangute | ₹4,200 | ₹4,900 | — | — |
+| 27 | Holitel Anjuna Goa | 4 Star | Anjuna | ₹4,000 | ₹5,000 | — | — |
+| 28 | Holitel Calangute | 4 Star | Calangute | ₹4,900 | ₹5,900 | — | — |
+| 29 | Simshines Hotels, Villas, Suites & Spa | 4 Star | Candolim | ₹4,500 | ₹5,500 | — | — |
+| 30 | La Cabana Beach & Spa | Beach Hotel | Ashvem | ₹8,500 | ₹10,500 | — | — |
+| 31 | Sibaya Beach Resort by Stone Wood | Beach Hotel | Morjim | ₹5,200 | ₹7,200 | — | — |
+| 32 | Dallas Beach Resort | Beach Hotel | Morjim | ₹5,200 | ₹6,700 | — | — |
+| 33 | Aralea Beach Resort by Stone Wood Premier | Beach Hotel | Morjim | ₹5,700 | ₹6,500 | — | — |
+| 34 | Amara Oceanfront Resort & Club, Baga | Beach Hotel | Baga | ₹5,000 | ₹6,000 | — | — |
+| 35 | Surf House Beach Resort | Beach Hotel | Baga | ₹4,500 | ₹5,700 | — | — |
+| 36 | SinQ Beach Morjim | Beach Hotel | Morjim | ₹5,300 | ₹7,300 | — | — |
 
 ## Hotel profiles
 
@@ -61,6 +63,7 @@ Basis: Per room per night, double sharing, base category room. CP = breakfast; M
 **Area:** Calangute  
 **Address:** 151/20, Gauro Vaddo, Beach Road, Near St. Anthony's Chapel, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹2,000 · MAP ₹3,000  
+**Online market rate:** —  
 **Beach:** Approx. 1-1.8 km from Calangute Beach (sources describe it as a 5-15 minute walk)  
 **Airports:** Dabolim 39.8 km · Mopa — km  
 **Rooms:** 25 · Standard Room, Superior Room  
@@ -95,6 +98,7 @@ Hotel Delta Residency Goa is a compact 25-room hotel on Beach Road in Calangute'
 **Area:** Baga  
 **Address:** 40/7 Saunta Vaddo, Baga, Bardez, Goa 403509, India  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
+**Online market rate:** —  
 **Beach:** About a 5-minute walk from Baga Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 25 · Casa Special (approx. 237 sq ft, queen bed), Casa Favourite (approx. 280 sq ft, queen bed), Casa Star (approx. 323 sq ft, queen bed)  
@@ -130,6 +134,7 @@ Amara Casa Baga is a 25-room hotel in Saunta Vaddo, roughly five minutes on foot
 **Area:** Calangute  
 **Address:** Tivai Vaddo, Opposite Don Bosco Hostel, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹3,000 · MAP ₹3,700  
+**Online market rate:** —  
 **Beach:** Approx. 5-minute walk / 2-minute drive to Calangute Beach  
 **Airports:** Dabolim 40 km · Mopa — km  
 **Rooms:** 66 · Classic Room, Deluxe Room (approx. 32 sq m, double or twin), Deluxe Room with balcony  
@@ -165,6 +170,7 @@ SinQ Beach Resort is a 66-room property in Tivai Vaddo, Calangute, a few minutes
 **Area:** Calangute  
 **Address:** Plot 369 (also listed as H.No. 4/806), Porba Vaddo, Opposite Hard Rock Hotel, Behind KFC, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹4,700 · MAP ₹5,300  
+**Online market rate:** —  
 **Beach:** Approx. 1 km from Calangute Beach (5-minute drive); about 7 minutes' drive to Baga Beach  
 **Airports:** Dabolim 39.9 km · Mopa — km  
 **Rooms:** 41 · Double Room (36 rooms), Twin Room (5 rooms)  
@@ -199,6 +205,7 @@ Silver Shell Resort is a 41-room hotel in Porba Vaddo, central Calangute, roughl
 **Area:** Candolim  
 **Address:** Near Aradi Sub Station, Lane opposite Cafe Coffee Day, Candolim, Bardez, Goa 403515, India  
 **Contract rate (per room/night, double):** CP ₹2,500 · MAP ₹3,000  
+**Online market rate:** —  
 **Beach:** Approx. 2.6 km from Sinquerim Beach; Candolim Beach nearby  
 **Airports:** Dabolim 40 km · Mopa — km  
 **Rooms:** 50 · Deluxe Room with balcony, Family Room, Executive Suite  
@@ -233,6 +240,7 @@ Goveia Grand Resort sits in a lane off Candolim's main road near the Cafe Coffee
 **Area:** Calangute  
 **Address:** Naikawaddo, near Calangute-Anjuna Road, near Dharwadkar Hospital, Dongorpur, Calangute, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹2,200 · MAP ₹2,800  
+**Online market rate:** —  
 **Beach:** Within approx. 10-minute drive of Calangute Beach and Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 80 · —  
@@ -268,6 +276,7 @@ Regal Sands Hotel is an 80-room property run by Welcom2Goa in Naikawaddo, on the
 **Area:** Candolim  
 **Address:** 1, Bamon Vaddo, Candolim, Bardez, Goa 403515, India  
 **Contract rate (per room/night, double):** CP ₹2,200 · MAP ₹2,800  
+**Online market rate:** —  
 **Beach:** Approx. 12-minute walk to Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 11 · Deluxe Room (approx. 180 sq ft, double bed), Premium Room (approx. 200 sq ft, queen bed), Family Room (approx. 220 sq ft, king bed)  
@@ -302,6 +311,7 @@ Shalom Indus Residency is a small 11-room guesthouse-style hotel in Bamon Vaddo,
 **Area:** Calangute  
 **Address:** H.No. E-1/218, Gauravaddo, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
+**Online market rate:** —  
 **Beach:** —  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** — · Deluxe Room (balcony/patio, garden or hill view), Suite Room (with bathtub), Penthouse Suite (private jacuzzi, partial sea view)  
@@ -336,6 +346,7 @@ Aira Beach Resort is a newer property in Gauravaddo, central Calangute, position
 **Area:** Candolim  
 **Address:** Fort Aguada Road, Bammon Vaddo, Candolim, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹2,800 · MAP ₹3,400  
+**Online market rate:** —  
 **Beach:** Approx. 500-800 m from Candolim Beach (about a 9-minute walk)  
 **Airports:** Dabolim 45 km · Mopa — km  
 **Rooms:** 78 · Deluxe Room (sleeps 2), One Bedroom Apartment (sleeps 4), Duplex Apartment (sleeps 5)  
@@ -371,6 +382,7 @@ Victor Exotica is a refurbished 78-room resort on Fort Aguada Road in Candolim, 
 **Area:** Calangute  
 **Address:** SY No. 194/7, Pocket 5-B, Ground Floor, Khobra Vaddo, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹4,200  
+**Online market rate:** —  
 **Beach:** Approx. 13-15 minute walk to Baga Beach and 15 minutes to Calangute Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 21 · Deluxe Double Room (approx. 180 sq ft), Premium Double Room (approx. 200 sq ft)  
@@ -405,6 +417,7 @@ Baga Bliss is a 21-room hotel in Khobra Vaddo, on the Calangute side of the Baga
 **Area:** Candolim  
 **Address:** D, Ximer, H.No. 1168, Near Jamaleshwar Temple, Gauravaddo, Candolim, Bardez, Goa 403515, India  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,500  
+**Online market rate:** —  
 **Beach:** Approx. 1 km from Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 36 · Standard Room (9), Club Room (12), Deluxe Room (12), Family Room (3)  
@@ -440,6 +453,7 @@ Regenta Place M.A.R.S. Candolim is a 36-room hotel opened in December 2025 by Ro
 **Area:** Baga  
 **Address:** H. No. 236/10 B, Khobra Vaddo, Baga, Bardez, North Goa 403515  
 **Contract rate (per room/night, double):** CP ₹4,500 · MAP ₹5,500  
+**Online market rate:** —  
 **Beach:** Close to Baga Beach and Calangute Beach (walking distance to Tito's Lane area); exact metres not published  
 **Airports:** Dabolim 41 km · Mopa 26 km  
 **Rooms:** 40 · Deluxe Room with Balcony, Premium Room with Balcony, Pool View Room with Balcony  
@@ -474,6 +488,7 @@ Sibaya Courtyard by Stone Wood Premier is a newly opened 40-room courtyard hotel
 **Area:** Calangute  
 **Address:** Porba Vaddo, Calangute-Arpora Road, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
+**Online market rate:** —  
 **Beach:** About 5 minutes by car from Baga Beach and Calangute Beach; 1.3 km from Calangute centre  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 40 · Premium Room, Grand Room, Junior Suite  
@@ -509,6 +524,7 @@ Calux Joia Do Mar Resort is a 40-room resort on the Calangute-Arpora Road in Por
 **Area:** Calangute  
 **Address:** Naika Vaddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹5,200 · MAP ₹6,700  
+**Online market rate:** —  
 **Beach:** About 10 minutes' walk to Calangute Beach; 1.4 km to Baga Beach; 2.9 km to Candolim Beach  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 117 · Regency Room, Deluxe Double or Twin Room, Suite with Bath Tub, Bellus Suite with Private Jacuzzi and Pool View  
@@ -544,6 +560,7 @@ Adamo The Bellus Goa is a 4-star hotel in Naika Vaddo, Calangute, set in tropica
 **Area:** Calangute  
 **Address:** Survey No. 193/3, Porba Vaddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,900 · MAP ₹4,900  
+**Online market rate:** —  
 **Beach:** About 14-15 minutes' walk to Baga Beach and Calangute Beach (approx. 1-1.5 km)  
 **Airports:** Dabolim 41 km · Mopa 29 km  
 **Rooms:** 61 · Standard Room (330 sq ft, king bed), Deluxe Room (350 sq ft, king bed)  
@@ -578,6 +595,7 @@ Bells Beach Resort, run by Resort De Balneaire, sits in Porba Vaddo between Cala
 **Area:** Calangute  
 **Address:** 1/230-A, Holiday Street, Gaurawaddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,000 · MAP ₹4,800  
+**Online market rate:** —  
 **Beach:** Short walk to Calangute Beach (Holiday Street leads to the beach); free beach shuttle offered  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 70 · Grandeur Deluxe Room, Grandeur Honeymoon Fantasy with Bathtub, Grandeur Premier with Bathtub and Balcony, Grandeur Family Room with Pool View, Grandeur Luxury with Couple Jacuzzi Bathtub, Grandeur Maharaja with Couple Jacuzzi Bathtub  
@@ -611,6 +629,7 @@ Grandeur De Sanchi is a 4-star boutique resort on Holiday Street in Gaurawaddo, 
 **Area:** Arpora  
 **Address:** 80/1, Calangute-Mapusa Road, Fuldem Waddo, Nagoa, Arpora, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
+**Online market rate:** —  
 **Beach:** 3.7 km from Baga Beach; Calangute Beach within 5 km  
 **Airports:** Dabolim 41 km · Mopa 23 km  
 **Rooms:** 59 · Standard Double Room, Deluxe Double Room  
@@ -646,6 +665,7 @@ Verano Hotel & Spa is a boutique lifestyle hotel on the Calangute-Mapusa Road in
 **Area:** Calangute  
 **Address:** Survey No. 166/13, Naikawaddo, Near Poriat Football Ground, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,700 · MAP ₹4,400  
+**Online market rate:** —  
 **Beach:** Approx. 1 km from Calangute Beach; about 4 minutes' drive to Baga Beach  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 72 · Standard Room, Deluxe Room, Family Room  
@@ -680,6 +700,7 @@ Sairaj Beach Resort is a 72-room resort in Naikawaddo, Calangute, about a kilome
 **Area:** Candolim  
 **Address:** 317/C, Baman Vaddo, Calangute-Fort Aguada Road, Candolim, Bardez, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹3,900  
+**Online market rate:** —  
 **Beach:** Near Candolim Beach (walking distance); about 6 minutes' drive to Calangute Beach  
 **Airports:** Dabolim 37 km · Mopa 30 km  
 **Rooms:** 60 · Delight Room with Balcony, Comfort Room, Luxury Room, Family Suite with Two Balconies  
@@ -715,6 +736,7 @@ Sukhmantra Resort & Spa is a boutique resort in Baman Vaddo, Candolim, on the Ca
 **Area:** Vagator  
 **Address:** Plot No. 412/3A, Near Bharat Petrol Pump, Deul Wada, Anjuna-Vagator, Bardez, Goa 403509  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹3,900  
+**Online market rate:** —  
 **Beach:** Within 10 minutes' drive of Anjuna Beach; close to Vagator Beach  
 **Airports:** Dabolim 45 km · Mopa 25 km  
 **Rooms:** 52 · Executive Room, Deluxe King Room with Balcony, Club Double Room with City View, Luxury Room, Royal Room, Family Room, Suite with Bathtub  
@@ -751,6 +773,7 @@ Vagator Downtown by VDP is a hotel opened in 2022 on the main Anjuna-Vagator roa
 **Area:** Calangute  
 **Address:** H.No. 4/42 C, Plot Sy. No. 363/19, Porba Waddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹3,900  
+**Online market rate:** —  
 **Beach:** 1.6 km from Calangute Beach (1.6 km from Baga Beach)  
 **Airports:** Dabolim 36.5 km · Mopa — km  
 **Rooms:** 32 · Super Deluxe Room  
@@ -787,6 +810,7 @@ Casa Pearl by WS is a 32-room, 4-star hotel in Porba Waddo, Calangute, about 1.6
 **Area:** Calangute  
 **Address:** Sy. No. 184/1, Naika Vaddo (Naika Waddo), Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,600 · MAP ₹4,400  
+**Online market rate:** —  
 **Beach:** 0.8 km from Calangute Beach (about 9 minutes' walk)  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 104 · Classic Double Room, Deluxe Double Room, Elite Room, Signature Suite, Royal Suite  
@@ -823,6 +847,7 @@ SinQ Symbol is a 104-room hotel in Naika Vaddo, Calangute, about 800 m from Cala
 **Area:** Candolim  
 **Address:** Opposite Taj Holiday Village, Sinquerim, Candolim, Bardez, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹3,300 · MAP ₹4,200  
+**Online market rate:** —  
 **Beach:** About 6 minutes' walk from Candolim Beach; 9 minutes' walk from Sinquerim Beach  
 **Airports:** Dabolim 39 km · Mopa — km  
 **Rooms:** 32 · Air-conditioned rooms with minibar and safe (pool-facing rooms available)  
@@ -860,6 +885,7 @@ SinQ Party Hotel is a 32-room hotel opposite Taj Holiday Village in Sinquerim, C
 **Area:** Candolim  
 **Address:** Opposite Taj Holiday Village, Aguada Road, Sinquerim, Candolim, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹4,150 · MAP ₹5,150  
+**Online market rate:** —  
 **Beach:** About 6 minutes' walk from Candolim Beach; 10 minutes' walk from Sinquerim Beach  
 **Airports:** Dabolim 37.2 km · Mopa 31.8 km  
 **Rooms:** 41 · Classic Room, Deluxe Room, Luxury Room, Executive Suite  
@@ -897,6 +923,7 @@ SinQ Privé is a 4-star boutique hotel on Aguada Road in Sinquerim, Candolim, a 
 **Area:** Assonora  
 **Address:** Near Club Mahindra, Advalpal, Assonora, Bicholim, Goa 403503  
 **Contract rate (per room/night, double):** CP ₹6,400 · MAP ₹8,400  
+**Online market rate:** —  
 **Beach:** —  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 10 · Lake-facing cottage with private plunge pool and deck  
@@ -930,6 +957,7 @@ SinQ Anvaya is a small nature retreat of ten lake-facing thatched-roof cottages 
 **Area:** Calangute  
 **Address:** Plot 369 / H.No. 4/80, Porba Vaddo, Opposite Hard Rock Hotel, Behind KFC, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,200 · MAP ₹4,900  
+**Online market rate:** —  
 **Beach:** About 1 km from Calangute Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 41 · Classic Room (220 sq ft), Superior Room (250 sq ft), Premium Room (300 sq ft), Family Room (500 sq ft)  
@@ -966,6 +994,7 @@ Silver Shell Resort is a 41-room property in Porba Vaddo, central Calangute, opp
 **Area:** Anjuna  
 **Address:** 511/3, Anjuna, Bardez, North Goa 403509  
 **Contract rate (per room/night, double):** CP ₹4,000 · MAP ₹5,000  
+**Online market rate:** —  
 **Beach:** About 10 minutes' drive from Anjuna Beach; 3.7 km from Baga Beach  
 **Airports:** Dabolim — km · Mopa 27.2 km  
 **Rooms:** 42 · Rooms, Suites (bohemian-inspired), Suites with private plunge pool, Family suite  
@@ -1000,6 +1029,7 @@ Holitel Anjuna Goa is a 42-room contemporary hotel opened in February 2024 in th
 **Area:** Calangute  
 **Address:** 153/1, Calangute, Bardez, North Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,900 · MAP ₹5,900  
+**Online market rate:** —  
 **Beach:** —  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** — · —  
@@ -1031,6 +1061,7 @@ Holitel Calangute is the second property of Holitel Hotels, a Goa brand launched
 **Area:** Candolim  
 **Address:** H.No. 615/A/2, Sequeira Vaddo, Candolim, Bardez, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹4,500 · MAP ₹5,500  
+**Online market rate:** —  
 **Beach:** About 800 m from Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** — · Casa Bella - Superior Room (25 sq m, king bed), Casa Vista - Premium Room (49 sq m, king bed), Casa Amor - One Bedroom Suite (56 sq m, king bed), Private pool villas (including 4-bedroom luxury villas)  
@@ -1065,6 +1096,7 @@ Simshines Hotels, Villas, Suites & Spa is a resort in Sequeira Vaddo, Candolim, 
 **Area:** Ashvem  
 **Address:** House No. 224, Ashvem Beach, Ashvem Wada, Mandrem, Goa 403527  
 **Contract rate (per room/night, double):** CP ₹8,500 · MAP ₹10,500  
+**Online market rate:** —  
 **Beach:** Beachfront, direct access to Ashvem (Ashwem) Beach  
 **Airports:** Dabolim 57.2 km · Mopa — km  
 **Rooms:** 78 · Wooden Cottage, Premium Wooden AC Cottage, Beach Facing Chalet, Garden Facing Villa, Beach Facing Villa, Presidential Suite  
@@ -1100,6 +1132,7 @@ La Cabana Beach & Spa sits directly on Ashwem Beach in Mandrem, North Goa, with 
 **Area:** Morjim  
 **Address:** 182/1, Gawdewada, Morjim Beach, Morjim, Pernem, Goa 403512  
 **Contract rate (per room/night, double):** CP ₹5,200 · MAP ₹7,200  
+**Online market rate:** —  
 **Beach:** On Morjim (Turtle) Beach with beach access; Ashvem Beach approx. 3-minute walk  
 **Airports:** Dabolim 56.9 km · Mopa — km  
 **Rooms:** 42 · Tropical Cottage (Non-Sea View Wing, 220 sq ft), Premium Cottage (269 sq ft), Pool View Room, Garden Suite (480 sq ft)  
@@ -1137,6 +1170,7 @@ Sibaya Beach Resort by Stone Wood is set on the quiet sands of Morjim Beach, the
 **Area:** Morjim  
 **Address:** Survey No. 211-2A, Ashvem Beach Road, Morjim, Goa 403527  
 **Contract rate (per room/night, double):** CP ₹5,200 · MAP ₹6,700  
+**Online market rate:** —  
 **Beach:** Beachfront on Ashvem (Ashwem) Beach; Morjim Beach approx. 3-minute walk  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 86 · Deluxe Room, Sea-view Cottage, Private Villa, Rooms with private pool  
@@ -1171,6 +1205,7 @@ Dallas Beach Resort stands on Ashwem Beach at the Morjim end of North Goa's quie
 **Area:** Morjim  
 **Address:** Survey No. 241/3, New Wada, Morjim, Pernem, Goa 403512  
 **Contract rate (per room/night, double):** CP ₹5,700 · MAP ₹6,500  
+**Online market rate:** —  
 **Beach:** Steps from Ashvem Beach (approx. 0.1 km, 1-minute walk); resort's own 'Here & Now' beach shack opens onto the sand  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 69 · Standard Room (185 sq ft, 52 rooms), Lawn View Room (182 sq ft, 10 rooms), Pool View Room (182 sq ft, 3 rooms), Pool-facing Cottage  
@@ -1207,6 +1242,7 @@ Aralea Beach Resort by Stone Wood Premier is a garden-style resort a minute's wa
 **Area:** Baga  
 **Address:** 245/8, Tito's Lane 2, Baga, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹5,000 · MAP ₹6,000  
+**Online market rate:** —  
 **Beach:** On Baga Beach (approx. 80 m); private beach area  
 **Airports:** Dabolim 42 km · Mopa — km  
 **Rooms:** 28 · Amara Premium Room (280 sq ft), Amara Suite (450 sq ft, separate living room, partial ocean view), Amara Family Suite (450 sq ft), Amara Honeymoon Suite  
@@ -1245,6 +1281,7 @@ Amara Oceanfront Resort & Club is a compact 28-room resort on Tito's Lane 2, rig
 **Area:** Baga  
 **Address:** Next to Bacardi Shack, Baga Beach, Tito's Lane 2, Baga, Calangute, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,500 · MAP ₹5,700  
+**Online market rate:** —  
 **Beach:** On Baga Beach (approx. 2-minute walk); free beach club on site  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 27 · Deluxe Room, Cottage, Premium Double Room with Sea View  
@@ -1280,6 +1317,7 @@ Surf House Beach Resort is a surf-themed beach club and resort that opened in 20
 **Area:** Morjim  
 **Address:** H. No. 761/2, Gawdewada, Morjim, Goa 403512  
 **Contract rate (per room/night, double):** CP ₹5,300 · MAP ₹7,300  
+**Online market rate:** —  
 **Beach:** Beachfront, directly on Morjim Beach  
 **Airports:** Dabolim 57.2 km · Mopa 18.3 km  
 **Rooms:** 30 · Deluxe Beach Cottage (non-sea-view balcony), Tropical Beach Cottage (non-sea-view balcony), Tropical Beach Suite with bathtub in balcony (non-sea view), Signature Beach Suite with jacuzzi in balcony (sea view), Sunset Beach Suite with bathtub in balcony (sea view)  

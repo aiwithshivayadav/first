@@ -61,6 +61,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "Approx. 1-1.8 km from Calangute Beach (sources describe it as a 5-15 minute walk)",
       "distance_from_dabolim_airport_km": 39.8,
       "distance_from_mopa_airport_km": null,
@@ -132,6 +145,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "About a 5-minute walk from Baga Beach",
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -202,6 +228,19 @@
         "dbl_map": 3700,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Approx. 5-minute walk / 2-minute drive to Calangute Beach",
       "distance_from_dabolim_airport_km": 40,
@@ -279,6 +318,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "Approx. 1 km from Calangute Beach (5-minute drive); about 7 minutes' drive to Baga Beach",
       "distance_from_dabolim_airport_km": 39.9,
       "distance_from_mopa_airport_km": null,
@@ -354,6 +406,19 @@
         "dbl_map": 3000,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Approx. 2.6 km from Sinquerim Beach; Candolim Beach nearby",
       "distance_from_dabolim_airport_km": 40,
@@ -431,6 +496,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "Within approx. 10-minute drive of Calangute Beach and Candolim Beach",
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -492,6 +570,19 @@
         "dbl_map": 2800,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Approx. 12-minute walk to Candolim Beach",
       "distance_from_dabolim_airport_km": null,
@@ -564,6 +655,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": null,
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -630,6 +734,19 @@
         "dbl_map": 3400,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Approx. 500-800 m from Candolim Beach (about a 9-minute walk)",
       "distance_from_dabolim_airport_km": 45,
@@ -708,6 +825,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "Approx. 13-15 minute walk to Baga Beach and 15 minutes to Calangute Beach",
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -778,6 +908,19 @@
         "dbl_map": 4500,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Approx. 1 km from Candolim Beach",
       "distance_from_dabolim_airport_km": null,
@@ -853,6 +996,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "Close to Baga Beach and Calangute Beach (walking distance to Tito's Lane area); exact metres not published",
       "distance_from_dabolim_airport_km": 41,
       "distance_from_mopa_airport_km": 26,
@@ -924,6 +1080,19 @@
         "dbl_map": 4200,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "About 5 minutes by car from Baga Beach and Calangute Beach; 1.3 km from Calangute centre",
       "distance_from_dabolim_airport_km": 40,
@@ -1001,6 +1170,19 @@
         "dbl_map": 6700,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "About 10 minutes' walk to Calangute Beach; 1.4 km to Baga Beach; 2.9 km to Candolim Beach",
       "distance_from_dabolim_airport_km": 40,
@@ -1084,6 +1266,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "About 14-15 minutes' walk to Baga Beach and Calangute Beach (approx. 1-1.5 km)",
       "distance_from_dabolim_airport_km": 41,
       "distance_from_mopa_airport_km": 29,
@@ -1160,6 +1355,19 @@
         "dbl_map": 4800,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Short walk to Calangute Beach (Holiday Street leads to the beach); free beach shuttle offered",
       "distance_from_dabolim_airport_km": 40,
@@ -1240,6 +1448,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "3.7 km from Baga Beach; Calangute Beach within 5 km",
       "distance_from_dabolim_airport_km": 41,
       "distance_from_mopa_airport_km": 23,
@@ -1317,6 +1538,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "Approx. 1 km from Calangute Beach; about 4 minutes' drive to Baga Beach",
       "distance_from_dabolim_airport_km": 40,
       "distance_from_mopa_airport_km": 29,
@@ -1392,6 +1626,19 @@
         "dbl_map": 3900,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Near Candolim Beach (walking distance); about 6 minutes' drive to Calangute Beach",
       "distance_from_dabolim_airport_km": 37,
@@ -1472,6 +1719,19 @@
         "dbl_map": 3900,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Within 10 minutes' drive of Anjuna Beach; close to Vagator Beach",
       "distance_from_dabolim_airport_km": 45,
@@ -1557,6 +1817,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "1.6 km from Calangute Beach (1.6 km from Baga Beach)",
       "distance_from_dabolim_airport_km": 36.5,
       "distance_from_mopa_airport_km": null,
@@ -1631,6 +1904,19 @@
         "dbl_map": 4400,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "0.8 km from Calangute Beach (about 9 minutes' walk)",
       "distance_from_dabolim_airport_km": null,
@@ -1709,6 +1995,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "About 6 minutes' walk from Candolim Beach; 9 minutes' walk from Sinquerim Beach",
       "distance_from_dabolim_airport_km": 39,
       "distance_from_mopa_airport_km": null,
@@ -1783,6 +2082,19 @@
         "dbl_map": 5150,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "About 6 minutes' walk from Candolim Beach; 10 minutes' walk from Sinquerim Beach",
       "distance_from_dabolim_airport_km": 37.2,
@@ -1865,6 +2177,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": null,
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -1940,6 +2265,19 @@
         "dbl_map": 4900,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "About 1 km from Calangute Beach",
       "distance_from_dabolim_airport_km": null,
@@ -2024,6 +2362,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "About 10 minutes' drive from Anjuna Beach; 3.7 km from Baga Beach",
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": 27.2,
@@ -2103,6 +2454,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": null,
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -2159,6 +2523,19 @@
         "dbl_map": 5500,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "About 800 m from Candolim Beach",
       "distance_from_dabolim_airport_km": null,
@@ -2233,6 +2610,19 @@
         "dbl_map": 10500,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Beachfront, direct access to Ashvem (Ashwem) Beach",
       "distance_from_dabolim_airport_km": 57.2,
@@ -2312,6 +2702,19 @@
         "dbl_map": 7200,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "On Morjim (Turtle) Beach with beach access; Ashvem Beach approx. 3-minute walk",
       "distance_from_dabolim_airport_km": 56.9,
@@ -2393,6 +2796,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "Beachfront on Ashvem (Ashwem) Beach; Morjim Beach approx. 3-minute walk",
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -2467,6 +2883,19 @@
         "dbl_map": 6500,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Steps from Ashvem Beach (approx. 0.1 km, 1-minute walk); resort's own 'Here & Now' beach shack opens onto the sand",
       "distance_from_dabolim_airport_km": null,
@@ -2544,6 +2973,19 @@
         "dbl_map": 6000,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "On Baga Beach (approx. 80 m); private beach area",
       "distance_from_dabolim_airport_km": 42,
@@ -2624,6 +3066,19 @@
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
       },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
+      },
       "distance_to_beach": "On Baga Beach (approx. 2-minute walk); free beach club on site",
       "distance_from_dabolim_airport_km": null,
       "distance_from_mopa_airport_km": null,
@@ -2700,6 +3155,19 @@
         "dbl_map": 7300,
         "basis": "Per room per night, double sharing, base category room",
         "validity": "Till 31st March 2027, except supplement/blackout dates"
+      },
+      "market_rate": {
+        "currency": "INR",
+        "typical": null,
+        "low": null,
+        "low_source": null,
+        "high": null,
+        "high_source": null,
+        "includes_breakfast": null,
+        "taxes_included": null,
+        "date_checked": null,
+        "sources": [],
+        "notes": null
       },
       "distance_to_beach": "Beachfront, directly on Morjim Beach",
       "distance_from_dabolim_airport_km": 57.2,

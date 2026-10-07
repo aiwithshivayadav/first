@@ -27,6 +27,12 @@ for f in sorted(RESEARCH.glob("group_*.json")):
         research[norm(re.sub(r"\s*\([^)]*\)", "", h["pdf_name"]))] = h
 
 
+market = {}
+for f in sorted(RESEARCH.glob("market_*.json")):
+    for m in json.loads(f.read_text()):
+        market[norm(re.sub(r"\s*\([^)]*\)", "", m["pdf_name"]))] = m
+
+
 def slugify(s: str) -> str:
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
 
@@ -48,6 +54,10 @@ for i, r in enumerate(rates["hotels"], start=1):
     if d is None:
         missing.append(r["name"])
         d = {}
+    m = market.get(key)
+    if m is None:
+        cands = [k for k in market if k.startswith(key[:10]) or key.startswith(k[:10])]
+        m = market[cands[0]] if len(cands) == 1 else {}
     hotels.append(
         {
             "id": i,
@@ -66,6 +76,19 @@ for i, r in enumerate(rates["hotels"], start=1):
                 "dbl_map": r["dbl_map"],
                 "basis": rates["basis"],
                 "validity": rates["validity"],
+            },
+            "market_rate": {
+                "currency": "INR",
+                "typical": m.get("market_rate_typical_inr"),
+                "low": m.get("market_rate_low_inr"),
+                "low_source": m.get("market_rate_low_source"),
+                "high": m.get("market_rate_high_inr"),
+                "high_source": m.get("market_rate_high_source"),
+                "includes_breakfast": m.get("includes_breakfast"),
+                "taxes_included": m.get("taxes_included"),
+                "date_checked": m.get("date_checked"),
+                "sources": m.get("sources") or [],
+                "notes": m.get("notes"),
             },
             "distance_to_beach": d.get("distance_to_beach"),
             "distance_from_dabolim_airport_km": d.get("distance_from_dabolim_airport_km"),
@@ -110,7 +133,10 @@ dataset = {
 # ---------- CSV ----------
 cols = [
     "id", "slug", "name", "official_name", "category", "star_rating", "area", "address",
-    "rate_dbl_cp_inr", "rate_dbl_map_inr", "distance_to_beach",
+    "rate_dbl_cp_inr", "rate_dbl_map_inr",
+    "market_rate_typical_inr", "market_rate_low_inr", "market_rate_low_source",
+    "market_rate_high_inr", "market_rate_high_source", "market_rate_includes_breakfast",
+    "market_rate_date_checked", "market_rate_notes", "distance_to_beach",
     "distance_from_dabolim_airport_km", "distance_from_mopa_airport_km",
     "distance_from_thivim_station_km", "total_rooms", "room_types", "amenities",
     "check_in", "check_out", "dining", "website", "phone", "google_rating",
@@ -124,6 +150,9 @@ with (OUT / "hotels.csv").open("w", newline="", encoding="utf-8") as fh:
         w.writerow([
             h["id"], h["slug"], h["name"], h["official_name"], h["category"], h["star_rating"],
             h["area"], h["address"], h["rates"]["dbl_cp"], h["rates"]["dbl_map"],
+            h["market_rate"]["typical"], h["market_rate"]["low"], h["market_rate"]["low_source"],
+            h["market_rate"]["high"], h["market_rate"]["high_source"], h["market_rate"]["includes_breakfast"],
+            h["market_rate"]["date_checked"], h["market_rate"]["notes"],
             h["distance_to_beach"], h["distance_from_dabolim_airport_km"],
             h["distance_from_mopa_airport_km"], h["distance_from_thivim_station_km"],
             h["total_rooms"], " | ".join(h["room_types"]), " | ".join(h["amenities"]),
@@ -147,9 +176,22 @@ lines += [
     "",
 ]
 lines += [f"- {b['name']}: {b['dates']}" for b in rates["blackout_dates"]]
-lines += ["", "## Rate summary", "", "| # | Hotel | Category | Area | DBL CP | DBL MAP |", "|---|---|---|---|---|---|"]
+def inr(v):
+    return f"₹{v:,}" if isinstance(v, (int, float)) else "—"
+
+def market_cell(h):
+    mr = h["market_rate"]
+    if mr["low"] and mr["high"] and mr["low"] != mr["high"]:
+        return f"{inr(mr['low'])} – {inr(mr['high'])}"
+    return inr(mr["typical"] or mr["low"] or mr["high"])
+
+lines += ["", "## Rate summary", "",
+          "Online market rate = public per-night price for a standard double room seen on booking sites (MakeMyTrip, Booking.com, Goibibo, Agoda, etc.) when checked on 7 Oct 2026. Online prices change daily; treat them as indicative.", "",
+          "| # | Hotel | Category | Area | Contract DBL CP | Contract DBL MAP | Online market rate | Market source |", "|---|---|---|---|---|---|---|---|"]
 for h in hotels:
-    lines.append(f"| {h['id']} | {h['official_name']} | {h['category']} | {md_val(h['area'])} | ₹{h['rates']['dbl_cp']:,} | ₹{h['rates']['dbl_map']:,} |")
+    mr = h["market_rate"]
+    src = " / ".join(x for x in {mr["low_source"], mr["high_source"]} if x) or "—"
+    lines.append(f"| {h['id']} | {h['official_name']} | {h['category']} | {md_val(h['area'])} | ₹{h['rates']['dbl_cp']:,} | ₹{h['rates']['dbl_map']:,} | {market_cell(h)} | {src} |")
 lines += ["", "## Hotel profiles", ""]
 for h in hotels:
     lines += [f"### {h['id']}. {h['official_name']}", ""]
@@ -162,6 +204,7 @@ for h in hotels:
         f"**Area:** {md_val(h['area'])}  ",
         f"**Address:** {md_val(h['address'])}  ",
         f"**Contract rate (per room/night, double):** CP ₹{h['rates']['dbl_cp']:,} · MAP ₹{h['rates']['dbl_map']:,}  ",
+        f"**Online market rate:** {market_cell(h)}" + (f" ({h['market_rate']['notes']})" if h['market_rate']['notes'] else "") + "  ",
         f"**Beach:** {md_val(h['distance_to_beach'])}  ",
         f"**Airports:** Dabolim {md_val(h['distance_from_dabolim_airport_km'])} km · Mopa {md_val(h['distance_from_mopa_airport_km'])} km  ",
         f"**Rooms:** {md_val(h['total_rooms'])} · {md_val(', '.join(h['room_types']))}  ",
@@ -187,6 +230,11 @@ E = html.escape
 
 def chips(items, cls="chip"):
     return "".join(f'<span class="{cls}">{E(str(x))}</span>' for x in items)
+
+def mkt_src(h):
+    mr = h["market_rate"]
+    srcs = [x for x in dict.fromkeys([mr["low_source"], mr["high_source"]]) if x]
+    return ("via " + " / ".join(srcs)) if srcs else "not found online"
 
 cards = []
 for h in hotels:
@@ -215,7 +263,8 @@ for h in hotels:
   <div class="rates">
     <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹{h['rates']['dbl_cp']:,}</span></div>
     <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹{h['rates']['dbl_map']:,}</span></div>
-    <small>per room / night · double sharing · base category</small>
+    <div class="mkt"><span class="lbl">Online market rate</span><span class="price">{E(market_cell(h))}</span><small>{E(mkt_src(h))}</small></div>
+    <small>contract rates per room / night · double sharing · base category</small>
   </div>
   <p class="desc">{E(h['description'] or '')}</p>
   <p class="dist">{' · '.join(dist)}</p>
@@ -262,6 +311,7 @@ h1{{margin:0 0 4px;font-size:1.7rem}}.sub{{color:var(--muted);margin:0 0 20px}}
 .area{{margin:0;color:var(--muted);font-size:.85rem}}
 .rating{{background:var(--chip);border-radius:999px;padding:4px 10px;font-size:.8rem;white-space:nowrap;font-weight:600}}
 .rates{{display:grid;grid-template-columns:1fr 1fr;gap:8px;background:var(--chip);border-radius:10px;padding:10px 12px}}
+.rates .mkt{{grid-column:1/-1;border-top:1px dashed var(--line);padding-top:6px;display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}}.rates .mkt .price{{color:var(--accent)}}.rates .mkt small{{grid-column:auto}}
 .rates small{{grid-column:1/-1;color:var(--muted)}}
 .rates .lbl{{display:block;font-size:.72rem;color:var(--muted)}}.price{{font-weight:700;font-size:1.15rem}}
 .desc{{margin:0}}.dist{{margin:0;color:var(--muted);font-size:.85rem}}
@@ -269,6 +319,8 @@ h1{{margin:0 0 4px;font-size:1.7rem}}.sub{{color:var(--muted);margin:0 0 20px}}
 details{{border-top:1px solid var(--line);padding-top:8px;font-size:.9rem}}summary{{cursor:pointer;color:var(--accent);font-weight:600}}
 details p{{margin:8px 0}}.meta a{{color:var(--accent)}}
 .count{{color:var(--muted);font-size:.85rem}}
+.tbl{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:0 0 18px}}.tbl summary{{font-size:1rem}}
+.scroll{{overflow-x:auto;margin:10px 0}}table{{border-collapse:collapse;width:100%;font-size:.85rem;min-width:760px}}th,td{{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);white-space:nowrap}}th{{color:var(--muted);font-weight:600}}td:nth-child(5),td:nth-child(6),td:nth-child(7){{font-variant-numeric:tabular-nums}}
 footer{{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padding-top:14px}}
 </style>
 </head>
@@ -287,6 +339,14 @@ footer{{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid
   <select id="sort"><option value="list">Sort: contract order</option><option value="cp-asc">Price: low to high</option><option value="cp-desc">Price: high to low</option><option value="name">Name A–Z</option></select>
 </div>
 <p class="count" id="count"></p>
+
+<details class="tbl"><summary>Rate comparison table (contract vs online market rate)</summary>
+<div class="scroll"><table>
+<thead><tr><th>#</th><th>Hotel</th><th>Category</th><th>Area</th><th>Contract CP</th><th>Contract MAP</th><th>Online market rate</th><th>Source</th></tr></thead>
+<tbody>{''.join(f"<tr><td>{h['id']}</td><td>{E(h['official_name'])}</td><td>{E(h['category'])}</td><td>{E(h['area'] or '')}</td><td>₹{h['rates']['dbl_cp']:,}</td><td>₹{h['rates']['dbl_map']:,}</td><td>{E(market_cell(h))}</td><td>{E(mkt_src(h).replace('via ',''))}</td></tr>" for h in hotels)}</tbody>
+</table></div>
+<small>Online market rate = public per-night price for a standard double room on booking sites when checked on 7 Oct 2026. Online prices change daily.</small>
+</details>
 
 <section class="grid" id="grid">{''.join(cards)}</section>
 
