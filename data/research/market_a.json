@@ -1,0 +1,202 @@
+[
+  {
+    "pdf_name": "Delta Residency",
+    "market_rate_low_inr": 1919,
+    "market_rate_low_source": "Trivago",
+    "market_rate_high_inr": 2773,
+    "market_rate_high_source": "Tripadvisor",
+    "market_rate_typical_inr": 2206,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.kayak.co.in/Calangute-Hotels-Delta-Residency-Goa.306252.ksp",
+      "https://www.trivago.in/en-IN/oar/hotel-delta-residency-calangute?search=100-2454822",
+      "https://www.tripadvisor.in/Hotel_Review-g306995-d734687-Reviews-Hotel_Delta_Residency_Goa-Calangute_North_Goa_District_Goa.html",
+      "https://www.kayak.com/Calangute-Hotels-Delta-Residency-Goa.306252.ksp"
+    ],
+    "notes": "Typical figure is Kayak India 'from ₹2,206' for a Deluxe room, fees included but taxes excluded. Tripadvisor shows a standard-room range of ₹1,148–₹2,773 and a ₹2,468 quote; Trivago 'from ₹1,919'. Kayak US shows from $24 (≈₹2,016 at 84 INR/USD). Lower-end Tripadvisor figure (₹1,148) likely off-season, not used as low."
+  },
+  {
+    "pdf_name": "Amara Casa Baga",
+    "market_rate_low_inr": 2732,
+    "market_rate_low_source": "EaseMyTrip",
+    "market_rate_high_inr": 6400,
+    "market_rate_high_source": "H-Rez",
+    "market_rate_typical_inr": 2732,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.easemytrip.com/hotels/casa-baga-1054938/",
+      "https://www.booking.com/hotel/in/casa-baga.html",
+      "https://www.hotels.com/ho389772/casa-baga-baga-india/",
+      "https://www.hotelscombined.ca/Hotel/Casa_Baga.htm",
+      "https://www.orbitz.com/Goa-Hotels-Casa-Baga.h4581931.Hotel-Information",
+      "https://hotel-casa-baga.h-rez.com/"
+    ],
+    "notes": "EaseMyTrip: Casa Special room ₹2,732 + ₹156 taxes; Casa Favourite ₹3,209 + ₹183. Other figures: ₹3,605 (unspecified listing), HotelsCombined ₹5,412, Orbitz $64 (≈₹5,376 at 84/USD), H-Rez 'rates from INR 6,400' (third-party rack-rate site, likely peak season). Hotels.com states breakfast is free at this hotel, but not confirmed for the EaseMyTrip rate. Wide range suggests strong seasonal variation."
+  },
+  {
+    "pdf_name": "Sinq Beach Resort Calangute",
+    "market_rate_low_inr": 2734,
+    "market_rate_low_source": "Agoda",
+    "market_rate_high_inr": 4319,
+    "market_rate_high_source": "Expedia",
+    "market_rate_typical_inr": 2734,
+    "includes_breakfast": null,
+    "taxes_included": true,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.hotelscombined.in/Hotel/SinQ_Beach_Resort.htm",
+      "https://www.tripadvisor.com/Hotel_Review-g306995-d1585470-Reviews-SinQ_Beach_Resort-Calangute_North_Goa_District_Goa.html",
+      "https://www.trivago.in/en-IN/oar/hotel-sinq-beach-resort-calangute?search=100-1535669",
+      "https://ae.makemytrip.global/hotels-international/en-ae/india/goa-hotels/sinq_beach_resort-details.html",
+      "https://www.zenhotels.com/hotel/india/goa/mid7861566/jewel_inn__spa/"
+    ],
+    "notes": "Agoda ₹2,734 is for a Classic room (VAT stated as included per HotelsCombined); Expedia ₹4,047–₹4,319 is for a Deluxe room. HotelsCombined reports average paid ₹3,251/night. MakeMyTrip UAE shows AED 104 + AED 15 taxes (≈₹2,400 before tax); Hotels.com $37 (≈₹3,108 at 84/USD). Hotels.com mentions breakfast buffet included but not confirmed for the Agoda rate."
+  },
+  {
+    "pdf_name": "Silver Shell Calangute",
+    "market_rate_low_inr": 2816,
+    "market_rate_low_source": "Goibibo",
+    "market_rate_high_inr": 3360,
+    "market_rate_high_source": "MakeMyTrip",
+    "market_rate_typical_inr": 2816,
+    "includes_breakfast": null,
+    "taxes_included": null,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.goibibo.com/hotels/rooms-of-silver-shell-hotel-in-goa-6187056167287578286/",
+      "https://www.makemytrip.global/hotels/silver_shell-details-goa.html",
+      "https://www.tripadvisor.in/Hotel_Review-g306995-d15643122-Reviews-Silver_Shell_Resort-Calangute_North_Goa_District_Goa.html",
+      "https://www.trivago.in/en-IN/oar/hotel-silver-shell-calangute?search=100-11416380"
+    ],
+    "notes": "Goibibo: Superior ₹2,816 (after 15% off), Premium ₹2,986, Family ₹3,413 — taxes not stated (Goibibo usually excludes). Agoda ₹2,869 via Tripadvisor comparison; Tripadvisor standard-room range ₹2,781–₹3,260. High figure is MakeMyTrip global showing Superior at $40, converted at 84 INR/USD (Family $52 ≈ ₹4,368 is a different room type). Listed on OTAs as 'Silver Shell' / 'Capital O 28820 Silver Shell Resort' / 'FabHotel Prime Silver Shell'."
+  },
+  {
+    "pdf_name": "Goveia Grand",
+    "market_rate_low_inr": 1627,
+    "market_rate_low_source": "Goibibo",
+    "market_rate_high_inr": 3024,
+    "market_rate_high_source": "Kayak",
+    "market_rate_typical_inr": 1627,
+    "includes_breakfast": false,
+    "taxes_included": null,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.goibibo.com/hotels/rooms-of-goveia-grand-candolim-hotel-in-goa-7495716038951798280/",
+      "https://www.tripadvisor.in/Hotel_Review-g297605-d1156233-Reviews-Goveia_Holiday_Resort-Candolim_Bardez_North_Goa_District_Goa.html",
+      "https://www.kayak.com/Candolim-Hotels-Goveia-Holiday-Homes.397615.ksp",
+      "https://www.expedia.com/Candolim-Hotels-Goveia-Holiday-Resort.h2597844.Hotel-Information"
+    ],
+    "notes": "Goibibo 'Goveia Grand Candolim': Standard room-only ₹1,627 (19% off from ₹2,000), with breakfast ₹2,010, with meals ₹2,755; Deluxe ₹2,093–₹3,230. MakeMyTrip 'Goveia Holiday Resort' ₹2,363. Kayak range $19–$36 (≈₹1,596–₹3,024 at 84/USD); high figure is the converted $36. Property appears under both 'Goveia Grand' and 'Goveia Holiday Resort/Homes' names."
+  },
+  {
+    "pdf_name": "Regalsand By Welcome Goa",
+    "market_rate_low_inr": 1848,
+    "market_rate_low_source": "Hotels.com",
+    "market_rate_high_inr": 6384,
+    "market_rate_high_source": "Expedia",
+    "market_rate_typical_inr": 1848,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.hotels.com/ho4237063776/regal-sands-hotel/",
+      "https://www.expedia.com/Calangute-Hotels-Regal-Sands-Hotel.h132376993.Hotel-Information",
+      "https://us.trip.com/hotels/saligao-hotel-detail-107613479/regal-sands-hotel/"
+    ],
+    "notes": "No INR figures found; all converted at 84 INR/USD. Hotels.com from $22/night ($23 with taxes) ≈ ₹1,848; Trip.com from $24 ≈ ₹2,016; Expedia $72–$76 with taxes ≈ ₹6,048–₹6,384 (likely a peak date or larger room). Very wide spread, treat typical with caution. 2-star, 80 rooms, Naikawaddo Calangute."
+  },
+  {
+    "pdf_name": "Shalom Indus Residency Candolim",
+    "market_rate_low_inr": 1008,
+    "market_rate_low_source": "Hotels.com",
+    "market_rate_high_inr": 6164,
+    "market_rate_high_source": "ixigo",
+    "market_rate_typical_inr": 1299,
+    "includes_breakfast": true,
+    "taxes_included": null,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.fabhotels.com/hotels-in-goa/fabhotel-shalom-indus-residency-powojiqh.html",
+      "https://www.goibibo.com/hotels/fabhotel-shalom-indus-residency-1km-to-candolim-beach-hotel-in-goa-1261597442444454962/",
+      "https://www.makemytrip.com/hotels/fabhotel_shalom_indus_residency_1km_to_candolim_beach-details-goa.html",
+      "https://www.ixigo.com/hotels/shalom-indus-residency-in-candolim-1082803-d",
+      "https://www.hotels.com/ho3617498912/"
+    ],
+    "notes": "Typical is FabHotels.com own site 'from ₹1,299' AC room with complimentary breakfast (Deluxe ₹1,337, Family ₹1,833). Goibibo ₹1,523 + ₹277 taxes (Deluxe). Low is Hotels.com $12 (≈₹1,008 at 84/USD, $13 with taxes). Highs: MakeMyTrip Deluxe ₹4,157 + ₹1,823 taxes and ixigo ₹6,164 + ₹900 — these appear to be peak-date or stale quotes and are outliers vs. the ₹1,000–₹1,800 cluster."
+  },
+  {
+    "pdf_name": "Aira Beach Resort Calangute",
+    "market_rate_low_inr": null,
+    "market_rate_low_source": null,
+    "market_rate_high_inr": null,
+    "market_rate_high_source": null,
+    "market_rate_typical_inr": null,
+    "includes_breakfast": null,
+    "taxes_included": null,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.airabeachresort.com/"
+    ],
+    "notes": "No price found after 6 searches (standard + extended, incl. MakeMyTrip/Goibibo/Agoda/Booking.com/hotels.com/Tripadvisor queries). Only hit is the official site (airabeachresort.com, H.No E-1/218 Gauravaddo, Calangute; rooms: Deluxe AC, Suite AC with bathtub, Penthouse suite with jacuzzi; reservations 9319956598), which was blocked for fetching and whose search snippet showed no tariff. Property does not appear to be listed on major OTAs under this name."
+  },
+  {
+    "pdf_name": "Victor Exotica",
+    "market_rate_low_inr": 1848,
+    "market_rate_low_source": "Hotels.com",
+    "market_rate_high_inr": 7728,
+    "market_rate_high_source": "H-Rez",
+    "market_rate_typical_inr": 2432,
+    "includes_breakfast": null,
+    "taxes_included": true,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.expedia.co.in/Candolim-Hotels-Indy-Suites-Candolim.h127304174.Hotel-Information",
+      "https://in.hotels.com/ho4074733568/",
+      "https://www.makemytrip.global/hotels/indy_suites_candolim-details-goa.html",
+      "https://us.trip.com/hotels/candolim-hotel-detail-134081002/victor-exotica-an-indy-resort/",
+      "https://victor-exotica-beach-goa.h-rez.com/"
+    ],
+    "notes": "Typical is Expedia India listing ₹2,432 including taxes and fees (Deluxe room). Hotels.com $22 before taxes ≈ ₹1,848 at 84/USD (low). MakeMyTrip global: Deluxe $47 ($38 after discount ≈ ₹3,192), 1BR apartment $53, Duplex $69. Trip.com from $37 ≈ ₹3,108. High is H-Rez 'rates from INR 7,728' (third-party rack-rate site, likely peak season). Now branded 'Victor Exotica an Indy Resort'."
+  },
+  {
+    "pdf_name": "Baga Bliss",
+    "market_rate_low_inr": 3279,
+    "market_rate_low_source": "MakeMyTrip/Goibibo (snippet, site not specified)",
+    "market_rate_high_inr": 6588,
+    "market_rate_high_source": "Tripadvisor",
+    "market_rate_typical_inr": 3279,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.goibibo.com/hotels/baga-bliss-by-celestiial-hospitality-hotel-in-goa-307580679576885352/",
+      "https://www.makemytrip.com/hotels/skon_baga_bliss_hotel_by_orion_hotels-details-goa.html",
+      "https://www.makemytrip.global/hotels/hotel_baga_bliss_by_celestiial_hospitality-details-goa.html",
+      "https://www.easemytrip.com/hotels/skon-baga-bliss-hotel-by-orion-hotels-3607408/",
+      "https://www.tripadvisor.com/Hotel_Review-g306995-d27173987-Reviews-Skon_Baga_Bliss_Hotel_By_Orion_Hotels-Calangute_North_Goa_District_Goa.html",
+      "https://www.ixigo.com/hotels/hotel-baga-bliss-by-celestiial-hospitality-in-goa-453499-d"
+    ],
+    "notes": "Search snippet (MakeMyTrip/Goibibo group listing) shows rooms from ₹3,279 + ₹684 taxes, and Deluxe Double from ₹4,151 + ₹561 taxes. Tripadvisor (listed as 'Skon Baga Bliss Hotel by Orion Hotels') standard-room range ₹3,520–₹6,588, ~$54 average (≈₹4,536 at 84/USD). Same property appears under both 'Hotel Baga Bliss by Celestiial Hospitality' and 'Skon Baga Bliss' names; exact OTA for the ₹3,279 figure not identifiable from snippet."
+  },
+  {
+    "pdf_name": "Regenta Place Mars",
+    "market_rate_low_inr": 3063,
+    "market_rate_low_source": "EaseMyTrip",
+    "market_rate_high_inr": 5929,
+    "market_rate_high_source": "Tripadvisor",
+    "market_rate_typical_inr": 3063,
+    "includes_breakfast": false,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.easemytrip.com/hotels/regenta-place-mars-candolim-goa-9611781/",
+      "https://www.tripadvisor.in/Hotel_Review-g297605-d34002987-Reviews-Regenta_Place_MARS_Candolim-Candolim_Bardez_North_Goa_District_Goa.html",
+      "https://bag2bag.in/hotels-stay/goa/candolim/regenta-place-mars-candolim"
+    ],
+    "notes": "EaseMyTrip: Club Room ₹3,063 + ₹170 taxes (room only), Club Room with breakfast ₹3,653 + ₹203, Standard Room ₹3,617 + ₹183. Tripadvisor: average ₹4,620, standard-room range ₹3,953–₹5,929; Agoda/Priceline via Tripadvisor $43 (≈₹3,612 at 84/USD). Bag2Bag ₹5,500 (disc. ₹5,225) Standard with breakfast. Note EaseMyTrip's 'Club' room is cheaper than its 'Standard' room."
+  }
+]

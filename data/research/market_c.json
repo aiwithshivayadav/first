@@ -1,0 +1,169 @@
+[
+  {
+    "pdf_name": "Casa Pearl",
+    "market_rate_low_inr": 2952,
+    "market_rate_low_source": "EaseMyTrip",
+    "market_rate_high_inr": 3612,
+    "market_rate_high_source": "MakeMyTrip",
+    "market_rate_typical_inr": 3347,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.easemytrip.com/hotels/casa-pearl-by-ws-10888478/",
+      "https://www.makemytrip.global/hotels/casa_pearl_by_ws-details-goa.html",
+      "https://www.adanione.com/india-hotels/casa-pearl-by-ws-calangute-goa-5345676",
+      "https://us.lastminute.com/hotels/india/calangute/casa-pearl-by-ws_hid-101646265"
+    ],
+    "notes": "Only room type listed is Super Deluxe (290 sq ft, king bed). EaseMyTrip Rs 2,952 + Rs 170 taxes; Adani One Rs 3,347 + Rs 180 taxes (shown as 18% off a Rs 4,067 list price); MakeMyTrip USD 43 + taxes converted at 84 INR/USD = Rs 3,612. Not found on Goibibo/Agoda/Booking.com snippets. Typical figure uses Adani One mid-point."
+  },
+  {
+    "pdf_name": "Sinq Symbol, Calangute",
+    "market_rate_low_inr": 3688,
+    "market_rate_low_source": "ixigo",
+    "market_rate_high_inr": 6113,
+    "market_rate_high_source": "EaseMyTrip",
+    "market_rate_typical_inr": 3879,
+    "includes_breakfast": true,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.ixigo.com/hotels/sinq-symbol-in-candolim-2243043-d",
+      "https://www.easemytrip.com/hotels/sinq-symbol-9771958/",
+      "https://www.makemytrip.global/hotels/rooms-in-sinq_symbol_calangute-details-goa.html",
+      "https://www.expedia.com/Calangute-Hotels-SinQ-Symbol.h125748437.Hotel-Information",
+      "https://www.hotels.com/ho4024949984"
+    ],
+    "notes": "Base room is 'Classic Room with Breakfast': ixigo Rs 3,688 + Rs 555 taxes; EaseMyTrip Rs 3,879 + Rs 260 taxes. High figure Rs 6,113 is EaseMyTrip's Premiere Room with Balcony (different room type); Classic with Balcony Rs 5,643. Expedia/Hotels.com off-season figures were USD 50 (= Rs 4,200 at 84 INR/USD, Apr 2026) and AED 242 excl. taxes (May 2026). Hotel includes free breakfast buffet on Expedia listing."
+  },
+  {
+    "pdf_name": "Sinq Party Hotel, Candolim",
+    "market_rate_low_inr": 2464,
+    "market_rate_low_source": "Hotels.com",
+    "market_rate_high_inr": 5292,
+    "market_rate_high_source": "Expedia",
+    "market_rate_typical_inr": 2735,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://in.hotels.com/ho473860/sinq-party-hotel-candolim-india/",
+      "https://www.expedia.co.kr/Candolim-Hotels-SinQ-Party-Hotel.h9022473.Hotel-Information",
+      "https://www.kayak.co.in/Candolim-Hotels-Sinq-Party-Hotel.2163348.ksp",
+      "https://www.ixigo.com/hotels/sinq-party-hotel-no-male-stags-in-candolim-1127594-d",
+      "https://www.easemytrip.com/hotels/sinq-party-hotel-1006500/",
+      "https://sinq-party-hotel-candolim.h-rez.com/"
+    ],
+    "notes": "Listed as 'SinQ Party Hotel - No Male Stags Allowed'. Hotels.com Rs 2,464 (Rs 2,608 incl. taxes); EaseMyTrip Party Cottage Ground Floor Rs 2,496 + Rs 158 taxes; KAYAK from Rs 2,735; ixigo Party Cottage Rs 3,331 + Rs 490; EaseMyTrip Party Room Pool View Rs 3,208 + Rs 203. Expedia USD range 38-63 across dates; high figure is USD 63 converted at 84 INR/USD = Rs 5,292 (seasonal peak). A third-party booking site (h-rez) quotes 'rates from INR 4,500'. Breakfast inclusion not stated."
+  },
+  {
+    "pdf_name": "Sinq Prive, Candolim",
+    "market_rate_low_inr": 2920,
+    "market_rate_low_source": "Hotels.com",
+    "market_rate_high_inr": 5350,
+    "market_rate_high_source": "EaseMyTrip",
+    "market_rate_typical_inr": 3950,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://in.hotels.com/ho898867840/sinq-prive-candolim-india/",
+      "https://www.easemytrip.com/hotels/sinq-prive-1589984/",
+      "https://www.trivago.in/en-IN/oar/hotel-sinq-prive-candolim?search=100-10856810",
+      "https://www.expedia.co.in/Sinquerim-Hotels-Beach-Hotels.0-0-d6155079-tBeachHotels.Travel-Guide-Filter-Hotels",
+      "https://www.tripadvisor.com/Hotel_Review-g297605-d15133922-Reviews-SinQ_Prive-Candolim_Bardez_North_Goa_District_Goa.html"
+    ],
+    "notes": "Hotels.com Rs 2,920-3,066 total incl. taxes (off-season dates); trivago from Rs 3,052; Expedia India Rs 3,822; EaseMyTrip Classic Room Rs 3,950 + Rs 198 taxes (Classic without window Rs 3,990 + Rs 238); Hotels.com also showed Rs 4,563 incl. taxes on other dates. High figure Rs 5,350 + Rs 268 is EaseMyTrip Deluxe Room (different room type). A non-OTA site (goaindia-hotelsresorts.com) claims a minimum of Rs 7,215, not used."
+  },
+  {
+    "pdf_name": "Sinq Anvaya, Assonora Bicholim",
+    "market_rate_low_inr": 4956,
+    "market_rate_low_source": "Agoda",
+    "market_rate_high_inr": 6460,
+    "market_rate_high_source": "EaseMyTrip",
+    "market_rate_typical_inr": 5265,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.hotels.com/ho3652213504/",
+      "https://www.agoda.com/bicholim/maps/goa-in.html",
+      "https://www.easemytrip.com/hotels/sinq-anvaya-9163262/",
+      "https://www.booking.com/hotel/in/sinq-anvaya.html",
+      "https://www.expedia.com/es/SinQ-Anvaya.h114100422.Informacion-Hotel",
+      "https://www.tripadvisor.com/Hotel_Review-g28159876-d28158747-Reviews-SinQ_Anvaya-Advalpal_North_Goa_District_Goa.html"
+    ],
+    "notes": "10-room nature resort at Advalpal, Assonora. Hotels.com Rs 5,265 (Rs 5,897 incl. taxes); Agoda 'average price per night USD 59' converted at 84 INR/USD = Rs 4,956; Booking.com from USD 73 (= Rs 6,132); EaseMyTrip Rs 6,460 + Rs 1,368 taxes; Expedia EUR 53 incl. taxes (Aug 2026). Tripadvisor standard-room range USD 63-100. Property has premium cottages with plunge pools priced higher."
+  },
+  {
+    "pdf_name": "Silver Shell Grand",
+    "market_rate_low_inr": 2816,
+    "market_rate_low_source": "Goibibo",
+    "market_rate_high_inr": 3542,
+    "market_rate_high_source": "Priceline",
+    "market_rate_typical_inr": 3230,
+    "includes_breakfast": false,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.goibibo.com/hotels/rooms-of-silver-shell-hotel-in-goa-6187056167287578286/",
+      "https://www.makemytrip.global/hotels/silver_shell-details-goa.html",
+      "https://www.tripadvisor.in/Hotel_Review-g306995-d15643122-Reviews-Silver_Shell_Resort-Calangute_North_Goa_District_Goa.html",
+      "https://www.expedia.com/Calangute-Hotels-Fabhotel-Prime-Silver-Shell.h136258137.Hotel-Information"
+    ],
+    "notes": "No property named 'Silver Shell Grand' found; figures are for Silver Shell Resort, Porba Vaddo, Calangute (41 rooms; also listed as FabHotel Prime Silver Shell / Capital O 28820). Goibibo Superior Room Rs 2,816 (15% off) or Rs 3,468 with breakfast, Premium Rs 2,986, Family Rs 3,413; Tripadvisor rate comparison Agoda Rs 2,869, MakeMyTrip Rs 3,230, Priceline Rs 3,542; Tripadvisor standard-room range Rs 2,781-3,260. MakeMyTrip USD view: Superior USD 40 (= Rs 3,360), Family USD 52. Typical figure is room-only."
+  },
+  {
+    "pdf_name": "Holitel Anjuna",
+    "market_rate_low_inr": 2195,
+    "market_rate_low_source": "Hotels.com",
+    "market_rate_high_inr": 4872,
+    "market_rate_high_source": "Expedia",
+    "market_rate_typical_inr": 2699,
+    "includes_breakfast": false,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://in.hotels.com/ho3271414784/holitel-anjuna-goa-anjuna-india/",
+      "https://www.easemytrip.com/hotels/holitel-anjuna-4519892/",
+      "https://www.easemytrip.com/hotels/holitel-the-holiday-hotel-4519892/",
+      "https://www.adanione.com/india-hotels/holitel-anjuna-goa-goa-4486440",
+      "https://www.klook.com/en-IN/hotels/detail/1409092-holitel-anjuna-goa/",
+      "https://www.expedia.ie/Anjuna.dx6050318"
+    ],
+    "notes": "42-room hotel opened 2024. Hotels.com Rs 2,195 (Rs 2,305 incl. taxes, off-season); EaseMyTrip base 'Holitel Room' Rs 2,699 + Rs 155 taxes (with breakfast Rs 3,012 + Rs 173), Hill View Rs 3,325, Plunge Pool Room Rs 5,288, Jacuzzi Room Rs 5,705, Plunge Pool Suite Rs 6,123 (higher tiers are different room types); EaseMyTrip page title says 'from Rs 3,700'; Klook Rs 3,802; Adani One Rs 4,599 + Rs 612. Expedia USD 38-58 across dates; high figure USD 58 converted at 84 INR/USD = Rs 4,872. Expedia IE showed EUR 55 for 15-16 Oct 2026."
+  },
+  {
+    "pdf_name": "Holitel Calangute",
+    "market_rate_low_inr": null,
+    "market_rate_low_source": null,
+    "market_rate_high_inr": null,
+    "market_rate_high_source": null,
+    "market_rate_typical_inr": null,
+    "includes_breakfast": null,
+    "taxes_included": null,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://holitelhotels.com/"
+    ],
+    "notes": "No online rate found after 4 searches (MakeMyTrip, Goibibo, Agoda, Hotels.com, EaseMyTrip, Booking.com queries all returned only Holitel Anjuna or generic Calangute listings). Official site holitelhotels.com lists Holitel Calangute at 153/1 Calangute, Bardez, positioned for weddings, corporate retreats and group bookings; it appears not to be listed on OTAs under this name (may be new or sold under a different listing name). WebFetch of holitelhotels.com is blocked in this environment."
+  },
+  {
+    "pdf_name": "Simshines Candolim",
+    "market_rate_low_inr": 2907,
+    "market_rate_low_source": "EaseMyTrip",
+    "market_rate_high_inr": 5040,
+    "market_rate_high_source": "Priceline",
+    "market_rate_typical_inr": 2907,
+    "includes_breakfast": null,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.easemytrip.com/hotels/the-tanisi-resorts-and-pool-villas-candolim-4926116/",
+      "https://www.priceline.com/hotel-deals/en-us/P5000140128/H257240804/simshines-hotels-villas-suites-spa-candolim.ssp",
+      "https://www.makemytrip.global/hotels-international/en-us/india/goa-hotels/candolim-hotels.html",
+      "https://simshineshotels.com/"
+    ],
+    "notes": "EaseMyTrip listing (URL slug still 'The Tanisi Resorts and Pool Villas', apparently rebranded): Casa Blanca Garden View Rs 2,907 + Rs 171 taxes (base room); Casa Bella King Rs 3,795 + Rs 223 up to Rs 7,268 + Rs 1,539 (premium tier, different room type); Casa Amor Suite Rs 4,723 + Rs 278. Priceline 'from USD 60' and MakeMyTrip USD 50-60 + taxes; high figure USD 60 converted at 84 INR/USD = Rs 5,040. Breakfast inclusion not stated."
+  }
+]

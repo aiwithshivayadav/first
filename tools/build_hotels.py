@@ -180,17 +180,22 @@ def inr(v):
     return f"₹{v:,}" if isinstance(v, (int, float)) else "—"
 
 def market_cell(h):
+    """Typical online 'from' price, with the low–high range seen across sites."""
     mr = h["market_rate"]
+    typical = mr["typical"] or mr["low"] or mr["high"]
+    if not typical:
+        return "—"
+    out = f"from {inr(typical)}"
     if mr["low"] and mr["high"] and mr["low"] != mr["high"]:
-        return f"{inr(mr['low'])} – {inr(mr['high'])}"
-    return inr(mr["typical"] or mr["low"] or mr["high"])
+        out += f" ({inr(mr['low'])}–{inr(mr['high'])})"
+    return out
 
 lines += ["", "## Rate summary", "",
           "Online market rate = public per-night price for a standard double room seen on booking sites (MakeMyTrip, Booking.com, Goibibo, Agoda, etc.) when checked on 7 Oct 2026. Online prices change daily; treat them as indicative.", "",
           "| # | Hotel | Category | Area | Contract DBL CP | Contract DBL MAP | Online market rate | Market source |", "|---|---|---|---|---|---|---|---|"]
 for h in hotels:
     mr = h["market_rate"]
-    src = " / ".join(x for x in {mr["low_source"], mr["high_source"]} if x) or "—"
+    src = " / ".join(x for x in dict.fromkeys([mr["low_source"], mr["high_source"]]) if x) or "—"
     lines.append(f"| {h['id']} | {h['official_name']} | {h['category']} | {md_val(h['area'])} | ₹{h['rates']['dbl_cp']:,} | ₹{h['rates']['dbl_map']:,} | {market_cell(h)} | {src} |")
 lines += ["", "## Hotel profiles", ""]
 for h in hotels:

@@ -24,6 +24,19 @@ Stayconnect Hotels "Goa Per Night Contract Rates" sheet (valid till
   Dussehra (20–24 Oct), Diwali (8–15 Nov), New Year (22 Dec 2026 – 5 Jan 2027).
 - Supplements may apply on festivals, weekends and special dates. Subject to availability and final confirmation.
 
+## Online market rate column
+
+Every hotel also carries an **online market rate**: the public per-night price for a standard
+double room seen on booking sites (MakeMyTrip, Goibibo, Booking.com, Agoda, Expedia, EaseMyTrip,
+Tripadvisor and others) when researched on 7 October 2026. The dataset stores a typical "from"
+price plus the lowest and highest figures seen, each with its source site, in `market_rate`
+(JSON) and the `market_rate_*` columns (CSV). USD prices were converted at 84 INR per USD and
+are flagged in the notes.
+
+Online prices change daily and vary by date, room type and taxes, so treat them as indicative.
+No online price was found for Aira Beach Resort, Sibaya Courtyard (newly opened) and
+Holitel Calangute (sold as a group/wedding venue, not on OTAs).
+
 ## Before you publish
 
 Each hotel carries a `research_confidence` (high / medium / low) and `research_notes`.

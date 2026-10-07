@@ -1,0 +1,141 @@
+[
+  {
+    "pdf_name": "La Cabana Beach & Spa",
+    "market_rate_low_inr": 7157,
+    "market_rate_low_source": "Goibibo",
+    "market_rate_high_inr": 32590,
+    "market_rate_high_source": "Tripadvisor",
+    "market_rate_typical_inr": 9204,
+    "includes_breakfast": null,
+    "taxes_included": true,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.goibibo.com/hotels/rooms-of-la-cabana-beach-resort-spa-hotel-in-goa-3909266786814159505/",
+      "https://www.expedia.co.in/Ashvem-Hotels-La-Cabana-Beach-And-Spa.h5559101.Hotel-Information",
+      "https://in.hotels.com/ho423129/la-cabana-beach-and-spa-ashvem-india/",
+      "https://www.tripadvisor.in/Hotel_Review-g1010240-d2415831-Reviews-La_Cabana_Beach_Spa-Mandrem_North_Goa_District_Goa.html",
+      "https://www.trivago.com/en-US/oar/resort-la-cabana-beach-spa-by-ashvem-beach-pernem?search=100-2347316",
+      "https://us.trip.com/hotels/mandrem-hotel-detail-1256307/la-cabana-beach-spa-by-ashvem-beach/"
+    ],
+    "notes": "Low is Goibibo Premium Tropical Chalet, room only (~Rs 7,157/night). Typical is Expedia India lowest nightly for 2 adults incl. taxes (Rs 9,204; Hotels.com India Rs 9,133, Expedia Rs 9,912 on other dates). High is the top of Tripadvisor India's standard-room rate range (Rs 7,691-32,590); Goibibo's Royal Sea View Suite with breakfast is Rs 19,586. Trivago aggregates from USD 74 (~Rs 6,216 at 84/USD) across 11 sites. Upmarket property; Oct-Dec season rates likely at the upper end."
+  },
+  {
+    "pdf_name": "Sibaya Beach Resort By Stonewood",
+    "market_rate_low_inr": 2747,
+    "market_rate_low_source": "Trivago",
+    "market_rate_high_inr": 6888,
+    "market_rate_high_source": "MakeMyTrip",
+    "market_rate_typical_inr": 2872,
+    "includes_breakfast": null,
+    "taxes_included": true,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.trivago.in/en-IN/oar/sibaya-beach-resort-morjim?search=100-25675752",
+      "https://in.hotels.com/ho2259503840/sibaya-beach-resort-morjim-india/",
+      "https://www.easemytrip.com/hotels/sibaya-beach-resort-morjim-2574157/",
+      "https://www.makemytrip.global/hotels/sibaya_beach_resort-details-goa.html",
+      "https://ph.trip.com/hotels/morjim-hotel-detail-79788055/sibaya-beach-resort",
+      "https://www.kayak.co.in/Morjim-Hotels-Sibaya-Beach-Resort-Morjim.7896321.ksp"
+    ],
+    "notes": "Low is Trivago 'from' price across 10 sites. Typical is Hotels.com India Rs 2,872/night incl. taxes; EaseMyTrip Tropical Cottage (non-sea-view) Rs 2,829 + taxes. MakeMyTrip (global site) lists Tropical Cottage USD 45 + USD 2 tax (~Rs 3,780 at 84/USD) up to Premium Suite USD 82 (~Rs 6,888, converted at 84/USD) - the high figure is a suite, not a standard room; EaseMyTrip Ocean Suite is Rs 6,269 + taxes. Trip.com average Rs 3,544 (Jul) to Rs 3,921 (Dec). Listed on OTAs as 'Sibaya Beach Resort' (Stone Wood brand not always shown)."
+  },
+  {
+    "pdf_name": "Dallas Beach Resort Morjim",
+    "market_rate_low_inr": 2467,
+    "market_rate_low_source": "Goibibo",
+    "market_rate_high_inr": 14700,
+    "market_rate_high_source": "Tripadvisor",
+    "market_rate_typical_inr": 4812,
+    "includes_breakfast": null,
+    "taxes_included": true,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.goibibo.com/hotels/dallas-beach-resort-goa-hotel-in-goa-6818694072631238706/",
+      "https://www.expedia.co.in/Morjim-Hotels-DALLAS-BEACH-RESORTS.h90919329.Hotel-Information",
+      "https://www.tripadvisor.com/Hotel_Review-g2334907-d25282606-Reviews-Dallas_Beach_Resorts-Ashvem_Beach_North_Goa_District_Goa.html",
+      "https://www.skyscanner.co.in/hotels/india/mandrem-hotels/dallas-beach-resorts-ashvem-beach/ht-216994986",
+      "https://www.easemytrip.com/hotels/dallas-beach-resorts-3468207/",
+      "https://in.hotels.com/ho2910418528/dallas-beach-resorts-morjim-india/"
+    ],
+    "notes": "Wide spread across sources. Low is Goibibo Rs 2,467 + Rs 400 taxes (likely off-season/discounted). Typical is Expedia India Rs 4,812/night for 2 adults incl. taxes; Booking.com (via Tripadvisor) ~USD 63 (~Rs 5,292 at 84/USD); EaseMyTrip Rs 5,890 + Rs 313 taxes. Skyscanner says October rooms typically Rs 8,251-10,155. High is top of Tripadvisor's standard-room range USD 35-175, converted at 84/USD (~Rs 14,700). Tripadvisor has two listings (inn and resort) for this property."
+  },
+  {
+    "pdf_name": "Aralia Beach Resort Morjim",
+    "market_rate_low_inr": 3653,
+    "market_rate_low_source": "Expedia",
+    "market_rate_high_inr": 9521,
+    "market_rate_high_source": "Tripadvisor",
+    "market_rate_typical_inr": 4192,
+    "includes_breakfast": null,
+    "taxes_included": null,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.tripadvisor.in/Hotel_Review-g1936425-d26876712-Reviews-Aralea_Beach_Resort_By_Stone_Wood_Premier-Morjim_North_Goa_District_Goa.html",
+      "https://www.expedia.com/Morjim-Hotels-Aralea-Beach-Resort-By-Stonewood.h100744903.Hotel-Information",
+      "https://www.priceline.com/hotel-deals/en-us/P5000140128/H235087904/aralea-beach-resort-by-stone-wood.ssp",
+      "https://www.travelated.com/india/morjim/aralea-beach-resort-by-stone-wood-premier",
+      "https://ph.trip.com/hotels/morjim-hotel-detail-114394770/aralea-beach-resort-by-stone-wood"
+    ],
+    "notes": "Low is Expedia USD 43.49 excl. taxes, converted at 84/USD (~Rs 3,653). Typical is Booking.com Rs 4,192 as shown in Tripadvisor India's rate comparison (Agoda Rs 3,995, Priceline Rs 5,704). High is the top of Tripadvisor's standard-room range Rs 3,558-9,521; Priceline 'from USD 95' and Travelated 'from USD 113' (~Rs 7,980-9,492) are similar. Some regional Expedia/Hotels.com sites show lower local-currency figures (~USD 27) that look like off-season rates. 4-star, 69 rooms."
+  },
+  {
+    "pdf_name": "Amara Oceanfront",
+    "market_rate_low_inr": 3024,
+    "market_rate_low_source": "MakeMyTrip",
+    "market_rate_high_inr": 10110,
+    "market_rate_high_source": "Tripadvisor",
+    "market_rate_typical_inr": 3970,
+    "includes_breakfast": false,
+    "taxes_included": false,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.makemytrip.com/hotels/photos-of-amara_oceanfront_resort_club_baga-details-goa.html",
+      "https://www.goibibo.com/hotels/rooms-of-amara-oceanfront-resort-club-baga-hotel-in-goa-5353347018038752510/",
+      "https://www.cleartrip.com/hotels/details/amara-oceanfront-resort-club-3973784",
+      "https://www.tripadvisor.in/Hotel_Review-g635747-d23833666-Reviews-Amara_Oceanfront_Resort_and_Club-Baga_North_Goa_District_Goa.html",
+      "https://www.amararesorts.com/amara-oceanfront-resort-baga/room-tariff.html",
+      "https://amararesorts.in/oceanfront-club-resort-in-goa/packages/3-night-stay-package.html"
+    ],
+    "notes": "Low is MakeMyTrip 'from USD 36/night', converted at 84/USD (~Rs 3,024); Goibibo rooms Rs 3,517-4,577 before taxes. Typical is Cleartrip room-only Rs 3,970 + Rs 216 taxes; Goibibo offers breakfast-inclusive options slightly higher. High is top of Tripadvisor India's standard-room range Rs 5,873-10,110. Official website publish rates are much higher: Rs 8,000 + tax room only (peak, Oct-Mar) / Rs 6,000 + tax (regular); breakfast package Rs 8,750 / Rs 6,750 + tax. OTA rates are heavily discounted vs rack rate."
+  },
+  {
+    "pdf_name": "Surf House Beach Resort Baga",
+    "market_rate_low_inr": 3692,
+    "market_rate_low_source": "Adani One",
+    "market_rate_high_inr": 14671,
+    "market_rate_high_source": "Priceline",
+    "market_rate_typical_inr": 6975,
+    "includes_breakfast": false,
+    "taxes_included": null,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.tripadvisor.in/Hotel_Review-g635747-d33259718-Reviews-Surf_House_Beach_Resort-Baga_North_Goa_District_Goa.html",
+      "https://www.agoda.com/en-in/surf-house-beach-resort/hotel/goa-in.html",
+      "https://www.adanione.com/india-hotels/surf-house-beach-resort-by-calux-right-on-baga-beach-goa-4562621",
+      "https://www.easemytrip.com/hotels/surf-house-beach-resort-9136432/",
+      "https://www.trivago.in/en-IN/oar/surf-house-beach-resort-baga?search=100-42602882",
+      "https://www.hoteles.com/en/ho3633630464/surf-house-beach-resort/"
+    ],
+    "notes": "Low is Adani One Villa Room Rs 3,692 (36% off Rs 5,740) + Rs 199 taxes. Typical is Expedia Rs 6,975 as shown in Tripadvisor's rate comparison; EaseMyTrip Deluxe Room Rs 6,534 + Rs 375 taxes (Rs 9,337 with breakfast); Trivago from Rs 7,610; Hotels.com from Rs 7,875; Agoda average USD 51-75 (~Rs 4,284-6,300 at 84/USD). High is Priceline Rs 14,671 via Tripadvisor; Tripadvisor standard-room range Rs 4,892-12,950. Breakfast is Rs 499 extra per Agoda unless included. Newly built 2025, 24 rooms."
+  },
+  {
+    "pdf_name": "Sinq Beach, Morjim",
+    "market_rate_low_inr": 3780,
+    "market_rate_low_source": "Travelocity",
+    "market_rate_high_inr": 15708,
+    "market_rate_high_source": "Kayak",
+    "market_rate_typical_inr": 4101,
+    "includes_breakfast": true,
+    "taxes_included": true,
+    "date_checked": "2026-10-07",
+    "sources": [
+      "https://www.goibibo.com/hotels/rooms-of-sinq-beach-morjim-hotel-in-goa-2898676208665471666/",
+      "https://www.travelocity.com/Morjim-Hotels-SinQ-Beach-Morjim.h21558366.Hotel-Information",
+      "https://www.kayak.com/Morjim-Hotels-Sinq-Beach-Morjim.3603517.ksp",
+      "https://in.trip.com/hotels/morjim-hotel-detail-13925194/sinq-beach-morjim/",
+      "https://www.makemytrip.com/hotels-international/en-ae/india/goa-hotels/sinq_beach_morjim-details.html",
+      "https://www.booking.com/hotel/in/sinq-beach-morjim.html"
+    ],
+    "notes": "Low is Travelocity/Expedia 'from USD 45 incl. taxes' for 2 adults, converted at 84/USD (~Rs 3,780). Typical is Goibibo Deluxe Beach Cottage (non-sea-view) Rs 4,101/night incl. free breakfast, after 32% discount, taxes applied; Goibibo Tropical Beach Suite Rs 4,442, Sunset Beach Cottage (sea view) Rs 5,809, Signature Suite with jacuzzi Rs 8,291. High is Kayak's upper room-type figure USD 187 ('Double room'), converted at 84/USD (~Rs 15,708) - likely a peak-date/premium-room figure; Trip.com average Rs 9,940; MakeMyTrip global lists from USD 85 (~Rs 7,140) / AED 179; a guest review mentions Rs 8,000/night. Not to be confused with SinQ Beach Resort Calangute."
+  }
+]

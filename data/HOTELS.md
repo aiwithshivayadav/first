@@ -17,42 +17,42 @@ Online market rate = public per-night price for a standard double room seen on b
 
 | # | Hotel | Category | Area | Contract DBL CP | Contract DBL MAP | Online market rate | Market source |
 |---|---|---|---|---|---|---|---|
-| 1 | Hotel Delta Residency Goa | 3 Star | Calangute | ₹2,000 | ₹3,000 | — | — |
-| 2 | Amara Casa Baga | 3 Star | Baga | ₹3,500 | ₹4,200 | — | — |
-| 3 | SinQ Beach Resort | 3 Star | Calangute | ₹3,000 | ₹3,700 | — | — |
-| 4 | Silver Shell Resort | 3 Star | Calangute | ₹4,700 | ₹5,300 | — | — |
-| 5 | Goveia Grand Resort | 3 Star | Candolim | ₹2,500 | ₹3,000 | — | — |
-| 6 | Regal Sands Hotel - Calangute Goa, by Welcom2Goa | 3 Star | Calangute | ₹2,200 | ₹2,800 | — | — |
-| 7 | Shalom Indus Residency | 3 Star | Candolim | ₹2,200 | ₹2,800 | — | — |
+| 1 | Hotel Delta Residency Goa | 3 Star | Calangute | ₹2,000 | ₹3,000 | from ₹2,206 (₹1,919–₹2,773) | Trivago / Tripadvisor |
+| 2 | Amara Casa Baga | 3 Star | Baga | ₹3,500 | ₹4,200 | from ₹2,732 (₹2,732–₹6,400) | EaseMyTrip / H-Rez |
+| 3 | SinQ Beach Resort | 3 Star | Calangute | ₹3,000 | ₹3,700 | from ₹2,734 (₹2,734–₹4,319) | Agoda / Expedia |
+| 4 | Silver Shell Resort | 3 Star | Calangute | ₹4,700 | ₹5,300 | from ₹2,816 (₹2,816–₹3,360) | Goibibo / MakeMyTrip |
+| 5 | Goveia Grand Resort | 3 Star | Candolim | ₹2,500 | ₹3,000 | from ₹1,627 (₹1,627–₹3,024) | Goibibo / Kayak |
+| 6 | Regal Sands Hotel - Calangute Goa, by Welcom2Goa | 3 Star | Calangute | ₹2,200 | ₹2,800 | from ₹1,848 (₹1,848–₹6,384) | Hotels.com / Expedia |
+| 7 | Shalom Indus Residency | 3 Star | Candolim | ₹2,200 | ₹2,800 | from ₹1,299 (₹1,008–₹6,164) | Hotels.com / ixigo |
 | 8 | Aira Beach Resort | 3 Star | Calangute | ₹3,500 | ₹4,200 | — | — |
-| 9 | Victor Exotica Beach Resort | 3 Star | Candolim | ₹2,800 | ₹3,400 | — | — |
-| 10 | Baga Bliss by Celestiial Hospitality | 3 Star | Calangute | ₹3,200 | ₹4,200 | — | — |
-| 11 | Regenta Place M.A.R.S. Candolim | 3 Star | Candolim | ₹3,500 | ₹4,500 | — | — |
+| 9 | Victor Exotica Beach Resort | 3 Star | Candolim | ₹2,800 | ₹3,400 | from ₹2,432 (₹1,848–₹7,728) | Hotels.com / H-Rez |
+| 10 | Baga Bliss by Celestiial Hospitality | 3 Star | Calangute | ₹3,200 | ₹4,200 | from ₹3,279 (₹3,279–₹6,588) | MakeMyTrip/Goibibo (snippet, site not specified) / Tripadvisor |
+| 11 | Regenta Place M.A.R.S. Candolim | 3 Star | Candolim | ₹3,500 | ₹4,500 | from ₹3,063 (₹3,063–₹5,929) | EaseMyTrip / Tripadvisor |
 | 12 | Sibaya Courtyard by Stone Wood Premier | 4 Star | Baga | ₹4,500 | ₹5,500 | — | — |
-| 13 | Calux Joia Do Mar Resort | 4 Star | Calangute | ₹3,500 | ₹4,200 | — | — |
-| 14 | Adamo The Bellus Goa | 4 Star | Calangute | ₹5,200 | ₹6,700 | — | — |
-| 15 | Bells Beach Resort, A Unit of Resort De Balneaire | 4 Star | Calangute | ₹3,900 | ₹4,900 | — | — |
-| 16 | Grandeur De Sanchi - Luxury Beach Resort & Spa | 4 Star | Calangute | ₹4,000 | ₹4,800 | — | — |
-| 17 | Verano Hotel & Spa | 4 Star | Arpora | ₹3,500 | ₹4,200 | — | — |
-| 18 | Sairaj Beach Resort - Calangute Goa | 4 Star | Calangute | ₹3,700 | ₹4,400 | — | — |
-| 19 | Sukhmantra Resort & Spa | 4 Star | Candolim | ₹3,200 | ₹3,900 | — | — |
-| 20 | Vagator Downtown by VDP | 4 Star | Vagator | ₹3,200 | ₹3,900 | — | — |
-| 21 | Casa Pearl by WS | 4 Star | Calangute | ₹3,200 | ₹3,900 | — | — |
-| 22 | SinQ Symbol | 4 Star | Calangute | ₹3,600 | ₹4,400 | — | — |
-| 23 | SinQ Party Hotel | 4 Star | Candolim | ₹3,300 | ₹4,200 | — | — |
-| 24 | SinQ Privé | 4 Star | Candolim | ₹4,150 | ₹5,150 | — | — |
-| 25 | SinQ Anvaya | 4 Star | Assonora | ₹6,400 | ₹8,400 | — | — |
-| 26 | Silver Shell Grand | 4 Star | Calangute | ₹4,200 | ₹4,900 | — | — |
-| 27 | Holitel Anjuna Goa | 4 Star | Anjuna | ₹4,000 | ₹5,000 | — | — |
+| 13 | Calux Joia Do Mar Resort | 4 Star | Calangute | ₹3,500 | ₹4,200 | from ₹2,550 (₹2,436–₹8,164) | Booking.com / HotelsCombined |
+| 14 | Adamo The Bellus Goa | 4 Star | Calangute | ₹5,200 | ₹6,700 | from ₹3,793 (₹3,359–₹8,062) | Tripadvisor |
+| 15 | Bells Beach Resort, A Unit of Resort De Balneaire | 4 Star | Calangute | ₹3,900 | ₹4,900 | from ₹2,810 (₹2,604–₹6,384) | Agoda / Booking.com |
+| 16 | Grandeur De Sanchi - Luxury Beach Resort & Spa | 4 Star | Calangute | ₹4,000 | ₹4,800 | from ₹3,233 (₹3,135–₹9,324) | Goibibo / Tripadvisor |
+| 17 | Verano Hotel & Spa | 4 Star | Arpora | ₹3,500 | ₹4,200 | from ₹4,454 (₹2,051–₹5,500) | Agoda |
+| 18 | Sairaj Beach Resort - Calangute Goa | 4 Star | Calangute | ₹3,700 | ₹4,400 | from ₹3,620 (₹2,300–₹6,500) | Justdial / Hotels.com |
+| 19 | Sukhmantra Resort & Spa | 4 Star | Candolim | ₹3,200 | ₹3,900 | from ₹3,549 (₹1,628–₹6,300) | Goibibo / Tripadvisor |
+| 20 | Vagator Downtown by VDP | 4 Star | Vagator | ₹3,200 | ₹3,900 | from ₹4,241 (₹2,604–₹20,664) | Trip.com / Agoda |
+| 21 | Casa Pearl by WS | 4 Star | Calangute | ₹3,200 | ₹3,900 | from ₹3,347 (₹2,952–₹3,612) | EaseMyTrip / MakeMyTrip |
+| 22 | SinQ Symbol | 4 Star | Calangute | ₹3,600 | ₹4,400 | from ₹3,879 (₹3,688–₹6,113) | ixigo / EaseMyTrip |
+| 23 | SinQ Party Hotel | 4 Star | Candolim | ₹3,300 | ₹4,200 | from ₹2,735 (₹2,464–₹5,292) | Hotels.com / Expedia |
+| 24 | SinQ Privé | 4 Star | Candolim | ₹4,150 | ₹5,150 | from ₹3,950 (₹2,920–₹5,350) | Hotels.com / EaseMyTrip |
+| 25 | SinQ Anvaya | 4 Star | Assonora | ₹6,400 | ₹8,400 | from ₹5,265 (₹4,956–₹6,460) | Agoda / EaseMyTrip |
+| 26 | Silver Shell Grand | 4 Star | Calangute | ₹4,200 | ₹4,900 | from ₹3,230 (₹2,816–₹3,542) | Goibibo / Priceline |
+| 27 | Holitel Anjuna Goa | 4 Star | Anjuna | ₹4,000 | ₹5,000 | from ₹2,699 (₹2,195–₹4,872) | Hotels.com / Expedia |
 | 28 | Holitel Calangute | 4 Star | Calangute | ₹4,900 | ₹5,900 | — | — |
-| 29 | Simshines Hotels, Villas, Suites & Spa | 4 Star | Candolim | ₹4,500 | ₹5,500 | — | — |
-| 30 | La Cabana Beach & Spa | Beach Hotel | Ashvem | ₹8,500 | ₹10,500 | — | — |
-| 31 | Sibaya Beach Resort by Stone Wood | Beach Hotel | Morjim | ₹5,200 | ₹7,200 | — | — |
-| 32 | Dallas Beach Resort | Beach Hotel | Morjim | ₹5,200 | ₹6,700 | — | — |
-| 33 | Aralea Beach Resort by Stone Wood Premier | Beach Hotel | Morjim | ₹5,700 | ₹6,500 | — | — |
-| 34 | Amara Oceanfront Resort & Club, Baga | Beach Hotel | Baga | ₹5,000 | ₹6,000 | — | — |
-| 35 | Surf House Beach Resort | Beach Hotel | Baga | ₹4,500 | ₹5,700 | — | — |
-| 36 | SinQ Beach Morjim | Beach Hotel | Morjim | ₹5,300 | ₹7,300 | — | — |
+| 29 | Simshines Hotels, Villas, Suites & Spa | 4 Star | Candolim | ₹4,500 | ₹5,500 | from ₹2,907 (₹2,907–₹5,040) | EaseMyTrip / Priceline |
+| 30 | La Cabana Beach & Spa | Beach Hotel | Ashvem | ₹8,500 | ₹10,500 | from ₹9,204 (₹7,157–₹32,590) | Goibibo / Tripadvisor |
+| 31 | Sibaya Beach Resort by Stone Wood | Beach Hotel | Morjim | ₹5,200 | ₹7,200 | from ₹2,872 (₹2,747–₹6,888) | Trivago / MakeMyTrip |
+| 32 | Dallas Beach Resort | Beach Hotel | Morjim | ₹5,200 | ₹6,700 | from ₹4,812 (₹2,467–₹14,700) | Goibibo / Tripadvisor |
+| 33 | Aralea Beach Resort by Stone Wood Premier | Beach Hotel | Morjim | ₹5,700 | ₹6,500 | from ₹4,192 (₹3,653–₹9,521) | Expedia / Tripadvisor |
+| 34 | Amara Oceanfront Resort & Club, Baga | Beach Hotel | Baga | ₹5,000 | ₹6,000 | from ₹3,970 (₹3,024–₹10,110) | MakeMyTrip / Tripadvisor |
+| 35 | Surf House Beach Resort | Beach Hotel | Baga | ₹4,500 | ₹5,700 | from ₹6,975 (₹3,692–₹14,671) | Adani One / Priceline |
+| 36 | SinQ Beach Morjim | Beach Hotel | Morjim | ₹5,300 | ₹7,300 | from ₹4,101 (₹3,780–₹15,708) | Travelocity / Kayak |
 
 ## Hotel profiles
 
@@ -63,7 +63,7 @@ Online market rate = public per-night price for a standard double room seen on b
 **Area:** Calangute  
 **Address:** 151/20, Gauro Vaddo, Beach Road, Near St. Anthony's Chapel, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹2,000 · MAP ₹3,000  
-**Online market rate:** —  
+**Online market rate:** from ₹2,206 (₹1,919–₹2,773) (Typical figure is Kayak India 'from ₹2,206' for a Deluxe room, fees included but taxes excluded. Tripadvisor shows a standard-room range of ₹1,148–₹2,773 and a ₹2,468 quote; Trivago 'from ₹1,919'. Kayak US shows from $24 (≈₹2,016 at 84 INR/USD). Lower-end Tripadvisor figure (₹1,148) likely off-season, not used as low.)  
 **Beach:** Approx. 1-1.8 km from Calangute Beach (sources describe it as a 5-15 minute walk)  
 **Airports:** Dabolim 39.8 km · Mopa — km  
 **Rooms:** 25 · Standard Room, Superior Room  
@@ -98,7 +98,7 @@ Hotel Delta Residency Goa is a compact 25-room hotel on Beach Road in Calangute'
 **Area:** Baga  
 **Address:** 40/7 Saunta Vaddo, Baga, Bardez, Goa 403509, India  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
-**Online market rate:** —  
+**Online market rate:** from ₹2,732 (₹2,732–₹6,400) (EaseMyTrip: Casa Special room ₹2,732 + ₹156 taxes; Casa Favourite ₹3,209 + ₹183. Other figures: ₹3,605 (unspecified listing), HotelsCombined ₹5,412, Orbitz $64 (≈₹5,376 at 84/USD), H-Rez 'rates from INR 6,400' (third-party rack-rate site, likely peak season). Hotels.com states breakfast is free at this hotel, but not confirmed for the EaseMyTrip rate. Wide range suggests strong seasonal variation.)  
 **Beach:** About a 5-minute walk from Baga Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 25 · Casa Special (approx. 237 sq ft, queen bed), Casa Favourite (approx. 280 sq ft, queen bed), Casa Star (approx. 323 sq ft, queen bed)  
@@ -134,7 +134,7 @@ Amara Casa Baga is a 25-room hotel in Saunta Vaddo, roughly five minutes on foot
 **Area:** Calangute  
 **Address:** Tivai Vaddo, Opposite Don Bosco Hostel, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹3,000 · MAP ₹3,700  
-**Online market rate:** —  
+**Online market rate:** from ₹2,734 (₹2,734–₹4,319) (Agoda ₹2,734 is for a Classic room (VAT stated as included per HotelsCombined); Expedia ₹4,047–₹4,319 is for a Deluxe room. HotelsCombined reports average paid ₹3,251/night. MakeMyTrip UAE shows AED 104 + AED 15 taxes (≈₹2,400 before tax); Hotels.com $37 (≈₹3,108 at 84/USD). Hotels.com mentions breakfast buffet included but not confirmed for the Agoda rate.)  
 **Beach:** Approx. 5-minute walk / 2-minute drive to Calangute Beach  
 **Airports:** Dabolim 40 km · Mopa — km  
 **Rooms:** 66 · Classic Room, Deluxe Room (approx. 32 sq m, double or twin), Deluxe Room with balcony  
@@ -170,7 +170,7 @@ SinQ Beach Resort is a 66-room property in Tivai Vaddo, Calangute, a few minutes
 **Area:** Calangute  
 **Address:** Plot 369 (also listed as H.No. 4/806), Porba Vaddo, Opposite Hard Rock Hotel, Behind KFC, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹4,700 · MAP ₹5,300  
-**Online market rate:** —  
+**Online market rate:** from ₹2,816 (₹2,816–₹3,360) (Goibibo: Superior ₹2,816 (after 15% off), Premium ₹2,986, Family ₹3,413 — taxes not stated (Goibibo usually excludes). Agoda ₹2,869 via Tripadvisor comparison; Tripadvisor standard-room range ₹2,781–₹3,260. High figure is MakeMyTrip global showing Superior at $40, converted at 84 INR/USD (Family $52 ≈ ₹4,368 is a different room type). Listed on OTAs as 'Silver Shell' / 'Capital O 28820 Silver Shell Resort' / 'FabHotel Prime Silver Shell'.)  
 **Beach:** Approx. 1 km from Calangute Beach (5-minute drive); about 7 minutes' drive to Baga Beach  
 **Airports:** Dabolim 39.9 km · Mopa — km  
 **Rooms:** 41 · Double Room (36 rooms), Twin Room (5 rooms)  
@@ -205,7 +205,7 @@ Silver Shell Resort is a 41-room hotel in Porba Vaddo, central Calangute, roughl
 **Area:** Candolim  
 **Address:** Near Aradi Sub Station, Lane opposite Cafe Coffee Day, Candolim, Bardez, Goa 403515, India  
 **Contract rate (per room/night, double):** CP ₹2,500 · MAP ₹3,000  
-**Online market rate:** —  
+**Online market rate:** from ₹1,627 (₹1,627–₹3,024) (Goibibo 'Goveia Grand Candolim': Standard room-only ₹1,627 (19% off from ₹2,000), with breakfast ₹2,010, with meals ₹2,755; Deluxe ₹2,093–₹3,230. MakeMyTrip 'Goveia Holiday Resort' ₹2,363. Kayak range $19–$36 (≈₹1,596–₹3,024 at 84/USD); high figure is the converted $36. Property appears under both 'Goveia Grand' and 'Goveia Holiday Resort/Homes' names.)  
 **Beach:** Approx. 2.6 km from Sinquerim Beach; Candolim Beach nearby  
 **Airports:** Dabolim 40 km · Mopa — km  
 **Rooms:** 50 · Deluxe Room with balcony, Family Room, Executive Suite  
@@ -240,7 +240,7 @@ Goveia Grand Resort sits in a lane off Candolim's main road near the Cafe Coffee
 **Area:** Calangute  
 **Address:** Naikawaddo, near Calangute-Anjuna Road, near Dharwadkar Hospital, Dongorpur, Calangute, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹2,200 · MAP ₹2,800  
-**Online market rate:** —  
+**Online market rate:** from ₹1,848 (₹1,848–₹6,384) (No INR figures found; all converted at 84 INR/USD. Hotels.com from $22/night ($23 with taxes) ≈ ₹1,848; Trip.com from $24 ≈ ₹2,016; Expedia $72–$76 with taxes ≈ ₹6,048–₹6,384 (likely a peak date or larger room). Very wide spread, treat typical with caution. 2-star, 80 rooms, Naikawaddo Calangute.)  
 **Beach:** Within approx. 10-minute drive of Calangute Beach and Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 80 · —  
@@ -276,7 +276,7 @@ Regal Sands Hotel is an 80-room property run by Welcom2Goa in Naikawaddo, on the
 **Area:** Candolim  
 **Address:** 1, Bamon Vaddo, Candolim, Bardez, Goa 403515, India  
 **Contract rate (per room/night, double):** CP ₹2,200 · MAP ₹2,800  
-**Online market rate:** —  
+**Online market rate:** from ₹1,299 (₹1,008–₹6,164) (Typical is FabHotels.com own site 'from ₹1,299' AC room with complimentary breakfast (Deluxe ₹1,337, Family ₹1,833). Goibibo ₹1,523 + ₹277 taxes (Deluxe). Low is Hotels.com $12 (≈₹1,008 at 84/USD, $13 with taxes). Highs: MakeMyTrip Deluxe ₹4,157 + ₹1,823 taxes and ixigo ₹6,164 + ₹900 — these appear to be peak-date or stale quotes and are outliers vs. the ₹1,000–₹1,800 cluster.)  
 **Beach:** Approx. 12-minute walk to Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 11 · Deluxe Room (approx. 180 sq ft, double bed), Premium Room (approx. 200 sq ft, queen bed), Family Room (approx. 220 sq ft, king bed)  
@@ -311,7 +311,7 @@ Shalom Indus Residency is a small 11-room guesthouse-style hotel in Bamon Vaddo,
 **Area:** Calangute  
 **Address:** H.No. E-1/218, Gauravaddo, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
-**Online market rate:** —  
+**Online market rate:** — (No price found after 6 searches (standard + extended, incl. MakeMyTrip/Goibibo/Agoda/Booking.com/hotels.com/Tripadvisor queries). Only hit is the official site (airabeachresort.com, H.No E-1/218 Gauravaddo, Calangute; rooms: Deluxe AC, Suite AC with bathtub, Penthouse suite with jacuzzi; reservations 9319956598), which was blocked for fetching and whose search snippet showed no tariff. Property does not appear to be listed on major OTAs under this name.)  
 **Beach:** —  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** — · Deluxe Room (balcony/patio, garden or hill view), Suite Room (with bathtub), Penthouse Suite (private jacuzzi, partial sea view)  
@@ -346,7 +346,7 @@ Aira Beach Resort is a newer property in Gauravaddo, central Calangute, position
 **Area:** Candolim  
 **Address:** Fort Aguada Road, Bammon Vaddo, Candolim, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹2,800 · MAP ₹3,400  
-**Online market rate:** —  
+**Online market rate:** from ₹2,432 (₹1,848–₹7,728) (Typical is Expedia India listing ₹2,432 including taxes and fees (Deluxe room). Hotels.com $22 before taxes ≈ ₹1,848 at 84/USD (low). MakeMyTrip global: Deluxe $47 ($38 after discount ≈ ₹3,192), 1BR apartment $53, Duplex $69. Trip.com from $37 ≈ ₹3,108. High is H-Rez 'rates from INR 7,728' (third-party rack-rate site, likely peak season). Now branded 'Victor Exotica an Indy Resort'.)  
 **Beach:** Approx. 500-800 m from Candolim Beach (about a 9-minute walk)  
 **Airports:** Dabolim 45 km · Mopa — km  
 **Rooms:** 78 · Deluxe Room (sleeps 2), One Bedroom Apartment (sleeps 4), Duplex Apartment (sleeps 5)  
@@ -382,7 +382,7 @@ Victor Exotica is a refurbished 78-room resort on Fort Aguada Road in Candolim, 
 **Area:** Calangute  
 **Address:** SY No. 194/7, Pocket 5-B, Ground Floor, Khobra Vaddo, Calangute, Bardez, Goa 403516, India  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹4,200  
-**Online market rate:** —  
+**Online market rate:** from ₹3,279 (₹3,279–₹6,588) (Search snippet (MakeMyTrip/Goibibo group listing) shows rooms from ₹3,279 + ₹684 taxes, and Deluxe Double from ₹4,151 + ₹561 taxes. Tripadvisor (listed as 'Skon Baga Bliss Hotel by Orion Hotels') standard-room range ₹3,520–₹6,588, ~$54 average (≈₹4,536 at 84/USD). Same property appears under both 'Hotel Baga Bliss by Celestiial Hospitality' and 'Skon Baga Bliss' names; exact OTA for the ₹3,279 figure not identifiable from snippet.)  
 **Beach:** Approx. 13-15 minute walk to Baga Beach and 15 minutes to Calangute Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 21 · Deluxe Double Room (approx. 180 sq ft), Premium Double Room (approx. 200 sq ft)  
@@ -417,7 +417,7 @@ Baga Bliss is a 21-room hotel in Khobra Vaddo, on the Calangute side of the Baga
 **Area:** Candolim  
 **Address:** D, Ximer, H.No. 1168, Near Jamaleshwar Temple, Gauravaddo, Candolim, Bardez, Goa 403515, India  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,500  
-**Online market rate:** —  
+**Online market rate:** from ₹3,063 (₹3,063–₹5,929) (EaseMyTrip: Club Room ₹3,063 + ₹170 taxes (room only), Club Room with breakfast ₹3,653 + ₹203, Standard Room ₹3,617 + ₹183. Tripadvisor: average ₹4,620, standard-room range ₹3,953–₹5,929; Agoda/Priceline via Tripadvisor $43 (≈₹3,612 at 84/USD). Bag2Bag ₹5,500 (disc. ₹5,225) Standard with breakfast. Note EaseMyTrip's 'Club' room is cheaper than its 'Standard' room.)  
 **Beach:** Approx. 1 km from Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 36 · Standard Room (9), Club Room (12), Deluxe Room (12), Family Room (3)  
@@ -453,7 +453,7 @@ Regenta Place M.A.R.S. Candolim is a 36-room hotel opened in December 2025 by Ro
 **Area:** Baga  
 **Address:** H. No. 236/10 B, Khobra Vaddo, Baga, Bardez, North Goa 403515  
 **Contract rate (per room/night, double):** CP ₹4,500 · MAP ₹5,500  
-**Online market rate:** —  
+**Online market rate:** — (No published rate found after 5 searches. Property only opened 23 Sep 2026 (40 rooms, Khobra Vaddo, Baga; categories Deluxe/Premium/Pool View with balcony). It is listed on Agoda and Setur but snippets show no price (dates required); Agoda and stonewoodresorts.com fetches were blocked. Official site advertises 15% off for direct booking. Do not confuse with Sibaya Beach Resort, Morjim (Rs 2,829-6,269), which is a different property.)  
 **Beach:** Close to Baga Beach and Calangute Beach (walking distance to Tito's Lane area); exact metres not published  
 **Airports:** Dabolim 41 km · Mopa 26 km  
 **Rooms:** 40 · Deluxe Room with Balcony, Premium Room with Balcony, Pool View Room with Balcony  
@@ -488,7 +488,7 @@ Sibaya Courtyard by Stone Wood Premier is a newly opened 40-room courtyard hotel
 **Area:** Calangute  
 **Address:** Porba Vaddo, Calangute-Arpora Road, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
-**Online market rate:** —  
+**Online market rate:** from ₹2,550 (₹2,436–₹8,164) (Typical figure is EaseMyTrip Premium Room Rs 2,550 + Rs 340 taxes (Grand Room Rs 4,136). Low is Booking.com 'from $29' converted at 84 INR/USD = Rs 2,436. High Rs 8,164 is HotelsCombined's 'cheapest rate currently found' on a peak date; the same aggregator cites average deals around Rs 4,670 and Rs 3,177 best price. Tripadvisor range $29-69 (Rs 2,436-5,796). Kayak shows $91-151 on some dates.)  
 **Beach:** About 5 minutes by car from Baga Beach and Calangute Beach; 1.3 km from Calangute centre  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 40 · Premium Room, Grand Room, Junior Suite  
@@ -524,7 +524,7 @@ Calux Joia Do Mar Resort is a 40-room resort on the Calangute-Arpora Road in Por
 **Area:** Calangute  
 **Address:** Naika Vaddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹5,200 · MAP ₹6,700  
-**Online market rate:** —  
+**Online market rate:** from ₹3,793 (₹3,359–₹8,062) (Typical is EaseMyTrip Deluxe Double/Twin with Breakfast Rs 3,793 + Rs 213 taxes. Cleartrip shows Rs 4,400 + Rs 220 (room with breakfast, 20% off). Low/high are Tripadvisor India's standard-room average range Rs 3,359-8,062. US sources: Expedia from $64.49 (Rs 5,417 at 84/USD), Travelocity $55 (Rs 4,620), Tripadvisor $35-84; Kayak Double C$131 (not converted). Higher categories (Regency, Suite, Bellus Suite with jacuzzi) cost more.)  
 **Beach:** About 10 minutes' walk to Calangute Beach; 1.4 km to Baga Beach; 2.9 km to Candolim Beach  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 117 · Regency Room, Deluxe Double or Twin Room, Suite with Bath Tub, Bellus Suite with Private Jacuzzi and Pool View  
@@ -560,7 +560,7 @@ Adamo The Bellus Goa is a 4-star hotel in Naika Vaddo, Calangute, set in tropica
 **Area:** Calangute  
 **Address:** Survey No. 193/3, Porba Vaddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,900 · MAP ₹4,900  
-**Online market rate:** —  
+**Online market rate:** from ₹2,810 (₹2,604–₹6,384) (Typical is Goibibo 'from Rs 2,810' for Standard Room without balcony (free cancellation). Low is Agoda $31 incl. taxes via Google Hotels, converted at 84 INR/USD = Rs 2,604. High is Booking.com $76 incl. taxes via Google Hotels = Rs 6,384; official site via Trip.com $75 (Rs 6,300), Trip.com average $58 (Rs 4,872); Hotels.com showed CA$97 on a late-May date. Hotels.com notes buffet breakfast is charged Rs 300-500 per adult, so base rates are likely room-only.)  
 **Beach:** About 14-15 minutes' walk to Baga Beach and Calangute Beach (approx. 1-1.5 km)  
 **Airports:** Dabolim 41 km · Mopa 29 km  
 **Rooms:** 61 · Standard Room (330 sq ft, king bed), Deluxe Room (350 sq ft, king bed)  
@@ -595,7 +595,7 @@ Bells Beach Resort, run by Resort De Balneaire, sits in Porba Vaddo between Cala
 **Area:** Calangute  
 **Address:** 1/230-A, Holiday Street, Gaurawaddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,000 · MAP ₹4,800  
-**Online market rate:** —  
+**Online market rate:** from ₹3,233 (₹3,135–₹9,324) (Typical is Expedia India Rs 3,233 (Rs 3,421 total with taxes). Goibibo from Rs 3,135. EaseMyTrip Grandeur Deluxe Room Rs 5,400 + Rs 270 taxes; Tripadvisor from Rs 4,446. High is Tripadvisor's standard-room range top of $111 converted at 84 INR/USD = Rs 9,324; Expedia US from $108.49 excl. taxes (Rs 9,113) and Hotels.com $95/$112 on some dates. Kayak shows $43 Deluxe to $62 Double on cheaper dates.)  
 **Beach:** Short walk to Calangute Beach (Holiday Street leads to the beach); free beach shuttle offered  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 70 · Grandeur Deluxe Room, Grandeur Honeymoon Fantasy with Bathtub, Grandeur Premier with Bathtub and Balcony, Grandeur Family Room with Pool View, Grandeur Luxury with Couple Jacuzzi Bathtub, Grandeur Maharaja with Couple Jacuzzi Bathtub  
@@ -629,7 +629,7 @@ Grandeur De Sanchi is a 4-star boutique resort on Holiday Street in Gaurawaddo, 
 **Area:** Arpora  
 **Address:** 80/1, Calangute-Mapusa Road, Fuldem Waddo, Nagoa, Arpora, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,500 · MAP ₹4,200  
-**Online market rate:** —  
+**Online market rate:** from ₹4,454 (₹2,051–₹5,500) (Typical is EaseMyTrip Premium Room Rs 4,454 + Rs 225 taxes (non-refundable, room only); Standard Deluxe Room with Breakfast Rs 4,999. Low is Agoda's current lowest Rs 2,051 (63% off a listed Rs 5,500, which is used as high). Booking.com from $39.65-51.40 (Rs 3,331-4,318 at 84/USD). Skyscanner says rooms usually range Rs 3,360-5,040 in September.)  
 **Beach:** 3.7 km from Baga Beach; Calangute Beach within 5 km  
 **Airports:** Dabolim 41 km · Mopa 23 km  
 **Rooms:** 59 · Standard Double Room, Deluxe Double Room  
@@ -665,7 +665,7 @@ Verano Hotel & Spa is a boutique lifestyle hotel on the Calangute-Mapusa Road in
 **Area:** Calangute  
 **Address:** Survey No. 166/13, Naikawaddo, Near Poriat Football Ground, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,700 · MAP ₹4,400  
-**Online market rate:** —  
+**Online market rate:** from ₹3,620 (₹2,300–₹6,500) (Wide spread across sources. Typical is Trivago 'from Rs 3,620'. Goibibo from Rs 5,063; Hotels.com and Expedia India Rs 6,500 current price (used as high); Tripadvisor India standard-room range Rs 2,605-5,596; Justdial 'starts at Rs 2,300' (used as low, likely offline/marketing). Expedia US from $65 incl. taxes (Rs 5,460 at 84/USD); Travelated 'from $50' (Rs 4,200). Meal plan not stated for the typical figure.)  
 **Beach:** Approx. 1 km from Calangute Beach; about 4 minutes' drive to Baga Beach  
 **Airports:** Dabolim 40 km · Mopa 29 km  
 **Rooms:** 72 · Standard Room, Deluxe Room, Family Room  
@@ -700,7 +700,7 @@ Sairaj Beach Resort is a 72-room resort in Naikawaddo, Calangute, about a kilome
 **Area:** Candolim  
 **Address:** 317/C, Baman Vaddo, Calangute-Fort Aguada Road, Candolim, Bardez, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹3,900  
-**Online market rate:** —  
+**Online market rate:** from ₹3,549 (₹1,628–₹6,300) (Typical is EaseMyTrip Standard Room Rs 3,549 + Rs 238 taxes. Low is Goibibo from Rs 1,628 for the entry 'Comfort' room (below Standard). High is Tripadvisor India standard-room range top Rs 6,300 (Tripadvisor US $27-78). Kayak: Standard $35, Deluxe $60, Double $63 (Rs 2,940-5,292 at 84/USD); Hotels.com $67 ($71 with taxes). Kayak notes October is the most expensive month (+29%).)  
 **Beach:** Near Candolim Beach (walking distance); about 6 minutes' drive to Calangute Beach  
 **Airports:** Dabolim 37 km · Mopa 30 km  
 **Rooms:** 60 · Delight Room with Balcony, Comfort Room, Luxury Room, Family Suite with Two Balconies  
@@ -736,7 +736,7 @@ Sukhmantra Resort & Spa is a boutique resort in Baman Vaddo, Candolim, on the Ca
 **Area:** Vagator  
 **Address:** Plot No. 412/3A, Near Bharat Petrol Pump, Deul Wada, Anjuna-Vagator, Bardez, Goa 403509  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹3,900  
-**Online market rate:** —  
+**Online market rate:** from ₹4,241 (₹2,604–₹20,664) (Typical is Goibibo from Rs 4,241 + Rs 954 taxes (Club Room entry category). Low is Trip.com 'from US$31' converted at 84 INR/USD = Rs 2,604 (also shown as EUR 20 / GBP 17 on regional Trip.com sites). High figures are outliers almost certainly for a suite or peak/festival date: Agoda $246 incl. taxes via Google Hotels = Rs 20,664 (used as high) and EaseMyTrip Rs 19,800 + Rs 3,600. Room types range Club Rooms to Honeymoon Suites.)  
 **Beach:** Within 10 minutes' drive of Anjuna Beach; close to Vagator Beach  
 **Airports:** Dabolim 45 km · Mopa 25 km  
 **Rooms:** 52 · Executive Room, Deluxe King Room with Balcony, Club Double Room with City View, Luxury Room, Royal Room, Family Room, Suite with Bathtub  
@@ -773,7 +773,7 @@ Vagator Downtown by VDP is a hotel opened in 2022 on the main Anjuna-Vagator roa
 **Area:** Calangute  
 **Address:** H.No. 4/42 C, Plot Sy. No. 363/19, Porba Waddo, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,200 · MAP ₹3,900  
-**Online market rate:** —  
+**Online market rate:** from ₹3,347 (₹2,952–₹3,612) (Only room type listed is Super Deluxe (290 sq ft, king bed). EaseMyTrip Rs 2,952 + Rs 170 taxes; Adani One Rs 3,347 + Rs 180 taxes (shown as 18% off a Rs 4,067 list price); MakeMyTrip USD 43 + taxes converted at 84 INR/USD = Rs 3,612. Not found on Goibibo/Agoda/Booking.com snippets. Typical figure uses Adani One mid-point.)  
 **Beach:** 1.6 km from Calangute Beach (1.6 km from Baga Beach)  
 **Airports:** Dabolim 36.5 km · Mopa — km  
 **Rooms:** 32 · Super Deluxe Room  
@@ -810,7 +810,7 @@ Casa Pearl by WS is a 32-room, 4-star hotel in Porba Waddo, Calangute, about 1.6
 **Area:** Calangute  
 **Address:** Sy. No. 184/1, Naika Vaddo (Naika Waddo), Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹3,600 · MAP ₹4,400  
-**Online market rate:** —  
+**Online market rate:** from ₹3,879 (₹3,688–₹6,113) (Base room is 'Classic Room with Breakfast': ixigo Rs 3,688 + Rs 555 taxes; EaseMyTrip Rs 3,879 + Rs 260 taxes. High figure Rs 6,113 is EaseMyTrip's Premiere Room with Balcony (different room type); Classic with Balcony Rs 5,643. Expedia/Hotels.com off-season figures were USD 50 (= Rs 4,200 at 84 INR/USD, Apr 2026) and AED 242 excl. taxes (May 2026). Hotel includes free breakfast buffet on Expedia listing.)  
 **Beach:** 0.8 km from Calangute Beach (about 9 minutes' walk)  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 104 · Classic Double Room, Deluxe Double Room, Elite Room, Signature Suite, Royal Suite  
@@ -847,7 +847,7 @@ SinQ Symbol is a 104-room hotel in Naika Vaddo, Calangute, about 800 m from Cala
 **Area:** Candolim  
 **Address:** Opposite Taj Holiday Village, Sinquerim, Candolim, Bardez, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹3,300 · MAP ₹4,200  
-**Online market rate:** —  
+**Online market rate:** from ₹2,735 (₹2,464–₹5,292) (Listed as 'SinQ Party Hotel - No Male Stags Allowed'. Hotels.com Rs 2,464 (Rs 2,608 incl. taxes); EaseMyTrip Party Cottage Ground Floor Rs 2,496 + Rs 158 taxes; KAYAK from Rs 2,735; ixigo Party Cottage Rs 3,331 + Rs 490; EaseMyTrip Party Room Pool View Rs 3,208 + Rs 203. Expedia USD range 38-63 across dates; high figure is USD 63 converted at 84 INR/USD = Rs 5,292 (seasonal peak). A third-party booking site (h-rez) quotes 'rates from INR 4,500'. Breakfast inclusion not stated.)  
 **Beach:** About 6 minutes' walk from Candolim Beach; 9 minutes' walk from Sinquerim Beach  
 **Airports:** Dabolim 39 km · Mopa — km  
 **Rooms:** 32 · Air-conditioned rooms with minibar and safe (pool-facing rooms available)  
@@ -885,7 +885,7 @@ SinQ Party Hotel is a 32-room hotel opposite Taj Holiday Village in Sinquerim, C
 **Area:** Candolim  
 **Address:** Opposite Taj Holiday Village, Aguada Road, Sinquerim, Candolim, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹4,150 · MAP ₹5,150  
-**Online market rate:** —  
+**Online market rate:** from ₹3,950 (₹2,920–₹5,350) (Hotels.com Rs 2,920-3,066 total incl. taxes (off-season dates); trivago from Rs 3,052; Expedia India Rs 3,822; EaseMyTrip Classic Room Rs 3,950 + Rs 198 taxes (Classic without window Rs 3,990 + Rs 238); Hotels.com also showed Rs 4,563 incl. taxes on other dates. High figure Rs 5,350 + Rs 268 is EaseMyTrip Deluxe Room (different room type). A non-OTA site (goaindia-hotelsresorts.com) claims a minimum of Rs 7,215, not used.)  
 **Beach:** About 6 minutes' walk from Candolim Beach; 10 minutes' walk from Sinquerim Beach  
 **Airports:** Dabolim 37.2 km · Mopa 31.8 km  
 **Rooms:** 41 · Classic Room, Deluxe Room, Luxury Room, Executive Suite  
@@ -923,7 +923,7 @@ SinQ Privé is a 4-star boutique hotel on Aguada Road in Sinquerim, Candolim, a 
 **Area:** Assonora  
 **Address:** Near Club Mahindra, Advalpal, Assonora, Bicholim, Goa 403503  
 **Contract rate (per room/night, double):** CP ₹6,400 · MAP ₹8,400  
-**Online market rate:** —  
+**Online market rate:** from ₹5,265 (₹4,956–₹6,460) (10-room nature resort at Advalpal, Assonora. Hotels.com Rs 5,265 (Rs 5,897 incl. taxes); Agoda 'average price per night USD 59' converted at 84 INR/USD = Rs 4,956; Booking.com from USD 73 (= Rs 6,132); EaseMyTrip Rs 6,460 + Rs 1,368 taxes; Expedia EUR 53 incl. taxes (Aug 2026). Tripadvisor standard-room range USD 63-100. Property has premium cottages with plunge pools priced higher.)  
 **Beach:** —  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 10 · Lake-facing cottage with private plunge pool and deck  
@@ -957,7 +957,7 @@ SinQ Anvaya is a small nature retreat of ten lake-facing thatched-roof cottages 
 **Area:** Calangute  
 **Address:** Plot 369 / H.No. 4/80, Porba Vaddo, Opposite Hard Rock Hotel, Behind KFC, Calangute, Bardez, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,200 · MAP ₹4,900  
-**Online market rate:** —  
+**Online market rate:** from ₹3,230 (₹2,816–₹3,542) (No property named 'Silver Shell Grand' found; figures are for Silver Shell Resort, Porba Vaddo, Calangute (41 rooms; also listed as FabHotel Prime Silver Shell / Capital O 28820). Goibibo Superior Room Rs 2,816 (15% off) or Rs 3,468 with breakfast, Premium Rs 2,986, Family Rs 3,413; Tripadvisor rate comparison Agoda Rs 2,869, MakeMyTrip Rs 3,230, Priceline Rs 3,542; Tripadvisor standard-room range Rs 2,781-3,260. MakeMyTrip USD view: Superior USD 40 (= Rs 3,360), Family USD 52. Typical figure is room-only.)  
 **Beach:** About 1 km from Calangute Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 41 · Classic Room (220 sq ft), Superior Room (250 sq ft), Premium Room (300 sq ft), Family Room (500 sq ft)  
@@ -994,7 +994,7 @@ Silver Shell Resort is a 41-room property in Porba Vaddo, central Calangute, opp
 **Area:** Anjuna  
 **Address:** 511/3, Anjuna, Bardez, North Goa 403509  
 **Contract rate (per room/night, double):** CP ₹4,000 · MAP ₹5,000  
-**Online market rate:** —  
+**Online market rate:** from ₹2,699 (₹2,195–₹4,872) (42-room hotel opened 2024. Hotels.com Rs 2,195 (Rs 2,305 incl. taxes, off-season); EaseMyTrip base 'Holitel Room' Rs 2,699 + Rs 155 taxes (with breakfast Rs 3,012 + Rs 173), Hill View Rs 3,325, Plunge Pool Room Rs 5,288, Jacuzzi Room Rs 5,705, Plunge Pool Suite Rs 6,123 (higher tiers are different room types); EaseMyTrip page title says 'from Rs 3,700'; Klook Rs 3,802; Adani One Rs 4,599 + Rs 612. Expedia USD 38-58 across dates; high figure USD 58 converted at 84 INR/USD = Rs 4,872. Expedia IE showed EUR 55 for 15-16 Oct 2026.)  
 **Beach:** About 10 minutes' drive from Anjuna Beach; 3.7 km from Baga Beach  
 **Airports:** Dabolim — km · Mopa 27.2 km  
 **Rooms:** 42 · Rooms, Suites (bohemian-inspired), Suites with private plunge pool, Family suite  
@@ -1029,7 +1029,7 @@ Holitel Anjuna Goa is a 42-room contemporary hotel opened in February 2024 in th
 **Area:** Calangute  
 **Address:** 153/1, Calangute, Bardez, North Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,900 · MAP ₹5,900  
-**Online market rate:** —  
+**Online market rate:** — (No online rate found after 4 searches (MakeMyTrip, Goibibo, Agoda, Hotels.com, EaseMyTrip, Booking.com queries all returned only Holitel Anjuna or generic Calangute listings). Official site holitelhotels.com lists Holitel Calangute at 153/1 Calangute, Bardez, positioned for weddings, corporate retreats and group bookings; it appears not to be listed on OTAs under this name (may be new or sold under a different listing name). WebFetch of holitelhotels.com is blocked in this environment.)  
 **Beach:** —  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** — · —  
@@ -1061,7 +1061,7 @@ Holitel Calangute is the second property of Holitel Hotels, a Goa brand launched
 **Area:** Candolim  
 **Address:** H.No. 615/A/2, Sequeira Vaddo, Candolim, Bardez, Goa 403515  
 **Contract rate (per room/night, double):** CP ₹4,500 · MAP ₹5,500  
-**Online market rate:** —  
+**Online market rate:** from ₹2,907 (₹2,907–₹5,040) (EaseMyTrip listing (URL slug still 'The Tanisi Resorts and Pool Villas', apparently rebranded): Casa Blanca Garden View Rs 2,907 + Rs 171 taxes (base room); Casa Bella King Rs 3,795 + Rs 223 up to Rs 7,268 + Rs 1,539 (premium tier, different room type); Casa Amor Suite Rs 4,723 + Rs 278. Priceline 'from USD 60' and MakeMyTrip USD 50-60 + taxes; high figure USD 60 converted at 84 INR/USD = Rs 5,040. Breakfast inclusion not stated.)  
 **Beach:** About 800 m from Candolim Beach  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** — · Casa Bella - Superior Room (25 sq m, king bed), Casa Vista - Premium Room (49 sq m, king bed), Casa Amor - One Bedroom Suite (56 sq m, king bed), Private pool villas (including 4-bedroom luxury villas)  
@@ -1096,7 +1096,7 @@ Simshines Hotels, Villas, Suites & Spa is a resort in Sequeira Vaddo, Candolim, 
 **Area:** Ashvem  
 **Address:** House No. 224, Ashvem Beach, Ashvem Wada, Mandrem, Goa 403527  
 **Contract rate (per room/night, double):** CP ₹8,500 · MAP ₹10,500  
-**Online market rate:** —  
+**Online market rate:** from ₹9,204 (₹7,157–₹32,590) (Low is Goibibo Premium Tropical Chalet, room only (~Rs 7,157/night). Typical is Expedia India lowest nightly for 2 adults incl. taxes (Rs 9,204; Hotels.com India Rs 9,133, Expedia Rs 9,912 on other dates). High is the top of Tripadvisor India's standard-room rate range (Rs 7,691-32,590); Goibibo's Royal Sea View Suite with breakfast is Rs 19,586. Trivago aggregates from USD 74 (~Rs 6,216 at 84/USD) across 11 sites. Upmarket property; Oct-Dec season rates likely at the upper end.)  
 **Beach:** Beachfront, direct access to Ashvem (Ashwem) Beach  
 **Airports:** Dabolim 57.2 km · Mopa — km  
 **Rooms:** 78 · Wooden Cottage, Premium Wooden AC Cottage, Beach Facing Chalet, Garden Facing Villa, Beach Facing Villa, Presidential Suite  
@@ -1132,7 +1132,7 @@ La Cabana Beach & Spa sits directly on Ashwem Beach in Mandrem, North Goa, with 
 **Area:** Morjim  
 **Address:** 182/1, Gawdewada, Morjim Beach, Morjim, Pernem, Goa 403512  
 **Contract rate (per room/night, double):** CP ₹5,200 · MAP ₹7,200  
-**Online market rate:** —  
+**Online market rate:** from ₹2,872 (₹2,747–₹6,888) (Low is Trivago 'from' price across 10 sites. Typical is Hotels.com India Rs 2,872/night incl. taxes; EaseMyTrip Tropical Cottage (non-sea-view) Rs 2,829 + taxes. MakeMyTrip (global site) lists Tropical Cottage USD 45 + USD 2 tax (~Rs 3,780 at 84/USD) up to Premium Suite USD 82 (~Rs 6,888, converted at 84/USD) - the high figure is a suite, not a standard room; EaseMyTrip Ocean Suite is Rs 6,269 + taxes. Trip.com average Rs 3,544 (Jul) to Rs 3,921 (Dec). Listed on OTAs as 'Sibaya Beach Resort' (Stone Wood brand not always shown).)  
 **Beach:** On Morjim (Turtle) Beach with beach access; Ashvem Beach approx. 3-minute walk  
 **Airports:** Dabolim 56.9 km · Mopa — km  
 **Rooms:** 42 · Tropical Cottage (Non-Sea View Wing, 220 sq ft), Premium Cottage (269 sq ft), Pool View Room, Garden Suite (480 sq ft)  
@@ -1170,7 +1170,7 @@ Sibaya Beach Resort by Stone Wood is set on the quiet sands of Morjim Beach, the
 **Area:** Morjim  
 **Address:** Survey No. 211-2A, Ashvem Beach Road, Morjim, Goa 403527  
 **Contract rate (per room/night, double):** CP ₹5,200 · MAP ₹6,700  
-**Online market rate:** —  
+**Online market rate:** from ₹4,812 (₹2,467–₹14,700) (Wide spread across sources. Low is Goibibo Rs 2,467 + Rs 400 taxes (likely off-season/discounted). Typical is Expedia India Rs 4,812/night for 2 adults incl. taxes; Booking.com (via Tripadvisor) ~USD 63 (~Rs 5,292 at 84/USD); EaseMyTrip Rs 5,890 + Rs 313 taxes. Skyscanner says October rooms typically Rs 8,251-10,155. High is top of Tripadvisor's standard-room range USD 35-175, converted at 84/USD (~Rs 14,700). Tripadvisor has two listings (inn and resort) for this property.)  
 **Beach:** Beachfront on Ashvem (Ashwem) Beach; Morjim Beach approx. 3-minute walk  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 86 · Deluxe Room, Sea-view Cottage, Private Villa, Rooms with private pool  
@@ -1205,7 +1205,7 @@ Dallas Beach Resort stands on Ashwem Beach at the Morjim end of North Goa's quie
 **Area:** Morjim  
 **Address:** Survey No. 241/3, New Wada, Morjim, Pernem, Goa 403512  
 **Contract rate (per room/night, double):** CP ₹5,700 · MAP ₹6,500  
-**Online market rate:** —  
+**Online market rate:** from ₹4,192 (₹3,653–₹9,521) (Low is Expedia USD 43.49 excl. taxes, converted at 84/USD (~Rs 3,653). Typical is Booking.com Rs 4,192 as shown in Tripadvisor India's rate comparison (Agoda Rs 3,995, Priceline Rs 5,704). High is the top of Tripadvisor's standard-room range Rs 3,558-9,521; Priceline 'from USD 95' and Travelated 'from USD 113' (~Rs 7,980-9,492) are similar. Some regional Expedia/Hotels.com sites show lower local-currency figures (~USD 27) that look like off-season rates. 4-star, 69 rooms.)  
 **Beach:** Steps from Ashvem Beach (approx. 0.1 km, 1-minute walk); resort's own 'Here & Now' beach shack opens onto the sand  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 69 · Standard Room (185 sq ft, 52 rooms), Lawn View Room (182 sq ft, 10 rooms), Pool View Room (182 sq ft, 3 rooms), Pool-facing Cottage  
@@ -1242,7 +1242,7 @@ Aralea Beach Resort by Stone Wood Premier is a garden-style resort a minute's wa
 **Area:** Baga  
 **Address:** 245/8, Tito's Lane 2, Baga, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹5,000 · MAP ₹6,000  
-**Online market rate:** —  
+**Online market rate:** from ₹3,970 (₹3,024–₹10,110) (Low is MakeMyTrip 'from USD 36/night', converted at 84/USD (~Rs 3,024); Goibibo rooms Rs 3,517-4,577 before taxes. Typical is Cleartrip room-only Rs 3,970 + Rs 216 taxes; Goibibo offers breakfast-inclusive options slightly higher. High is top of Tripadvisor India's standard-room range Rs 5,873-10,110. Official website publish rates are much higher: Rs 8,000 + tax room only (peak, Oct-Mar) / Rs 6,000 + tax (regular); breakfast package Rs 8,750 / Rs 6,750 + tax. OTA rates are heavily discounted vs rack rate.)  
 **Beach:** On Baga Beach (approx. 80 m); private beach area  
 **Airports:** Dabolim 42 km · Mopa — km  
 **Rooms:** 28 · Amara Premium Room (280 sq ft), Amara Suite (450 sq ft, separate living room, partial ocean view), Amara Family Suite (450 sq ft), Amara Honeymoon Suite  
@@ -1281,7 +1281,7 @@ Amara Oceanfront Resort & Club is a compact 28-room resort on Tito's Lane 2, rig
 **Area:** Baga  
 **Address:** Next to Bacardi Shack, Baga Beach, Tito's Lane 2, Baga, Calangute, Goa 403516  
 **Contract rate (per room/night, double):** CP ₹4,500 · MAP ₹5,700  
-**Online market rate:** —  
+**Online market rate:** from ₹6,975 (₹3,692–₹14,671) (Low is Adani One Villa Room Rs 3,692 (36% off Rs 5,740) + Rs 199 taxes. Typical is Expedia Rs 6,975 as shown in Tripadvisor's rate comparison; EaseMyTrip Deluxe Room Rs 6,534 + Rs 375 taxes (Rs 9,337 with breakfast); Trivago from Rs 7,610; Hotels.com from Rs 7,875; Agoda average USD 51-75 (~Rs 4,284-6,300 at 84/USD). High is Priceline Rs 14,671 via Tripadvisor; Tripadvisor standard-room range Rs 4,892-12,950. Breakfast is Rs 499 extra per Agoda unless included. Newly built 2025, 24 rooms.)  
 **Beach:** On Baga Beach (approx. 2-minute walk); free beach club on site  
 **Airports:** Dabolim — km · Mopa — km  
 **Rooms:** 27 · Deluxe Room, Cottage, Premium Double Room with Sea View  
@@ -1317,7 +1317,7 @@ Surf House Beach Resort is a surf-themed beach club and resort that opened in 20
 **Area:** Morjim  
 **Address:** H. No. 761/2, Gawdewada, Morjim, Goa 403512  
 **Contract rate (per room/night, double):** CP ₹5,300 · MAP ₹7,300  
-**Online market rate:** —  
+**Online market rate:** from ₹4,101 (₹3,780–₹15,708) (Low is Travelocity/Expedia 'from USD 45 incl. taxes' for 2 adults, converted at 84/USD (~Rs 3,780). Typical is Goibibo Deluxe Beach Cottage (non-sea-view) Rs 4,101/night incl. free breakfast, after 32% discount, taxes applied; Goibibo Tropical Beach Suite Rs 4,442, Sunset Beach Cottage (sea view) Rs 5,809, Signature Suite with jacuzzi Rs 8,291. High is Kayak's upper room-type figure USD 187 ('Double room'), converted at 84/USD (~Rs 15,708) - likely a peak-date/premium-room figure; Trip.com average Rs 9,940; MakeMyTrip global lists from USD 85 (~Rs 7,140) / AED 179; a guest review mentions Rs 8,000/night. Not to be confused with SinQ Beach Resort Calangute.)  
 **Beach:** Beachfront, directly on Morjim Beach  
 **Airports:** Dabolim 57.2 km · Mopa 18.3 km  
 **Rooms:** 30 · Deluxe Beach Cottage (non-sea-view balcony), Tropical Beach Cottage (non-sea-view balcony), Tropical Beach Suite with bathtub in balcony (non-sea view), Signature Beach Suite with jacuzzi in balcony (sea view), Sunset Beach Suite with bathtub in balcony (sea view)  
