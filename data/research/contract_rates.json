@@ -1,0 +1,70 @@
+{
+  "source": "Stayconnect Hotels - Goa Per Night Contract Rates (PDF)",
+  "provider": {
+    "name": "Stayconnect Hotels",
+    "tagline": "Hotel Sales & Marketing - Connecting Hotels, Growing Together",
+    "phone": "+91 98710 04087",
+    "email": "sales@stayconnecthotels.com",
+    "website": "www.stayconnecthotels.com"
+  },
+  "currency": "INR",
+  "basis": "Per room per night, double sharing, base category room",
+  "meal_plans": {
+    "CP": "Continental Plan - room with breakfast",
+    "MAP": "Modified American Plan - room with breakfast and dinner"
+  },
+  "validity": "Till 31st March 2027, except supplement/blackout dates",
+  "blackout_dates": [
+    {"name": "Gandhi Jayanti Weekend", "dates": "2-5 October 2026"},
+    {"name": "Dussehra (Vijayadashami)", "dates": "20-24 October 2026"},
+    {"name": "Diwali (Deepavali)", "dates": "8-15 November 2026"},
+    {"name": "New Year", "dates": "22 December 2026 to 05 January 2027"}
+  ],
+  "notes": [
+    "Rates are for base category rooms on double sharing basis.",
+    "DBL CP includes breakfast.",
+    "DBL MAP includes breakfast and dinner.",
+    "Supplement charges may apply on festivals, weekends and special dates.",
+    "Rooms and rates are subject to availability and final confirmation."
+  ],
+  "hotels": [
+    {"name": "Delta Residency", "category": "3 Star", "dbl_cp": 2000, "dbl_map": 3000},
+    {"name": "Amara Casa Baga", "category": "3 Star", "dbl_cp": 3500, "dbl_map": 4200},
+    {"name": "Sinq Beach Resort Calangute", "category": "3 Star", "dbl_cp": 3000, "dbl_map": 3700},
+    {"name": "Silver Shell Calangute", "category": "3 Star", "dbl_cp": 4700, "dbl_map": 5300},
+    {"name": "Goveia Grand", "category": "3 Star", "dbl_cp": 2500, "dbl_map": 3000},
+    {"name": "Regalsand By Welcome Goa", "category": "3 Star", "dbl_cp": 2200, "dbl_map": 2800},
+    {"name": "Shalom Indus Residency Candolim", "category": "3 Star", "dbl_cp": 2200, "dbl_map": 2800},
+    {"name": "Aira Beach Resort Calangute", "category": "3 Star", "dbl_cp": 3500, "dbl_map": 4200},
+    {"name": "Victor Exotica", "category": "3 Star", "dbl_cp": 2800, "dbl_map": 3400},
+    {"name": "Baga Bliss", "category": "3 Star", "dbl_cp": 3200, "dbl_map": 4200},
+    {"name": "Regenta Place Mars", "category": "3 Star", "dbl_cp": 3500, "dbl_map": 4500},
+
+    {"name": "Sibaya Courtyard", "category": "4 Star", "dbl_cp": 4500, "dbl_map": 5500},
+    {"name": "Calux Joia Do Mar Calangute", "category": "4 Star", "dbl_cp": 3500, "dbl_map": 4200},
+    {"name": "Adamo The Bellus", "category": "4 Star", "dbl_cp": 5200, "dbl_map": 6700},
+    {"name": "Bells Beach Resort", "category": "4 Star", "dbl_cp": 3900, "dbl_map": 4900},
+    {"name": "Grandure De Sachi", "category": "4 Star", "dbl_cp": 4000, "dbl_map": 4800},
+    {"name": "Verano Hotel & Spa", "category": "4 Star", "dbl_cp": 3500, "dbl_map": 4200},
+    {"name": "Sairaj Beach Resort", "category": "4 Star", "dbl_cp": 3700, "dbl_map": 4400},
+    {"name": "Sukhmantra Resort", "category": "4 Star", "dbl_cp": 3200, "dbl_map": 3900},
+    {"name": "Vagator Downtown", "category": "4 Star", "dbl_cp": 3200, "dbl_map": 3900},
+    {"name": "Casa Pearl", "category": "4 Star", "dbl_cp": 3200, "dbl_map": 3900},
+    {"name": "Sinq Symbol, Calangute", "category": "4 Star", "dbl_cp": 3600, "dbl_map": 4400},
+    {"name": "Sinq Party Hotel, Candolim", "category": "4 Star", "dbl_cp": 3300, "dbl_map": 4200},
+    {"name": "Sinq Prive, Candolim", "category": "4 Star", "dbl_cp": 4150, "dbl_map": 5150},
+    {"name": "Sinq Anvaya, Assonora Bicholim", "category": "4 Star", "dbl_cp": 6400, "dbl_map": 8400},
+    {"name": "Silver Shell Grand", "category": "4 Star", "dbl_cp": 4200, "dbl_map": 4900},
+    {"name": "Holitel Anjuna", "category": "4 Star", "dbl_cp": 4000, "dbl_map": 5000},
+    {"name": "Holitel Calangute", "category": "4 Star", "dbl_cp": 4900, "dbl_map": 5900},
+    {"name": "Simshines Candolim", "category": "4 Star", "dbl_cp": 4500, "dbl_map": 5500},
+
+    {"name": "La Cabana Beach & Spa", "category": "Beach Hotel", "dbl_cp": 8500, "dbl_map": 10500},
+    {"name": "Sibaya Beach Resort By Stonewood", "category": "Beach Hotel", "dbl_cp": 5200, "dbl_map": 7200},
+    {"name": "Dallas Beach Resort Morjim", "category": "Beach Hotel", "dbl_cp": 5200, "dbl_map": 6700},
+    {"name": "Aralia Beach Resort Morjim", "category": "Beach Hotel", "dbl_cp": 5700, "dbl_map": 6500},
+    {"name": "Amara Oceanfront", "category": "Beach Hotel", "dbl_cp": 5000, "dbl_map": 6000},
+    {"name": "Surf House Beach Resort Baga", "category": "Beach Hotel", "dbl_cp": 4500, "dbl_map": 5700},
+    {"name": "Sinq Beach, Morjim", "category": "Beach Hotel", "dbl_cp": 5300, "dbl_map": 7300}
+  ]
+}

@@ -1,0 +1,1043 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Goa Hotel Rates</title>
+<meta name="description" content="Stayconnect Hotels contract rates for 36 hotels in North Goa with hotel profiles, amenities and distances.">
+<style>
+:root{--bg:#f6f8fb;--card:#fff;--ink:#14213d;--muted:#5b6478;--line:#e3e8f0;--accent:#1d3b6e;--gold:#c9a24a;--chip:#eef2f8}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f141c;--card:#171e29;--ink:#e8edf5;--muted:#9aa5b8;--line:#2a3443;--accent:#8db2ec;--gold:#e0bd63;--chip:#222c3a}}
+:root[data-theme="dark"]{--bg:#0f141c;--card:#171e29;--ink:#e8edf5;--muted:#9aa5b8;--line:#2a3443;--accent:#8db2ec;--gold:#e0bd63;--chip:#222c3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:24px 16px}
+h1{margin:0 0 4px;font-size:1.7rem}.sub{color:var(--muted);margin:0 0 20px}
+.toolbar{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+.toolbar input,.toolbar select{padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+.toolbar input{flex:1 1 220px}
+.notice{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:10px;padding:12px 16px;margin:0 0 18px}
+.notice ul{margin:6px 0 0;padding-left:20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.card header{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.card h3{margin:2px 0 4px;font-size:1.1rem}
+.cat{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:700}
+.stars{color:var(--gold);font-size:.85rem}
+.area{margin:0;color:var(--muted);font-size:.85rem}
+.rating{background:var(--chip);border-radius:999px;padding:4px 10px;font-size:.8rem;white-space:nowrap;font-weight:600}
+.rates{display:grid;grid-template-columns:1fr 1fr;gap:8px;background:var(--chip);border-radius:10px;padding:10px 12px}
+.rates small{grid-column:1/-1;color:var(--muted)}
+.rates .lbl{display:block;font-size:.72rem;color:var(--muted)}.price{font-weight:700;font-size:1.15rem}
+.desc{margin:0}.dist{margin:0;color:var(--muted);font-size:.85rem}
+.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{background:var(--chip);border-radius:999px;padding:3px 10px;font-size:.78rem}.chip.hi{border:1px solid var(--line);background:transparent}
+details{border-top:1px solid var(--line);padding-top:8px;font-size:.9rem}summary{cursor:pointer;color:var(--accent);font-weight:600}
+details p{margin:8px 0}.meta a{color:var(--accent)}
+.count{color:var(--muted);font-size:.85rem}
+footer{margin-top:28px;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padding-top:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Goa Hotel Contract Rates</h1>
+<p class="sub">36 hotels across North Goa · Till 31st March 2027, except supplement/blackout dates · per room per night, double sharing</p>
+
+<div class="notice"><b>Standard rates do not apply on:</b><ul><li><b>Gandhi Jayanti Weekend</b>: 2-5 October 2026</li><li><b>Dussehra (Vijayadashami)</b>: 20-24 October 2026</li><li><b>Diwali (Deepavali)</b>: 8-15 November 2026</li><li><b>New Year</b>: 22 December 2026 to 05 January 2027</li></ul>
+<small>CP = room with breakfast · MAP = room with breakfast and dinner · Supplements may apply on festivals, weekends and special dates · Subject to availability and final confirmation.</small></div>
+
+<div class="toolbar">
+  <input id="q" type="search" placeholder="Search hotel name…">
+  <select id="cat"><option value="">All categories</option><option>3 Star</option><option>4 Star</option><option>Beach Hotel</option></select>
+  <select id="area"><option value="">All areas</option><option>Anjuna</option><option>Arpora</option><option>Ashvem</option><option>Assonora</option><option>Baga</option><option>Calangute</option><option>Candolim</option><option>Morjim</option><option>Vagator</option></select>
+  <select id="sort"><option value="list">Sort: contract order</option><option value="cp-asc">Price: low to high</option><option value="cp-desc">Price: high to low</option><option value="name">Name A–Z</option></select>
+</div>
+<p class="count" id="count"></p>
+
+<section class="grid" id="grid">
+<article class="card" data-cat="3 Star" data-area="Calangute" data-name="hotel delta residency goa" data-cp="2000" id="delta-residency">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Hotel Delta Residency Goa</h3>
+      <p class="area">📍 Calangute · 151/20, Gauro Vaddo, Beach Road, Near St. Anthony&#x27;s Chapel, Calangute, Bardez, Goa 403516, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹2,000</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹3,000</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Hotel Delta Residency Goa is a compact 25-room hotel on Beach Road in Calangute&#x27;s Gauro Vaddo, a short walk from Calangute Beach and the market area. Rooms are air-conditioned and split into Standard and Superior categories, and guests have access to an outdoor pool, a multi-cuisine restaurant and bar, and free Wi-Fi. It suits budget-conscious travellers who want a simple base close to North Goa&#x27;s busiest beach strip.</p>
+  <p class="dist">🏖 Approx. 1-1.8 km from Calangute Beach (sources describe it as a 5-15 minute walk) · ✈ Dabolim 39.8 km</p>
+  <div class="chips"><span class="chip hi">Walking distance to Calangute Beach</span><span class="chip hi">Outdoor swimming pool</span><span class="chip hi">Multi-cuisine restaurant and bar on site</span><span class="chip hi">Free Wi-Fi and parking</span><span class="chip hi">Close to Calangute Market and St. Alex Church</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 25 rooms · Standard Room, Superior Room</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Multi-cuisine restaurant</span><span class="chip">Bar</span><span class="chip">Free Wi-Fi</span><span class="chip">Parking</span><span class="chip">Air conditioning</span><span class="chip">Room service</span><span class="chip">Laundry</span><span class="chip">24-hour front desk</span><span class="chip">Luggage storage</span><span class="chip">Disabled access</span></div>
+    <p><b>Dining:</b> On-site multi-cuisine restaurant and bar</p>
+    <p><b>Check-in / out:</b> 14:00 (one OTA lists 13:00) / 12:00 (one OTA lists 11:30)</p>
+    <p><b>Nearby:</b> St. Anthony&#x27;s Chapel (approx. 140 m); St. Alex Church (approx. 0.8 km); Calangute Market (approx. 1.1 km); Calangute Beach (approx. 1.8 km by road)</p>
+    <p class="meta">+91 832 227 9226</p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Baga" data-name="amara casa baga" data-cp="3500" id="amara-casa-baga">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Amara Casa Baga</h3>
+      <p class="area">📍 Baga · 40/7 Saunta Vaddo, Baga, Bardez, Goa 403509, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,200</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Amara Casa Baga is a 25-room hotel in Saunta Vaddo, roughly five minutes on foot from Baga Beach and within about 2 km of Calangute Beach. Rooms come in three compact categories with queen beds and free Wi-Fi, and the property offers an outdoor pool, a restaurant and bar, and complimentary breakfast. Its location puts guests close to Baga&#x27;s beach shacks, Tito&#x27;s Lane and the Saturday night market circuit.</p>
+  <p class="dist">🏖 About a 5-minute walk from Baga Beach</p>
+  <div class="chips"><span class="chip hi">5-minute walk to Baga Beach</span><span class="chip hi">Outdoor pool</span><span class="chip hi">Breakfast included</span><span class="chip hi">Free Wi-Fi and parking</span><span class="chip hi">Close to Baga nightlife and Calangute</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 25 rooms · Casa Special (approx. 237 sq ft, queen bed), Casa Favourite (approx. 280 sq ft, queen bed), Casa Star (approx. 323 sq ft, queen bed)</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Restaurant</span><span class="chip">Bar</span><span class="chip">Free breakfast</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Laundry service</span></div>
+    <p><b>Dining:</b> On-site restaurant and bar; breakfast included in most rates</p>
+    <p><b>Check-in / out:</b> 14:00 / 12:00</p>
+    <p><b>Nearby:</b> Baga Beach (approx. 5-minute walk); Calangute Beach (within approx. 2 km); Tito&#x27;s Lane / Baga nightlife; Fort Aguada; Chapora Fort</p>
+    <p class="meta">+91 70309 13923</p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Calangute" data-name="sinq beach resort" data-cp="3000" id="sinq-beach-resort-calangute">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>SinQ Beach Resort</h3>
+      <p class="area">📍 Calangute · Tivai Vaddo, Opposite Don Bosco Hostel, Calangute, Bardez, Goa 403516, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,000</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹3,700</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">SinQ Beach Resort is a 66-room property in Tivai Vaddo, Calangute, a few minutes&#x27; walk from Calangute Beach and about 40 km from Dabolim Airport. Rooms have balconies, flat-screen TVs and mini-fridges, and the resort centres on an outdoor pool deck with a kids&#x27; pool, cabanas and a poolside bar. Breakfast is served at the in-house restaurant Ingredients, and the resort is part of the SinQ hospitality group known for its Candolim nightlife venues.</p>
+  <p class="dist">🏖 Approx. 5-minute walk / 2-minute drive to Calangute Beach · ✈ Dabolim 40 km</p>
+  <div class="chips"><span class="chip hi">Short walk to Calangute Beach</span><span class="chip hi">Pool deck with kids&#x27; pool and cabanas</span><span class="chip hi">In-house restaurant and poolside bar</span><span class="chip hi">Spa and massage services</span><span class="chip hi">Part of the SinQ hospitality group</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 66 rooms · Classic Room, Deluxe Room (approx. 32 sq m, double or twin), Deluxe Room with balcony</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool with kids&#x27; pool</span><span class="chip">Poolside bar and cabanas</span><span class="chip">Restaurant</span><span class="chip">Bar/lounge</span><span class="chip">Spa / massage</span><span class="chip">Health club</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Room service</span><span class="chip">24-hour front desk</span><span class="chip">Concierge</span><span class="chip">Luggage storage</span><span class="chip">Tour desk</span></div>
+    <p><b>Dining:</b> Ingredients restaurant (breakfast buffet included; lunch and dinner) plus poolside bar</p>
+    <p><b>Check-in / out:</b> 13:00 / 10:00</p>
+    <p><b>Nearby:</b> Calangute Beach (approx. 5-minute walk); Fort Aguada (approx. 6-minute drive); Baga Beach; Candolim</p>
+    <p class="meta"><a href="https://sinq.in/sinq-beach-resort-calangute" target="_blank" rel="noopener">Official site</a> · +91 832 227 6922</p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Calangute" data-name="silver shell resort" data-cp="4700" id="silver-shell-calangute">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Silver Shell Resort</h3>
+      <p class="area">📍 Calangute · Plot 369 (also listed as H.No. 4/806), Porba Vaddo, Opposite Hard Rock Hotel, Behind KFC, Calangute, Bardez, Goa 403516, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,700</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹5,300</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Silver Shell Resort is a 41-room hotel in Porba Vaddo, central Calangute, roughly a kilometre from the beach and opposite the Hard Rock Hotel. It offers double and twin rooms with air conditioning and tea/coffee makers, along with a swimming pool, poolside bar, multi-cuisine restaurant and free breakfast. Free parking, a lift and power backup make it a practical mid-range choice for families and groups.</p>
+  <p class="dist">🏖 Approx. 1 km from Calangute Beach (5-minute drive); about 7 minutes&#x27; drive to Baga Beach · ✈ Dabolim 39.9 km</p>
+  <div class="chips"><span class="chip hi">Swimming pool with poolside bar</span><span class="chip hi">Breakfast included</span><span class="chip hi">Central Calangute location near KFC and Hard Rock Hotel</span><span class="chip hi">Free Wi-Fi and parking</span><span class="chip hi">Lift and power backup</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 41 rooms · Double Room (36 rooms), Twin Room (5 rooms)</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">Poolside bar</span><span class="chip">Multi-cuisine restaurant</span><span class="chip">Free breakfast</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Lift</span><span class="chip">Power backup</span><span class="chip">Room service</span><span class="chip">Laundry / dry cleaning</span><span class="chip">24-hour front desk</span><span class="chip">Spa</span><span class="chip">Tour desk</span><span class="chip">Tea/coffee maker in rooms</span></div>
+    <p><b>Dining:</b> Multi-cuisine restaurant with poolside bar; complimentary breakfast</p>
+    <p><b>Check-in / out:</b> 12:00 / 11:00</p>
+    <p><b>Nearby:</b> Calangute Beach (approx. 1 km); Baga Beach (approx. 7-minute drive); Calangute Market; Saligao</p>
+    <p class="meta"></p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Candolim" data-name="goveia grand resort" data-cp="2500" id="goveia-grand">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Goveia Grand Resort</h3>
+      <p class="area">📍 Candolim · Near Aradi Sub Station, Lane opposite Cafe Coffee Day, Candolim, Bardez, Goa 403515, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹2,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹3,000</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Goveia Grand Resort sits in a lane off Candolim&#x27;s main road near the Cafe Coffee Day junction, about 350 m from Candolim Market and roughly 40 km from Dabolim Airport. Rooms have balconies, air conditioning and satellite TV, and the resort offers an outdoor pool with a kids&#x27; pool, a restaurant and bar, and free parking. Fort Aguada and Candolim and Sinquerim beaches are a short drive away.</p>
+  <p class="dist">🏖 Approx. 2.6 km from Sinquerim Beach; Candolim Beach nearby · ✈ Dabolim 40 km</p>
+  <div class="chips"><span class="chip hi">Outdoor pool with kids&#x27; pool</span><span class="chip hi">Balcony rooms</span><span class="chip hi">Close to Candolim Market and restaurants</span><span class="chip hi">Restaurant and bar on site</span><span class="chip hi">Short drive to Fort Aguada</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 50 rooms · Deluxe Room with balcony, Family Room, Executive Suite</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Kids&#x27; pool</span><span class="chip">Restaurant</span><span class="chip">Bar</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Room service</span><span class="chip">24-hour front desk</span><span class="chip">Laundry</span><span class="chip">Luggage storage</span><span class="chip">Fitness centre</span><span class="chip">Spa / massage</span></div>
+    <p><b>Dining:</b> In-house restaurant (Aquira, per OTA listings) with poolside bar; continental breakfast</p>
+    <p><b>Check-in / out:</b> 13:30 / 10:00</p>
+    <p><b>Nearby:</b> Candolim Market (approx. 350 m); Sinquerim Beach (approx. 2.6 km); Fort Aguada (approx. 10-minute drive); Candolim Beach</p>
+    <p class="meta"><a href="https://goveiaresort.com/" target="_blank" rel="noopener">Official site</a> · +91 93261 12995</p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Calangute" data-name="regal sands hotel - calangute goa, by welcom2goa" data-cp="2200" id="regalsand-by-welcome-goa">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Regal Sands Hotel - Calangute Goa, by Welcom2Goa</h3>
+      <p class="area">📍 Calangute · Naikawaddo, near Calangute-Anjuna Road, near Dharwadkar Hospital, Dongorpur, Calangute, Goa 403516, India</p>
+    </div>
+    <span class="rating">G 4.2 <small>(591)</small></span>
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹2,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹2,800</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Regal Sands Hotel is an 80-room property run by Welcom2Goa in Naikawaddo, on the Calangute-Anjuna road side of Calangute. It is within about a ten-minute drive of both Calangute and Candolim beaches and offers a swimming pool, on-site dining and a 24-hour front desk. Its size makes it a practical option for groups and tour series looking for a pool hotel between Calangute and Anjuna.</p>
+  <p class="dist">🏖 Within approx. 10-minute drive of Calangute Beach and Candolim Beach</p>
+  <div class="chips"><span class="chip hi">80 rooms - suited to groups</span><span class="chip hi">Swimming pool</span><span class="chip hi">On-site dining</span><span class="chip hi">Between Calangute and Anjuna</span><span class="chip hi">Google rating 4.2 from 591 reviews</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 80 rooms · —</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">Restaurant / dining</span><span class="chip">24-hour front desk</span><span class="chip">Air conditioning</span></div>
+    <p><b>Dining:</b> On-site dining; guests praise the food in reviews</p>
+    <p><b>Check-in / out:</b> 14:00 to 21:00 / 11:00</p>
+    <p><b>Nearby:</b> Calangute Beach (approx. 10-minute drive); Candolim Beach (approx. 10-minute drive); Anjuna Beach; Saturday Night Market, Arpora</p>
+    <p class="meta">+91 80000 72224</p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Candolim" data-name="shalom indus residency" data-cp="2200" id="shalom-indus-residency-candolim">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Shalom Indus Residency</h3>
+      <p class="area">📍 Candolim · 1, Bamon Vaddo, Candolim, Bardez, Goa 403515, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹2,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹2,800</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Shalom Indus Residency is a small 11-room guesthouse-style hotel in Bamon Vaddo, Candolim, about a 12-minute walk from Candolim Beach. Rooms are compact, air-conditioned and offered in Deluxe, Premium and Family categories, and the property has a pool, a restaurant and bar, and free Wi-Fi. It is a budget-friendly option for travellers who want to be near Candolim&#x27;s cafes and a short drive from Fort Aguada.</p>
+  <p class="dist">🏖 Approx. 12-minute walk to Candolim Beach</p>
+  <div class="chips"><span class="chip hi">Small, 11-room property</span><span class="chip hi">Swimming pool</span><span class="chip hi">12-minute walk to Candolim Beach</span><span class="chip hi">Free Wi-Fi and air conditioning</span><span class="chip hi">Close to Candolim cafes and the All About Alcohol Museum</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 11 rooms · Deluxe Room (approx. 180 sq ft, double bed), Premium Room (approx. 200 sq ft, queen bed), Family Room (approx. 220 sq ft, king bed)</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">Restaurant</span><span class="chip">Bar</span><span class="chip">Free Wi-Fi</span><span class="chip">Air conditioning</span><span class="chip">24-hour front desk</span><span class="chip">Daily housekeeping</span><span class="chip">Breakfast available</span><span class="chip">Front-desk safe</span><span class="chip">Non-smoking rooms</span></div>
+    <p><b>Dining:</b> In-house restaurant and bar; many cafes within a 5-minute walk</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Candolim Beach (approx. 12-minute walk); All About Alcohol Museum (approx. 6-minute walk); Fort Aguada (approx. 8-minute drive); Deltin Royale Casino (approx. 15-minute drive)</p>
+    <p class="meta"></p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Calangute" data-name="aira beach resort" data-cp="3500" id="aira-beach-resort-calangute">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Aira Beach Resort</h3>
+      <p class="area">📍 Calangute · H.No. E-1/218, Gauravaddo, Calangute, Bardez, Goa 403516, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,200</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Aira Beach Resort is a newer property in Gauravaddo, central Calangute, positioned close to the beach, cafes and nightlife of North Goa. Accommodation ranges from Deluxe rooms with balconies to Suites with bathtubs and Penthouse Suites with private jacuzzis and partial sea views. Facilities include a large swimming pool, a gym, a games zone, a conference hall and an air-conditioned multi-cuisine restaurant.</p>
+  <p class="dist"></p>
+  <div class="chips"><span class="chip hi">Penthouse suites with private jacuzzi</span><span class="chip hi">Large swimming pool and gym</span><span class="chip hi">Air-conditioned multi-cuisine restaurant</span><span class="chip hi">Conference hall for events</span><span class="chip hi">Central Calangute location</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> Deluxe Room (balcony/patio, garden or hill view), Suite Room (with bathtub), Penthouse Suite (private jacuzzi, partial sea view)</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">Gym</span><span class="chip">Multi-cuisine air-conditioned restaurant</span><span class="chip">Gaming zone (pool table, foosball)</span><span class="chip">Conference hall</span><span class="chip">Free Wi-Fi</span><span class="chip">Air conditioning</span><span class="chip">Flat-screen TV</span><span class="chip">Soundproofed rooms</span></div>
+    <p><b>Dining:</b> Fully air-conditioned multi-cuisine restaurant serving local and international dishes</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Calangute Beach; Baga Beach; Calangute Market</p>
+    <p class="meta"><a href="https://www.airabeachresort.com/" target="_blank" rel="noopener">Official site</a> · +91 93199 56598</p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Candolim" data-name="victor exotica beach resort" data-cp="2800" id="victor-exotica">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Victor Exotica Beach Resort</h3>
+      <p class="area">📍 Candolim · Fort Aguada Road, Bammon Vaddo, Candolim, Bardez, Goa 403516, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹2,800</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹3,400</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Victor Exotica is a refurbished 78-room resort on Fort Aguada Road in Candolim, roughly 500-800 m from Candolim Beach. It offers Deluxe rooms plus one-bedroom and duplex apartments for families, all with balconies and minibars, set around an outdoor pool and garden. The Mouraria restaurant serves buffet meals, and guests can also use the spa, gym and indoor games, with water sports arranged nearby.</p>
+  <p class="dist">🏖 Approx. 500-800 m from Candolim Beach (about a 9-minute walk) · ✈ Dabolim 45 km</p>
+  <div class="chips"><span class="chip hi">78 rooms including family apartments</span><span class="chip hi">Short walk to Candolim Beach</span><span class="chip hi">Outdoor pool and garden</span><span class="chip hi">Mouraria buffet restaurant and bar</span><span class="chip hi">Spa and gym on site</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 78 rooms · Deluxe Room (sleeps 2), One Bedroom Apartment (sleeps 4), Duplex Apartment (sleeps 5)</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Restaurant</span><span class="chip">Bar</span><span class="chip">Spa</span><span class="chip">Gym</span><span class="chip">Garden</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Minibar</span><span class="chip">Private balconies</span><span class="chip">Table tennis and carrom</span><span class="chip">Water sports arrangements</span><span class="chip">24-hour front desk</span></div>
+    <p><b>Dining:</b> Mouraria restaurant - buffet breakfast, lunch and dinner</p>
+    <p><b>Check-in / out:</b> 14:00 (early check-in from 13:00 subject to availability) / 12:00</p>
+    <p><b>Nearby:</b> Candolim Beach (approx. 0.8 km); Sinquerim Beach; Fort Aguada; Calangute Beach</p>
+    <p class="meta"><a href="http://www.victorexoticagoa.com" target="_blank" rel="noopener">Official site</a> · +91 832 247 9515</p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Calangute" data-name="baga bliss by celestiial hospitality" data-cp="3200" id="baga-bliss">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Baga Bliss by Celestiial Hospitality</h3>
+      <p class="area">📍 Calangute · SY No. 194/7, Pocket 5-B, Ground Floor, Khobra Vaddo, Calangute, Bardez, Goa 403516, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,200</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Baga Bliss is a 21-room hotel in Khobra Vaddo, on the Calangute side of the Baga road, about a 15-minute walk from both Baga and Calangute beaches. Rooms were renovated in 2023 and come in Deluxe and Premium double categories with air conditioning, flat-screen TVs and kettles. The property has an outdoor pool, an on-site restaurant and free parking, and sits close to Tito&#x27;s Lane and Casino Palms.</p>
+  <p class="dist">🏖 Approx. 13-15 minute walk to Baga Beach and 15 minutes to Calangute Beach</p>
+  <div class="chips"><span class="chip hi">Renovated in 2023</span><span class="chip hi">Outdoor pool</span><span class="chip hi">Walking distance to both Baga and Calangute beaches</span><span class="chip hi">Free Wi-Fi and parking</span><span class="chip hi">Near Tito&#x27;s Lane nightlife</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 21 rooms · Deluxe Double Room (approx. 180 sq ft), Premium Double Room (approx. 200 sq ft)</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Restaurant</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Room service (limited hours)</span><span class="chip">24-hour front desk</span><span class="chip">Daily housekeeping</span><span class="chip">Laundry / dry cleaning</span><span class="chip">Luggage storage</span><span class="chip">In-room safe</span><span class="chip">Electric kettle</span></div>
+    <p><b>Dining:</b> On-site restaurant; several cafes and pizzerias within a 5-10 minute walk</p>
+    <p><b>Check-in / out:</b> 14:00 (late check-in subject to availability) / —</p>
+    <p><b>Nearby:</b> Baga Beach (approx. 13-minute walk); Calangute Beach (approx. 15-minute walk); Tito&#x27;s Lane; Casino Palms</p>
+    <p class="meta"></p>
+  </details>
+</article>
+<article class="card" data-cat="3 Star" data-area="Candolim" data-name="regenta place m.a.r.s. candolim" data-cp="3500" id="regenta-place-mars">
+  <header>
+    <div>
+      <span class="cat">3 Star</span> <span class="stars">★★★</span>
+      <h3>Regenta Place M.A.R.S. Candolim</h3>
+      <p class="area">📍 Candolim · D, Ximer, H.No. 1168, Near Jamaleshwar Temple, Gauravaddo, Candolim, Bardez, Goa 403515, India</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,500</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Regenta Place M.A.R.S. Candolim is a 36-room hotel opened in December 2025 by Royal Orchid Hotels under its value-focused Regenta Place brand, about 1 km from Candolim Beach and 2.7 km from Calangute Beach. Every room has a balcony, air conditioning, LCD TV and mini-bar fridge, across Standard, Club, Deluxe and Family categories. The rooftop hosts an infinity pool, the open-air Limelight multi-cuisine restaurant and the Seasons Hall for small events.</p>
+  <p class="dist">🏖 Approx. 1 km from Candolim Beach</p>
+  <div class="chips"><span class="chip hi">Newly opened (December 2025) Royal Orchid Hotels property</span><span class="chip hi">Rooftop infinity pool</span><span class="chip hi">Limelight rooftop restaurant with panoramic views</span><span class="chip hi">All rooms with balconies</span><span class="chip hi">1 km from Candolim Beach</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 36 rooms · Standard Room (9), Club Room (12), Deluxe Room (12), Family Room (3)</p>
+    <div class="chips"><span class="chip">Rooftop infinity pool</span><span class="chip">Rooftop multi-cuisine restaurant</span><span class="chip">24-hour in-room dining</span><span class="chip">Seasons Hall rooftop event space (approx. 1,120 sq ft)</span><span class="chip">Free Wi-Fi</span><span class="chip">Air conditioning</span><span class="chip">Balconies in all rooms</span><span class="chip">LCD TV</span><span class="chip">Mini-bar fridge</span></div>
+    <p><b>Dining:</b> Limelight - rooftop open-air multi-cuisine restaurant with panoramic views; 24-hour in-room dining</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Candolim Beach (approx. 1 km); Calangute Beach (approx. 2.7 km); Baga Beach (approx. 4.6 km); Fort Aguada; Jamaleshwar Temple (adjacent)</p>
+    <p class="meta"><a href="https://www.royalorchidhotels.com/" target="_blank" rel="noopener">Official site</a> · +91 89561 22310</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Baga" data-name="sibaya courtyard by stone wood premier" data-cp="4500" id="sibaya-courtyard">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Sibaya Courtyard by Stone Wood Premier</h3>
+      <p class="area">📍 Baga · H. No. 236/10 B, Khobra Vaddo, Baga, Bardez, North Goa 403515</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹5,500</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Sibaya Courtyard by Stone Wood Premier is a newly opened 40-room courtyard hotel in Khobra Vaddo, Baga, part of the Goa-based Stone Wood Hotels &amp; Resorts group. Every room has a private balcony, and the property offers a swimming pool, restaurant and free parking within easy reach of Baga Beach, Calangute Beach and the Tito&#x27;s Lane nightlife strip.</p>
+  <p class="dist">🏖 Close to Baga Beach and Calangute Beach (walking distance to Tito&#x27;s Lane area); exact metres not published · ✈ Dabolim 41 km · ✈ Mopa 26 km</p>
+  <div class="chips"><span class="chip hi">Brand-new property opened in late 2026</span><span class="chip hi">All 40 rooms have private balconies</span><span class="chip hi">Pool-view room category available</span><span class="chip hi">Walking distance to Baga nightlife and beach</span><span class="chip hi">Direct-booking discounts offered by the operator</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 40 rooms · Deluxe Room with Balcony, Premium Room with Balcony, Pool View Room with Balcony</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Restaurant</span><span class="chip">Free breakfast (on select rates)</span><span class="chip">Free parking</span><span class="chip">Private balcony in every room</span><span class="chip">Air conditioning</span><span class="chip">Wi-Fi</span></div>
+    <p><b>Dining:</b> One on-site restaurant (name not published)</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Baga Beach (close by); Calangute Beach (close by); Tito&#x27;s Lane (close by); Saturday Night Market, Arpora (approx. 3 km)</p>
+    <p class="meta"><a href="https://www.stonewoodresorts.com/sibaya-courtyard-premium-baga/" target="_blank" rel="noopener">Official site</a> · +91 80101 24124</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="calux joia do mar resort" data-cp="3500" id="calux-joia-do-mar-calangute">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★</span>
+      <h3>Calux Joia Do Mar Resort</h3>
+      <p class="area">📍 Calangute · Porba Vaddo, Calangute-Arpora Road, Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,200</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Calux Joia Do Mar Resort is a 40-room resort on the Calangute-Arpora Road in Porba Vaddo, a short drive from both Calangute and Baga beaches. The property is built around an outdoor pool with a swim-up bar and offers two restaurants, balcony rooms and free parking.</p>
+  <p class="dist">🏖 About 5 minutes by car from Baga Beach and Calangute Beach; 1.3 km from Calangute centre · ✈ Dabolim 40 km · ✈ Mopa 29 km</p>
+  <div class="chips"><span class="chip hi">Swim-up pool bar</span><span class="chip hi">Two on-site restaurants</span><span class="chip hi">All rooms with balconies</span><span class="chip hi">5-minute drive to Baga and Calangute beaches</span><span class="chip hi">Free parking and Wi-Fi</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 40 rooms · Premium Room, Grand Room, Junior Suite</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Swim-up pool bar (Joy Bar)</span><span class="chip">2 restaurants</span><span class="chip">Bar/lounge</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Minibar</span><span class="chip">Balconies</span><span class="chip">24-hour front desk</span><span class="chip">Laundry/dry cleaning</span><span class="chip">Tour/ticket assistance</span></div>
+    <p><b>Dining:</b> Two on-site restaurants (Indian, Chinese, vegetarian options) plus in-pool &#x27;Joy Bar&#x27;</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Calangute Beach (approx. 5 min by car); Baga Beach (approx. 5 min by car); Candolim Beach (3.1 km); Anjuna Beach (6.6 km); Saturday Night Market, Arpora (nearby)</p>
+    <p class="meta"><a href="https://www.joiadomar.com" target="_blank" rel="noopener">Official site</a> · +91 98236 22244</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="adamo the bellus goa" data-cp="5200" id="adamo-the-bellus">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Adamo The Bellus Goa</h3>
+      <p class="area">📍 Calangute · Naika Vaddo, Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹5,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹6,700</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Adamo The Bellus Goa is a 4-star hotel in Naika Vaddo, Calangute, set in tropical gardens within walking distance of Calangute Beach and market. It offers over 100 rooms and suites, an outdoor pool, the Clove restaurant and bar, La Soin Spa, a gym and banquet facilities, making it suitable for both leisure stays and events.</p>
+  <p class="dist">🏖 About 10 minutes&#x27; walk to Calangute Beach; 1.4 km to Baga Beach; 2.9 km to Candolim Beach · ✈ Dabolim 40 km · ✈ Mopa 29 km</p>
+  <div class="chips"><span class="chip hi">10-minute walk to Calangute Beach</span><span class="chip hi">Clove restaurant and bar with pool views</span><span class="chip hi">La Soin Spa and fitness centre</span><span class="chip hi">Suites with private jacuzzi available</span><span class="chip hi">Banquet and conference facilities</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 117 rooms · Regency Room, Deluxe Double or Twin Room, Suite with Bath Tub, Bellus Suite with Private Jacuzzi and Pool View</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Restaurant (Clove)</span><span class="chip">Bar/lounge</span><span class="chip">La Soin Spa</span><span class="chip">Fitness centre</span><span class="chip">Whirlpool</span><span class="chip">Banquet hall / conference facilities</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Minibar</span><span class="chip">Private balconies</span><span class="chip">24-hour room service</span><span class="chip">Wheelchair accessible</span></div>
+    <p><b>Dining:</b> Clove - multi-cuisine restaurant (Goan, North Indian, Continental) with bar and pool/garden views; 24-hour room service</p>
+    <p><b>Check-in / out:</b> 1:00 PM / 11:30 AM</p>
+    <p><b>Nearby:</b> Calangute Beach (approx. 10 min walk); Calangute Market (approx. 10 min walk); Baga Beach (1.4 km); Candolim Beach (2.9 km); Anjuna Beach (7.7 km)</p>
+    <p class="meta"><a href="https://www.adamohotels.com/adamothebellus-goa/" target="_blank" rel="noopener">Official site</a> · +91 832 227 5334</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="bells beach resort, a unit of resort de balneaire" data-cp="3900" id="bells-beach-resort">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Bells Beach Resort, A Unit of Resort De Balneaire</h3>
+      <p class="area">📍 Calangute · Survey No. 193/3, Porba Vaddo, Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,900</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,900</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Bells Beach Resort, run by Resort De Balneaire, sits in Porba Vaddo between Calangute and Baga, roughly a 15-minute walk from either beach. The resort offers 61 air-conditioned rooms, an outdoor pool with a children&#x27;s section, a restaurant and bar, a gym and a complimentary daily manager&#x27;s reception.</p>
+  <p class="dist">🏖 About 14-15 minutes&#x27; walk to Baga Beach and Calangute Beach (approx. 1-1.5 km) · ✈ Dabolim 41 km · ✈ Mopa 29 km</p>
+  <div class="chips"><span class="chip hi">Between Calangute and Baga beaches</span><span class="chip hi">Outdoor pool with kids&#x27; pool</span><span class="chip hi">Complimentary manager&#x27;s reception</span><span class="chip hi">Free parking and Wi-Fi</span><span class="chip hi">Meeting rooms and business centre</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 61 rooms · Standard Room (330 sq ft, king bed), Deluxe Room (350 sq ft, king bed)</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Children&#x27;s pool</span><span class="chip">Restaurant</span><span class="chip">Bar/lounge</span><span class="chip">Fitness centre</span><span class="chip">Garden and terrace</span><span class="chip">Complimentary manager&#x27;s reception</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Business centre / meeting rooms</span><span class="chip">24-hour front desk</span><span class="chip">Laundry</span><span class="chip">Airport shuttle (on request)</span></div>
+    <p><b>Dining:</b> On-site restaurant serving Goan and multi-cuisine food by the poolside lounge; bar</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Baga Beach (approx. 14 min walk); Calangute Beach (approx. 15 min walk); Tito&#x27;s Lane, Baga (nearby); Saturday Night Market, Arpora (nearby)</p>
+    <p class="meta"><a href="https://bellsbeachresort.com/" target="_blank" rel="noopener">Official site</a> · +91 77097 55001</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="grandeur de sanchi - luxury beach resort &amp; spa" data-cp="4000" id="grandure-de-sachi">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Grandeur De Sanchi - Luxury Beach Resort &amp; Spa</h3>
+      <p class="area">📍 Calangute · 1/230-A, Holiday Street, Gaurawaddo, Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,000</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,800</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Grandeur De Sanchi is a 4-star boutique resort on Holiday Street in Gaurawaddo, a short walk from Calangute Beach. It offers themed rooms ranging from deluxe to jacuzzi suites, an outdoor pool with poolside bar, two restaurants, La Bella Spa, a rooftop terrace and a free beach shuttle.</p>
+  <p class="dist">🏖 Short walk to Calangute Beach (Holiday Street leads to the beach); free beach shuttle offered · ✈ Dabolim 40 km · ✈ Mopa 29 km</p>
+  <div class="chips"><span class="chip hi">Short walk to Calangute Beach on Holiday Street</span><span class="chip hi">Honeymoon and jacuzzi suite categories</span><span class="chip hi">Pool with poolside bar and rooftop terrace</span><span class="chip hi">La Bella Spa on site</span><span class="chip hi">Free beach shuttle and parking</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 70 rooms · Grandeur Deluxe Room, Grandeur Honeymoon Fantasy with Bathtub, Grandeur Premier with Bathtub and Balcony, Grandeur Family Room with Pool View, Grandeur Luxury with Couple Jacuzzi Bathtub, Grandeur Maharaja with Couple Jacuzzi Bathtub</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Poolside bar</span><span class="chip">2 restaurants</span><span class="chip">2 bars/lounges</span><span class="chip">La Bella Spa</span><span class="chip">Rooftop terrace</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Free beach shuttle</span><span class="chip">Airport shuttle (surcharge)</span><span class="chip">Lift / wheelchair access</span><span class="chip">Concierge</span></div>
+    <p><b>Dining:</b> Two on-site restaurants (Indian and Chinese cuisine; breakfast to dinner) plus poolside bar</p>
+    <p><b>Check-in / out:</b> 1:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Calangute Beach (short walk); Candolim Beach (approx. 10 min drive); Baga Beach (approx. 3 km); Calangute Market (nearby)</p>
+    <p class="meta"><a href="https://www.grandeurdesanchi.com" target="_blank" rel="noopener">Official site</a> · +91 90110 00243</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Arpora" data-name="verano hotel &amp; spa" data-cp="3500" id="verano-hotel-spa">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★</span>
+      <h3>Verano Hotel &amp; Spa</h3>
+      <p class="area">📍 Arpora · 80/1, Calangute-Mapusa Road, Fuldem Waddo, Nagoa, Arpora, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,200</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Verano Hotel &amp; Spa is a boutique lifestyle hotel on the Calangute-Mapusa Road in Nagoa, Arpora, set among tropical gardens a short drive from Baga and Calangute beaches. The 59-room property has a year-round outdoor pool with a kids&#x27; section, a spa, a restaurant and pool bar, a children&#x27;s play area and free parking.</p>
+  <p class="dist">🏖 3.7 km from Baga Beach; Calangute Beach within 5 km · ✈ Dabolim 41 km · ✈ Mopa 23 km</p>
+  <div class="chips"><span class="chip hi">Garden setting with year-round outdoor pool</span><span class="chip hi">On-site spa</span><span class="chip hi">Family-friendly with kids&#x27; pool and play area</span><span class="chip hi">Close to Arpora Saturday Night Market and Baga nightlife</span><span class="chip hi">Free parking and airport shuttle</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 59 rooms · Standard Double Room, Deluxe Double Room</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool (year-round)</span><span class="chip">Children&#x27;s pool</span><span class="chip">Spa</span><span class="chip">Restaurant</span><span class="chip">Bar / pool bar</span><span class="chip">Sun terrace and garden</span><span class="chip">Children&#x27;s play area</span><span class="chip">Free Wi-Fi</span><span class="chip">Free private parking</span><span class="chip">Air conditioning</span><span class="chip">Room service</span><span class="chip">24-hour front desk</span><span class="chip">Airport shuttle</span><span class="chip">Buffet breakfast</span></div>
+    <p><b>Dining:</b> Family-friendly restaurant serving Indian cuisine with buffet breakfast; pool bar with outdoor seating</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 12:00 PM</p>
+    <p><b>Nearby:</b> Baga Beach (3.7 km); Calangute Beach (within 5 km); Mae De Deus Church, Saligao (2.2 km); Chapora Fort (approx. 9 km); Saturday Night Market, Arpora (nearby)</p>
+    <p class="meta"><a href="https://veranohotelgoa.com/" target="_blank" rel="noopener">Official site</a></p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="sairaj beach resort - calangute goa" data-cp="3700" id="sairaj-beach-resort">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Sairaj Beach Resort - Calangute Goa</h3>
+      <p class="area">📍 Calangute · Survey No. 166/13, Naikawaddo, Near Poriat Football Ground, Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,700</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,400</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Sairaj Beach Resort is a 72-room resort in Naikawaddo, Calangute, about a kilometre from Calangute Beach and a few minutes&#x27; drive from Baga. Its bright yellow buildings surround an outdoor pool, and the property offers the La Savour multi-cuisine restaurant, a coffee shop, spa and beauty parlour, and a rooftop terrace.</p>
+  <p class="dist">🏖 Approx. 1 km from Calangute Beach; about 4 minutes&#x27; drive to Baga Beach · ✈ Dabolim 40 km · ✈ Mopa 29 km</p>
+  <div class="chips"><span class="chip hi">About 1 km from Calangute Beach</span><span class="chip hi">La Savour 24-hour multi-cuisine restaurant</span><span class="chip hi">Outdoor pool and rooftop terrace</span><span class="chip hi">On-site spa and beauty parlour</span><span class="chip hi">Family-friendly, value-oriented stay</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 72 rooms · Standard Room, Deluxe Room, Family Room</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Multi-cuisine restaurant (La Savour)</span><span class="chip">Coffee shop</span><span class="chip">Spa (massages, body treatments, facials)</span><span class="chip">Beauty parlour</span><span class="chip">Rooftop terrace</span><span class="chip">Garden</span><span class="chip">Free Wi-Fi</span><span class="chip">Parking</span><span class="chip">Air conditioning</span><span class="chip">Minibar</span><span class="chip">Flat-screen TV</span><span class="chip">24-hour front desk</span></div>
+    <p><b>Dining:</b> La Savour multi-cuisine family restaurant (open round the clock) plus coffee shop</p>
+    <p><b>Check-in / out:</b> 12:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Calangute Beach (approx. 1 km); Baga Beach (approx. 4 min drive); Calangute Market (nearby); Anjuna Beach (approx. 20 min drive)</p>
+    <p class="meta"><a href="https://sairajbeachresortgoa.com/" target="_blank" rel="noopener">Official site</a> · +91 832 295 5566</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Candolim" data-name="sukhmantra resort &amp; spa" data-cp="3200" id="sukhmantra-resort">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Sukhmantra Resort &amp; Spa</h3>
+      <p class="area">📍 Candolim · 317/C, Baman Vaddo, Calangute-Fort Aguada Road, Candolim, Bardez, Goa 403515</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹3,900</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Sukhmantra Resort &amp; Spa is a boutique resort in Baman Vaddo, Candolim, on the Calangute-Fort Aguada road a short walk from Candolim Beach. The 60-room property features an outdoor pool with pool bar, a rooftop multi-cuisine restaurant and bar, an Ayurvedic spa, a fitness centre and conference facilities, with a free shuttle to the beach.</p>
+  <p class="dist">🏖 Near Candolim Beach (walking distance); about 6 minutes&#x27; drive to Calangute Beach · ✈ Dabolim 37 km · ✈ Mopa 30 km</p>
+  <div class="chips"><span class="chip hi">Walking distance to Candolim Beach with free beach shuttle</span><span class="chip hi">Rooftop restaurant and bar</span><span class="chip hi">Ayurvedic spa on site</span><span class="chip hi">Pool with pool bar and kids&#x27; pool</span><span class="chip hi">Conference facilities for small events</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 60 rooms · Delight Room with Balcony, Comfort Room, Luxury Room, Family Suite with Two Balconies</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Children&#x27;s pool</span><span class="chip">Pool bar</span><span class="chip">Sukhmantra Spa (Ayurvedic treatments)</span><span class="chip">Rooftop multi-cuisine restaurant and bar</span><span class="chip">Fitness centre</span><span class="chip">Rooftop terrace</span><span class="chip">Free beach shuttle</span><span class="chip">Conference facilities</span><span class="chip">Free Wi-Fi</span><span class="chip">Air conditioning</span><span class="chip">Refrigerator / LCD TV in rooms</span><span class="chip">24-hour room service</span><span class="chip">Concierge</span></div>
+    <p><b>Dining:</b> Rooftop multi-cuisine restaurant and bar (buffet and a la carte); pool bar</p>
+    <p><b>Check-in / out:</b> 1:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Candolim Beach (walking distance); Calangute Beach (approx. 6 min drive); Fort Aguada (approx. 4 km); Sinquerim Beach (approx. 3 km); Baga Beach (approx. 10 min drive)</p>
+    <p class="meta"><a href="https://www.sukhmantra.com" target="_blank" rel="noopener">Official site</a> · +91 86000 40091</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Vagator" data-name="vagator downtown by vdp" data-cp="3200" id="vagator-downtown">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★</span>
+      <h3>Vagator Downtown by VDP</h3>
+      <p class="area">📍 Vagator · Plot No. 412/3A, Near Bharat Petrol Pump, Deul Wada, Anjuna-Vagator, Bardez, Goa 403509</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹3,900</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Vagator Downtown by VDP is a hotel opened in 2022 on the main Anjuna-Vagator road near the Bharat petrol pump, within a short drive of Anjuna and Vagator beaches. Its rooftop pool with swim-up bar and valley views is the centrepiece, supported by a rooftop restaurant, two bars, balcony rooms, free parking and shuttle services.</p>
+  <p class="dist">🏖 Within 10 minutes&#x27; drive of Anjuna Beach; close to Vagator Beach · ✈ Dabolim 45 km · ✈ Mopa 25 km</p>
+  <div class="chips"><span class="chip hi">Rooftop pool with swim-up bar and sunset views</span><span class="chip hi">Closest of the group to Mopa airport (approx. 25 km)</span><span class="chip hi">Seven room categories including bathtub suite</span><span class="chip hi">Near Anjuna and Vagator beaches and nightlife</span><span class="chip hi">Free parking plus beach and airport shuttles</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 52 rooms · Executive Room, Deluxe King Room with Balcony, Club Double Room with City View, Luxury Room, Royal Room, Family Room, Suite with Bathtub</p>
+    <div class="chips"><span class="chip">Rooftop swimming pool with swim-up bar</span><span class="chip">Rooftop terrace with sunset/valley views</span><span class="chip">Restaurant</span><span class="chip">2 bars/lounges</span><span class="chip">Free parking</span><span class="chip">Air conditioning</span><span class="chip">Minibar and smart TV</span><span class="chip">Private balconies</span><span class="chip">Conference facilities</span><span class="chip">Beach shuttle</span><span class="chip">Airport shuttle</span><span class="chip">24-hour front desk</span><span class="chip">Luggage storage</span><span class="chip">Taxi booking</span></div>
+    <p><b>Dining:</b> Rooftop pool restaurant and bar serving Indian, Chinese, seafood, pizza and local cuisine</p>
+    <p><b>Check-in / out:</b> 1:30 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Anjuna Beach (approx. 10 min drive); Vagator Beach (nearby); Chapora Fort (nearby); St. Michael&#x27;s Church, Anjuna (approx. 10 min drive); Baga Beach (5.9 km); Calangute Beach (7.4 km)</p>
+    <p class="meta"><a href="https://www.vagatordowntown.com" target="_blank" rel="noopener">Official site</a> · +91 79977 19009</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="casa pearl by ws" data-cp="3200" id="casa-pearl">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Casa Pearl by WS</h3>
+      <p class="area">📍 Calangute · H.No. 4/42 C, Plot Sy. No. 363/19, Porba Waddo, Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹3,900</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Casa Pearl by WS is a 32-room, 4-star hotel in Porba Waddo, Calangute, about 1.6 km from both Calangute and Baga beaches. All rooms are in the Super Deluxe category, and the property has a swimming pool, a restaurant and a banquet hall, with an elevator and 24-hour front desk.</p>
+  <p class="dist">🏖 1.6 km from Calangute Beach (1.6 km from Baga Beach) · ✈ Dabolim 36.5 km</p>
+  <div class="chips"><span class="chip hi">32 Super Deluxe rooms</span><span class="chip hi">Swimming pool and banquet hall</span><span class="chip hi">1.6 km to Calangute and Baga beaches</span><span class="chip hi">Central Calangute location near the market</span><span class="chip hi">Check-in 2 PM, check-out 11 AM</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 32 rooms · Super Deluxe Room</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">Restaurant</span><span class="chip">Banquet hall</span><span class="chip">Free WiFi</span><span class="chip">Air conditioning</span><span class="chip">Elevator</span><span class="chip">24-hour front desk</span><span class="chip">Room service</span><span class="chip">Laundry / dry cleaning</span><span class="chip">Power backup</span><span class="chip">CCTV</span><span class="chip">Concierge desk</span><span class="chip">Luggage storage</span><span class="chip">First-aid</span></div>
+    <p><b>Dining:</b> In-house multi-cuisine restaurant (name not published on OTAs)</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Calangute Beach - 1.6 km; Baga Beach - 1.6 km; Candolim Beach - 3.3 km; Anjuna Beach - 6.7 km; Dabolim Airport - 36.5 km; Thivim Railway Station - 16.6 km</p>
+    <p class="meta"></p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="sinq symbol" data-cp="3600" id="sinq-symbol-calangute">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>SinQ Symbol</h3>
+      <p class="area">📍 Calangute · Sy. No. 184/1, Naika Vaddo (Naika Waddo), Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,600</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,400</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">SinQ Symbol is a 104-room hotel in Naika Vaddo, Calangute, about 800 m from Calangute Beach and a short walk from Calangute Market. It offers a rooftop infinity pool, three restaurants and a bar, with room categories ranging from Classic Doubles to Signature and Royal Suites.</p>
+  <p class="dist">🏖 0.8 km from Calangute Beach (about 9 minutes&#x27; walk)</p>
+  <div class="chips"><span class="chip hi">104 rooms across five categories including suites</span><span class="chip hi">Rooftop infinity pool</span><span class="chip hi">Three restaurants and a bar on site</span><span class="chip hi">About 800 m to Calangute Beach</span><span class="chip hi">Free buffet breakfast and WiFi</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 104 rooms · Classic Double Room, Deluxe Double Room, Elite Room, Signature Suite, Royal Suite</p>
+    <div class="chips"><span class="chip">Rooftop infinity pool</span><span class="chip">3 restaurants</span><span class="chip">Bar / lounge</span><span class="chip">Free buffet breakfast</span><span class="chip">Free WiFi</span><span class="chip">Air conditioning</span><span class="chip">In-room safe</span><span class="chip">24-hour front desk</span><span class="chip">Housekeeping</span><span class="chip">Balcony rooms with city view</span></div>
+    <p><b>Dining:</b> Three on-site restaurants plus a bar/lounge</p>
+    <p><b>Check-in / out:</b> 3:00 PM / —</p>
+    <p><b>Nearby:</b> Calangute Beach - 0.8 km; Calangute Market - 5 min walk; Poriat Football Ground - 0.2 km; Baga Beach - 10 min drive; Tito&#x27;s Lane - 5 min drive</p>
+    <p class="meta"><a href="https://sinq.in/sinq-symbol-calangute/" target="_blank" rel="noopener">Official site</a> · +91 98810 98030 (toll-free 1800 212 3578)</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Candolim" data-name="sinq party hotel" data-cp="3300" id="sinq-party-hotel-candolim">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★</span>
+      <h3>SinQ Party Hotel</h3>
+      <p class="area">📍 Candolim · Opposite Taj Holiday Village, Sinquerim, Candolim, Bardez, Goa 403515</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹3,300</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,200</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">SinQ Party Hotel is a 32-room hotel opposite Taj Holiday Village in Sinquerim, Candolim, a few minutes&#x27; walk from Candolim and Sinquerim beaches. Marketed as India&#x27;s first party hotel, it has an outdoor pool with cabanas, two bars, a restaurant and an on-site nightclub.</p>
+  <p class="dist">🏖 About 6 minutes&#x27; walk from Candolim Beach; 9 minutes&#x27; walk from Sinquerim Beach · ✈ Dabolim 39 km</p>
+  <div class="chips"><span class="chip hi">On-site nightclub and two bars</span><span class="chip hi">Outdoor pool with cabanas</span><span class="chip hi">6-minute walk to Candolim Beach</span><span class="chip hi">Close to Fort Aguada</span><span class="chip hi">Free parking and airport shuttle</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 32 rooms · Air-conditioned rooms with minibar and safe (pool-facing rooms available)</p>
+    <div class="chips"><span class="chip">Outdoor pool with cabanas and sun loungers</span><span class="chip">In-house nightclub</span><span class="chip">2 bars / lounges</span><span class="chip">Restaurant (breakfast, lunch, dinner)</span><span class="chip">Garden</span><span class="chip">Free parking</span><span class="chip">Airport shuttle</span><span class="chip">Free WiFi</span><span class="chip">Air conditioning</span><span class="chip">Minibar</span><span class="chip">In-room safe</span><span class="chip">Pool table</span></div>
+    <p><b>Dining:</b> On-site restaurant serving breakfast, lunch and dinner; two bars and the SinQ nightclub</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 12:00 PM</p>
+    <p><b>Nearby:</b> Candolim Beach - 6 min walk; Sinquerim Beach - 9 min walk; Fort Aguada; Calangute Beach; Thivim Railway Station - about 23 km; Dabolim Airport - about 39 km</p>
+    <p class="meta"><a href="https://sinq.in/" target="_blank" rel="noopener">Official site</a> · +91 832 247 9444</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Candolim" data-name="sinq privé" data-cp="4150" id="sinq-prive-candolim">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>SinQ Privé</h3>
+      <p class="area">📍 Candolim · Opposite Taj Holiday Village, Aguada Road, Sinquerim, Candolim, Goa 403515</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,150</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹5,150</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">SinQ Privé is a 4-star boutique hotel on Aguada Road in Sinquerim, Candolim, a short walk from Candolim Beach and about 1.5 km from Fort Aguada. Its signature feature is a rooftop infinity pool with jacuzzis and a bar, complemented by the Soi restaurant, a gym and individually furnished rooms and suites.</p>
+  <p class="dist">🏖 About 6 minutes&#x27; walk from Candolim Beach; 10 minutes&#x27; walk from Sinquerim Beach · ✈ Dabolim 37.2 km · ✈ Mopa 31.8 km</p>
+  <div class="chips"><span class="chip hi">Rooftop infinity pool with jacuzzis and bar</span><span class="chip hi">Walking distance to Candolim and Sinquerim beaches</span><span class="chip hi">1.5 km from Fort Aguada</span><span class="chip hi">Rooms and an Executive Suite category</span><span class="chip hi">Gym, library and free parking</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 41 rooms · Classic Room, Deluxe Room, Luxury Room, Executive Suite</p>
+    <div class="chips"><span class="chip">Rooftop infinity pool</span><span class="chip">Rooftop jacuzzis</span><span class="chip">Pool bar</span><span class="chip">Restaurant</span><span class="chip">Hookah bar / lounge</span><span class="chip">Gym</span><span class="chip">Rooftop terrace</span><span class="chip">Library</span><span class="chip">Elevator</span><span class="chip">Free parking</span><span class="chip">Free WiFi</span><span class="chip">Air conditioning</span><span class="chip">24-hour front desk</span><span class="chip">Bathrobes and slippers</span></div>
+    <p><b>Dining:</b> Soi restaurant (Goan cuisine) plus rooftop pool bar and hookah lounge</p>
+    <p><b>Check-in / out:</b> 1:00 PM to 7:00 PM / 9:00 AM to 11:00 AM</p>
+    <p><b>Nearby:</b> Candolim Beach - 6 min walk; Sinquerim Beach - 10 min walk; Aguada Lighthouse - 1.4 km; Fort Aguada - 1.5 km; Calangute Beach - 4.7 km; Mopa Airport - about 32 km; Dabolim Airport - about 37 km</p>
+    <p class="meta"><a href="https://sinq.in/our-hotels/sinq-prive/" target="_blank" rel="noopener">Official site</a></p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Assonora" data-name="sinq anvaya" data-cp="6400" id="sinq-anvaya-assonora-bicholim">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars"></span>
+      <h3>SinQ Anvaya</h3>
+      <p class="area">📍 Assonora · Near Club Mahindra, Advalpal, Assonora, Bicholim, Goa 403503</p>
+    </div>
+    <span class="rating">G 4.6 <small>(104)</small></span>
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹6,400</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹8,400</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">SinQ Anvaya is a small nature retreat of ten lake-facing thatched-roof cottages in Advalpal, Assonora, in the Bicholim hinterland of North Goa. Each cottage has a private plunge pool and deck, and the property offers a shared outdoor pool, restaurant, bar and complimentary bicycles, with Mayem Lake about a 15-minute drive away.</p>
+  <p class="dist"></p>
+  <div class="chips"><span class="chip hi">Only 10 cottages, each with private plunge pool</span><span class="chip hi">Lake and hill views away from the beach crowds</span><span class="chip hi">Restaurant, bar and shared outdoor pool</span><span class="chip hi">Free bicycles and free breakfast</span><span class="chip hi">Google rating 4.6 (104 reviews)</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 10 rooms · Lake-facing cottage with private plunge pool and deck</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Private plunge pools in cottages</span><span class="chip">Restaurant</span><span class="chip">Bar / lounge</span><span class="chip">Free breakfast</span><span class="chip">Free WiFi</span><span class="chip">Free parking</span><span class="chip">Free bicycle rental</span><span class="chip">Garden</span><span class="chip">24-hour front desk</span><span class="chip">Room service</span><span class="chip">Air conditioning</span><span class="chip">Flat-screen TV</span><span class="chip">Electric kettle</span><span class="chip">In-room safe</span><span class="chip">Private balcony / deck</span></div>
+    <p><b>Dining:</b> On-site restaurant and bar/lounge</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Mayem Lake - about 8.4 km (15 min drive); Shree Devi Kelbai Temple - 15 min drive; Club Mahindra Assonora - adjacent</p>
+    <p class="meta"><a href="https://sinq.in/our-hotels/sinq-anvaya/" target="_blank" rel="noopener">Official site</a></p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="silver shell grand" data-cp="4200" id="silver-shell-grand">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★</span>
+      <h3>Silver Shell Grand</h3>
+      <p class="area">📍 Calangute · Plot 369 / H.No. 4/80, Porba Vaddo, Opposite Hard Rock Hotel, Behind KFC, Calangute, Bardez, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹4,900</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Silver Shell Resort is a 41-room property in Porba Vaddo, central Calangute, opposite the Hard Rock Hotel and about 1 km from Calangute Beach and 200 m from Calangute Market. Opened in 2018, it is known for a large swimming pool with a pool-side bar, a multi-cuisine restaurant and four room categories from Classic to Family rooms.</p>
+  <p class="dist">🏖 About 1 km from Calangute Beach</p>
+  <div class="chips"><span class="chip hi">41 rooms in four categories including 500 sq ft Family Rooms</span><span class="chip hi">Large swimming pool with pool-side bar</span><span class="chip hi">Central Calangute, 200 m from the market</span><span class="chip hi">About 1 km to Calangute Beach</span><span class="chip hi">Free breakfast, WiFi and parking</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 41 rooms · Classic Room (220 sq ft), Superior Room (250 sq ft), Premium Room (300 sq ft), Family Room (500 sq ft)</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">Pool-side bar</span><span class="chip">Multi-cuisine restaurant</span><span class="chip">Shisha bar / cocktail lounge</span><span class="chip">Sun deck</span><span class="chip">Free breakfast</span><span class="chip">Free WiFi</span><span class="chip">Free parking</span><span class="chip">Lift</span><span class="chip">Power backup</span><span class="chip">Laundry service</span><span class="chip">Room service</span><span class="chip">Doctor on call</span><span class="chip">Air conditioning</span><span class="chip">Minibar (chargeable)</span><span class="chip">Tea/coffee maker</span></div>
+    <p><b>Dining:</b> Multi-cuisine restaurant with pool-side bar and shisha lounge</p>
+    <p><b>Check-in / out:</b> 12:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Calangute Market - 200 m; Calangute Beach - 1 km; Candolim Beach - 2.8 km; Saturday Night Market (Arpora) - 2.5 km; Fort Aguada - 6 km; Anjuna Beach - 7.9 km</p>
+    <p class="meta"></p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Anjuna" data-name="holitel anjuna goa" data-cp="4000" id="holitel-anjuna">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Holitel Anjuna Goa</h3>
+      <p class="area">📍 Anjuna · 511/3, Anjuna, Bardez, North Goa 403509</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,000</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹5,000</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Holitel Anjuna Goa is a 42-room contemporary hotel opened in February 2024 in the Arpora-Anjuna belt, about a 10-minute drive from Anjuna Beach and 3.7 km from Baga. It features bohemian-inspired suites, some with private plunge pools, an outdoor pool with pool bar, a rooftop terrace, a spa and a restaurant serving Goan, Indian and international dishes.</p>
+  <p class="dist">🏖 About 10 minutes&#x27; drive from Anjuna Beach; 3.7 km from Baga Beach · ✈ Mopa 27.2 km</p>
+  <div class="chips"><span class="chip hi">Opened 2024, 42 rooms and suites</span><span class="chip hi">Suites with private plunge pools</span><span class="chip hi">Outdoor pool, pool bar and rooftop terrace</span><span class="chip hi">On-site spa with massage rooms</span><span class="chip hi">Tripadvisor 4.8/5 and Travellers&#x27; Choice 2026</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 42 rooms · Rooms, Suites (bohemian-inspired), Suites with private plunge pool, Family suite</p>
+    <div class="chips"><span class="chip">Outdoor pool with sun loungers</span><span class="chip">Rooftop terrace</span><span class="chip">Pool bar</span><span class="chip">Spa with massage rooms</span><span class="chip">Restaurant</span><span class="chip">Breakfast buffet</span><span class="chip">Free high-speed WiFi (25+ Mbps)</span><span class="chip">Free parking</span><span class="chip">24-hour front desk</span><span class="chip">Air conditioning</span><span class="chip">Minibar</span><span class="chip">LED TV</span><span class="chip">Private plunge pools in select suites</span></div>
+    <p><b>Dining:</b> Restaurant serving Goan, Indian and international cuisine; pool bar</p>
+    <p><b>Check-in / out:</b> 2:00 PM / —</p>
+    <p><b>Nearby:</b> Anjuna Beach - 10 min drive; Baga Beach - 3.7 km; Calangute Beach - 5.3 km; Thivim Railway Station - 13.7 km; Mopa Airport - 27.2 km</p>
+    <p class="meta"><a href="https://holitelhotels.com/holitel-anjuna/" target="_blank" rel="noopener">Official site</a> · +91 832 6620600 / 01 (reservations +91 89565 48432)</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Calangute" data-name="holitel calangute" data-cp="4900" id="holitel-calangute">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars"></span>
+      <h3>Holitel Calangute</h3>
+      <p class="area">📍 Calangute · 153/1, Calangute, Bardez, North Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,900</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹5,900</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Holitel Calangute is the second property of Holitel Hotels, a Goa brand launched in 2024, located in the Calangute-Baga belt of North Goa. It is positioned for group travel and events, with premium rooms and two banquet venues that can each host more than 200 guests for weddings and corporate gatherings.</p>
+  <p class="dist"></p>
+  <div class="chips"><span class="chip hi">Two banquet halls for 200+ guests each</span><span class="chip hi">Calangute-Baga location</span><span class="chip hi">Part of the Holitel Goa brand (est. 2024)</span><span class="chip hi">Group and event-focused hospitality</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> —</p>
+    <div class="chips"><span class="chip">Two banquet venues (200+ guests each)</span><span class="chip">Premium accommodation</span><span class="chip">Rooftop pool and bar (brand-level claim)</span><span class="chip">Restaurant (brand-level claim)</span><span class="chip">Free WiFi (brand-level claim)</span><span class="chip">Free parking (brand-level claim)</span></div>
+    <p><b>Dining:</b> —</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Calangute Beach; Baga Beach</p>
+    <p class="meta"><a href="https://holitelhotels.com/" target="_blank" rel="noopener">Official site</a> · +91 832 6620600 / 01 (reservations +91 89565 48432, front desk +91 89565 48431)</p>
+  </details>
+</article>
+<article class="card" data-cat="4 Star" data-area="Candolim" data-name="simshines hotels, villas, suites &amp; spa" data-cp="4500" id="simshines-candolim">
+  <header>
+    <div>
+      <span class="cat">4 Star</span> <span class="stars">★★★★</span>
+      <h3>Simshines Hotels, Villas, Suites &amp; Spa</h3>
+      <p class="area">📍 Candolim · H.No. 615/A/2, Sequeira Vaddo, Candolim, Bardez, Goa 403515</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹5,500</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Simshines Hotels, Villas, Suites &amp; Spa is a resort in Sequeira Vaddo, Candolim, about 800 m from Candolim Beach. It combines hotel rooms and one-bedroom suites with balconies and private pool villas featuring rooftop barbecue decks and in-room jacuzzis, supported by a spa, gym, swimming pools and an on-site restaurant.</p>
+  <p class="dist">🏖 About 800 m from Candolim Beach</p>
+  <div class="chips"><span class="chip hi">800 m from Candolim Beach</span><span class="chip hi">Rooms, suites and private pool villas on one property</span><span class="chip hi">Spa, gym and separate adult and children&#x27;s pools</span><span class="chip hi">Villas with rooftop barbecue and in-room jacuzzi</span><span class="chip hi">Free breakfast, WiFi and parking</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> Casa Bella - Superior Room (25 sq m, king bed), Casa Vista - Premium Room (49 sq m, king bed), Casa Amor - One Bedroom Suite (56 sq m, king bed), Private pool villas (including 4-bedroom luxury villas)</p>
+    <div class="chips"><span class="chip">Swimming pool (adults and children)</span><span class="chip">Spa</span><span class="chip">Gym / fitness centre</span><span class="chip">Restaurant</span><span class="chip">Free breakfast</span><span class="chip">Free WiFi</span><span class="chip">Free parking</span><span class="chip">Airport shuttle</span><span class="chip">Laundry</span><span class="chip">Balconies in rooms and suites</span><span class="chip">Villas with rooftop barbecue, in-room jacuzzi and private basement lounge</span><span class="chip">Pets allowed on request</span></div>
+    <p><b>Dining:</b> On-site restaurant with buffet breakfast</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Candolim Beach - 800 m; Fort Aguada; Calangute Beach; Dabolim Airport - about 41 km (Candolim average); Thivim Railway Station - about 17 km (Candolim average)</p>
+    <p class="meta"><a href="https://simshineshotels.com/" target="_blank" rel="noopener">Official site</a> · +91 89564 53900</p>
+  </details>
+</article>
+<article class="card" data-cat="Beach Hotel" data-area="Ashvem" data-name="la cabana beach &amp; spa" data-cp="8500" id="la-cabana-beach-spa">
+  <header>
+    <div>
+      <span class="cat">Beach Hotel</span> <span class="stars"></span>
+      <h3>La Cabana Beach &amp; Spa</h3>
+      <p class="area">📍 Ashvem · House No. 224, Ashvem Beach, Ashvem Wada, Mandrem, Goa 403527</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹8,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹10,500</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">La Cabana Beach &amp; Spa sits directly on Ashwem Beach in Mandrem, North Goa, with the Arabian Sea at its doorstep. The resort offers wooden cottages, beach-facing chalets and villas set around an outdoor pool, together with an Ayurvedic spa and a beachfront restaurant. Its quiet stretch of coast is a short drive from Morjim and Arambol beaches.</p>
+  <p class="dist">🏖 Beachfront, direct access to Ashvem (Ashwem) Beach · ✈ Dabolim 57.2 km</p>
+  <div class="chips"><span class="chip hi">Direct access to Ashwem Beach with private cabanas and sun loungers</span><span class="chip hi">Spa offering Ayurvedic and deep-tissue treatments</span><span class="chip hi">Choice of wooden cottages, chalets and beach-facing villas</span><span class="chip hi">Beachfront restaurant with sea views</span><span class="chip hi">Outdoor pool in a tropical garden setting</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 78 rooms · Wooden Cottage, Premium Wooden AC Cottage, Beach Facing Chalet, Garden Facing Villa, Beach Facing Villa, Presidential Suite</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Full-service spa (Ayurvedic, deep-tissue, aromatherapy treatments)</span><span class="chip">Beachfront restaurant</span><span class="chip">Bar/lounge</span><span class="chip">Private beach area with cabanas and sun loungers</span><span class="chip">Free Wi-Fi</span><span class="chip">Free private parking</span><span class="chip">Air-conditioned rooms with minibar and LCD TV</span><span class="chip">24-hour front desk</span><span class="chip">Laundry / dry cleaning</span><span class="chip">Table tennis room</span><span class="chip">Car/limo transfer service</span></div>
+    <p><b>Dining:</b> Beachfront sea-view fine-dining restaurant and bar on Ashwem Beach</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Mandrem Beach (within 2 km); Morjim Beach (approx. 15-minute drive); Arambol Beach (approx. 15-minute drive); Thivim Railway Station (21.9 km); Dabolim Airport (57.2 km)</p>
+    <p class="meta"><a href="https://www.lacabana.in/" target="_blank" rel="noopener">Official site</a> · +91 83089 61900 / +91 98228 35550</p>
+  </details>
+</article>
+<article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="sibaya beach resort by stone wood" data-cp="5200" id="sibaya-beach-resort-by-stonewood">
+  <header>
+    <div>
+      <span class="cat">Beach Hotel</span> <span class="stars"></span>
+      <h3>Sibaya Beach Resort by Stone Wood</h3>
+      <p class="area">📍 Morjim · 182/1, Gawdewada, Morjim Beach, Morjim, Pernem, Goa 403512</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹5,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹7,200</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Sibaya Beach Resort by Stone Wood is set on the quiet sands of Morjim Beach, the turtle-nesting stretch of North Goa&#x27;s coast. Its 42 cottages and suites surround a swimming pool, with an in-house restaurant, an Ayurvedic spa and the Saz on the Beach sunset club. The resort suits travellers who want a calm beach base within easy reach of Ashvem, Mandrem and the busier Baga and Anjuna scene.</p>
+  <p class="dist">🏖 On Morjim (Turtle) Beach with beach access; Ashvem Beach approx. 3-minute walk · ✈ Dabolim 56.9 km</p>
+  <div class="chips"><span class="chip hi">Beachside setting on tranquil Morjim (Turtle) Beach</span><span class="chip hi">Saz on the Beach sunset club with cocktails and DJs</span><span class="chip hi">Ayurvedic spa treatments on site</span><span class="chip hi">Cottages and garden suites with pool or garden views</span><span class="chip hi">Goan and international dining at the in-house restaurant</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 42 rooms · Tropical Cottage (Non-Sea View Wing, 220 sq ft), Premium Cottage (269 sq ft), Pool View Room, Garden Suite (480 sq ft)</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">In-house restaurant</span><span class="chip">Wooden Deck dining</span><span class="chip">Saz on the Beach / Club Saz beach club with DJ</span><span class="chip">Ayurvedic spa</span><span class="chip">Beach access</span><span class="chip">Air-conditioned rooms with 42-inch LED TV, minibar and safe</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">24-hour front desk</span><span class="chip">Room service</span><span class="chip">Laundry facilities</span><span class="chip">Concierge and luggage storage</span></div>
+    <p><b>Dining:</b> In-house restaurant and Wooden Deck serving Goan and international cuisine; Saz on the Beach (Club Saz) sunset bar with DJs</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Ashvem Beach (approx. 3-minute walk); Morjai Temple (approx. 4-minute drive); Arambol Beach (approx. 8.4 km); Baga Beach (approx. 17.7 km); Thivim Railway Station (21.6 km); Dabolim Airport (56.9 km)</p>
+    <p class="meta"><a href="https://www.stonewoodresorts.com/sibaya-beach-resort-morjim/" target="_blank" rel="noopener">Official site</a> · +91 91120 01581 (front office); +91 80101 24124 (central reservations)</p>
+  </details>
+</article>
+<article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="dallas beach resort" data-cp="5200" id="dallas-beach-resort-morjim">
+  <header>
+    <div>
+      <span class="cat">Beach Hotel</span> <span class="stars">★★★</span>
+      <h3>Dallas Beach Resort</h3>
+      <p class="area">📍 Morjim · Survey No. 211-2A, Ashvem Beach Road, Morjim, Goa 403527</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹5,200</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹6,700</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Dallas Beach Resort stands on Ashwem Beach at the Morjim end of North Goa&#x27;s quiet northern coast, with sea views, palms and direct access to the sand. The resort offers deluxe rooms, sea-view cottages and private villas alongside indoor and outdoor pools, a spa and two restaurants. It is a practical base for exploring Morjim, Ashvem, Mandrem and Arambol.</p>
+  <p class="dist">🏖 Beachfront on Ashvem (Ashwem) Beach; Morjim Beach approx. 3-minute walk</p>
+  <div class="chips"><span class="chip hi">Beachfront location on Ashwem Beach with Morjim Beach a short walk away</span><span class="chip hi">Both indoor and outdoor swimming pools</span><span class="chip hi">Two on-site restaurants including Halal-friendly Hurry Curry World</span><span class="chip hi">Sea-view cottages and private villas</span><span class="chip hi">Spa and beachfront banquet facilities</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 86 rooms · Deluxe Room, Sea-view Cottage, Private Villa, Rooms with private pool</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Indoor swimming pool</span><span class="chip">Two restaurants</span><span class="chip">Poolside bar and bar/lounge</span><span class="chip">Spa</span><span class="chip">Garden</span><span class="chip">Beachfront banquet facilities</span><span class="chip">Free self parking</span><span class="chip">Free Wi-Fi</span><span class="chip">Air-conditioned rooms with flat-screen TV, kettle and private balcony</span><span class="chip">Daily housekeeping</span></div>
+    <p><b>Dining:</b> Two restaurants including Hurry Curry World (Halal, open for breakfast, lunch and dinner); coastal dining and poolside bar</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Morjim Beach (approx. 3-minute walk); Ashvem Beach (on site / within 10-minute walk); Baga Beach (approx. 17.4 km); Calangute Beach (approx. 17.7 km)</p>
+    <p class="meta"><a href="http://www.dallasbeachresort.com/" target="_blank" rel="noopener">Official site</a> · +91 77699 88093</p>
+  </details>
+</article>
+<article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="aralea beach resort by stone wood premier" data-cp="5700" id="aralia-beach-resort-morjim">
+  <header>
+    <div>
+      <span class="cat">Beach Hotel</span> <span class="stars">★★★</span>
+      <h3>Aralea Beach Resort by Stone Wood Premier</h3>
+      <p class="area">📍 Morjim · Survey No. 241/3, New Wada, Morjim, Pernem, Goa 403512</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹5,700</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹6,500</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Aralea Beach Resort by Stone Wood Premier is a garden-style resort a minute&#x27;s walk from Ashvem Beach on the Morjim coast. Its 69 rooms and cottages look onto lawns or the outdoor pool, and the resort runs its own &#x27;Here &amp; Now&#x27; beach shack directly on the sand. With a banquet hall and multi-cuisine restaurant, it is popular for beach weddings as well as leisure stays.</p>
+  <p class="dist">🏖 Steps from Ashvem Beach (approx. 0.1 km, 1-minute walk); resort&#x27;s own &#x27;Here &amp; Now&#x27; beach shack opens onto the sand</p>
+  <div class="chips"><span class="chip hi">One-minute walk to Ashvem Beach with a private beach shack</span><span class="chip hi">Ranked #1 of 69 B&amp;Bs/inns in Morjim on TripAdvisor</span><span class="chip hi">Outdoor pool with pool-view rooms and cottages</span><span class="chip hi">Multi-cuisine restaurant and bar on site</span><span class="chip hi">Banquet hall for weddings and events</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 69 rooms · Standard Room (185 sq ft, 52 rooms), Lawn View Room (182 sq ft, 10 rooms), Pool View Room (182 sq ft, 3 rooms), Pool-facing Cottage</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool (7:00 am to 7:00 pm)</span><span class="chip">In-house multi-cuisine restaurant and bar</span><span class="chip">&#x27;Here &amp; Now&#x27; private beach shack</span><span class="chip">Banquet hall / wedding venue</span><span class="chip">Doctor on call</span><span class="chip">Air-conditioned rooms with flat-screen/smart TV</span><span class="chip">Free high-speed Wi-Fi</span><span class="chip">Private balconies in many rooms</span><span class="chip">Electric kettle</span><span class="chip">Daily housekeeping</span></div>
+    <p><b>Dining:</b> In-house multi-cuisine restaurant and bar; &#x27;Here &amp; Now&#x27; beach shack on Ashvem Beach, open daily</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Ashvem Beach (0.1 km); Morjai Temple (approx. 4-minute drive); Morjim Beach (approx. 4.5 km); Arambol Beach (approx. 7.6 km); Anjuna Beach (approx. 15.6 km); Baga Beach (approx. 18.2 km)</p>
+    <p class="meta"><a href="https://www.stonewoodresorts.com/aralea-beach-resort-morjim" target="_blank" rel="noopener">Official site</a> · +91 91120 07594 (hotel); +91 80101 24124 (central reservations)</p>
+  </details>
+</article>
+<article class="card" data-cat="Beach Hotel" data-area="Baga" data-name="amara oceanfront resort &amp; club, baga" data-cp="5000" id="amara-oceanfront">
+  <header>
+    <div>
+      <span class="cat">Beach Hotel</span> <span class="stars">★★★★</span>
+      <h3>Amara Oceanfront Resort &amp; Club, Baga</h3>
+      <p class="area">📍 Baga · 245/8, Tito&#x27;s Lane 2, Baga, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹5,000</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹6,000</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Amara Oceanfront Resort &amp; Club is a compact 28-room resort on Tito&#x27;s Lane 2, right beside Baga Beach in the heart of North Goa&#x27;s nightlife district. Rooms range from premium doubles to family and honeymoon suites, and the property has an indoor pool, a multi-cuisine restaurant with ocean views, a bar and its own nightclub. It suits guests who want the beach and Baga&#x27;s clubs within walking distance.</p>
+  <p class="dist">🏖 On Baga Beach (approx. 80 m); private beach area · ✈ Dabolim 42 km</p>
+  <div class="chips"><span class="chip hi">Steps from Baga Beach on Tito&#x27;s Lane 2</span><span class="chip hi">Restaurant with ocean views plus bar and nightclub on site</span><span class="chip hi">Indoor swimming pool</span><span class="chip hi">Family and honeymoon suites up to 450 sq ft</span><span class="chip hi">Opened 2020 and renovated 2021</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 28 rooms · Amara Premium Room (280 sq ft), Amara Suite (450 sq ft, separate living room, partial ocean view), Amara Family Suite (450 sq ft), Amara Honeymoon Suite</p>
+    <div class="chips"><span class="chip">Indoor swimming pool</span><span class="chip">Multi-cuisine restaurant with ocean views</span><span class="chip">Bar</span><span class="chip">Nightclub</span><span class="chip">BBQ facilities</span><span class="chip">Private beach area and terrace</span><span class="chip">Bicycle rental</span><span class="chip">Parking</span><span class="chip">Air-conditioned rooms</span><span class="chip">Wake-up call service</span></div>
+    <p><b>Dining:</b> In-house multi-cuisine restaurant with ocean views, plus bar and nightclub</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Baga Beach (80 m); Tito&#x27;s Lane nightlife (walking distance); Calangute Beach (approx. 2 km); Anjuna Beach (approx. 5 km); Chapora Fort (9.1 km); Thivim Railway Station (19.2 km); Dabolim Airport (42 km)</p>
+    <p class="meta"><a href="https://amararesorts.in/oceanfront-club-resort-in-goa" target="_blank" rel="noopener">Official site</a> · +91 96151 59494</p>
+  </details>
+</article>
+<article class="card" data-cat="Beach Hotel" data-area="Baga" data-name="surf house beach resort" data-cp="4500" id="surf-house-beach-resort-baga">
+  <header>
+    <div>
+      <span class="cat">Beach Hotel</span> <span class="stars">★★★</span>
+      <h3>Surf House Beach Resort</h3>
+      <p class="area">📍 Baga · Next to Bacardi Shack, Baga Beach, Tito&#x27;s Lane 2, Baga, Calangute, Goa 403516</p>
+    </div>
+    
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹4,500</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹5,700</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">Surf House Beach Resort is a surf-themed beach club and resort that opened in 2025 directly on Baga Beach, next to the Bacardi Shack and a short walk from Tito&#x27;s Lane. Its 27 rooms include cottages and sea-view premium doubles arranged around an outdoor pool, with a restaurant, bar and beach shack on site. The resort offers surfing lessons for beginners and experienced surfers in the Arabian Sea.</p>
+  <p class="dist">🏖 On Baga Beach (approx. 2-minute walk); free beach club on site</p>
+  <div class="chips"><span class="chip hi">Beachfront position on Baga Beach, 2 minutes from the sand</span><span class="chip hi">Surfing lessons and water sports packages</span><span class="chip hi">Outdoor pool and on-site beach shack</span><span class="chip hi">Cottages and sea-view premium rooms</span><span class="chip hi">Walking distance to Tito&#x27;s Lane nightlife</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 27 rooms · Deluxe Room, Cottage, Premium Double Room with Sea View</p>
+    <div class="chips"><span class="chip">Outdoor swimming pool</span><span class="chip">Restaurant</span><span class="chip">Bar/lounge</span><span class="chip">Beach shack / free beach club on site</span><span class="chip">Surfing lessons and water sports</span><span class="chip">Beach umbrellas and beach towels</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Air-conditioned rooms</span><span class="chip">24-hour front desk</span><span class="chip">Room service</span><span class="chip">Daily housekeeping</span><span class="chip">Luggage storage</span></div>
+    <p><b>Dining:</b> On-site restaurant and bar plus the Surf House Shack on Baga Beach</p>
+    <p><b>Check-in / out:</b> 2:00 PM / 11:00 AM</p>
+    <p><b>Nearby:</b> Baga Beach (2-minute walk); Tito&#x27;s Lane (3-minute walk); Casino Palms (20-minute walk); Calangute Beach (3-minute drive); Anjuna Beach (6-minute drive)</p>
+    <p class="meta"><a href="https://surfhousebaga.in/" target="_blank" rel="noopener">Official site</a> · +91 89568 88392 / +91 94595 91111</p>
+  </details>
+</article>
+<article class="card" data-cat="Beach Hotel" data-area="Morjim" data-name="sinq beach morjim" data-cp="5300" id="sinq-beach-morjim">
+  <header>
+    <div>
+      <span class="cat">Beach Hotel</span> <span class="stars">★★★★</span>
+      <h3>SinQ Beach Morjim</h3>
+      <p class="area">📍 Morjim · H. No. 761/2, Gawdewada, Morjim, Goa 403512</p>
+    </div>
+    <span class="rating">G 4.1 <small>(1,401)</small></span>
+  </header>
+  <div class="rates">
+    <div><span class="lbl">Room + Breakfast (CP)</span><span class="price">₹5,300</span></div>
+    <div><span class="lbl">Breakfast + Dinner (MAP)</span><span class="price">₹7,300</span></div>
+    <small>per room / night · double sharing · base category</small>
+  </div>
+  <p class="desc">SinQ Beach Morjim is a 30-room beachfront property from SinQ Hospitality, set directly on Morjim Beach with views over the Arabian Sea. Cottages and suites, several with sea-facing balconies fitted with bathtubs or jacuzzis, sit beside a pool and the brand&#x27;s beachfront restaurant and nightclub, where sundowners build into evening music. It is around 18 km from Mopa airport and a short drive from Ashvem and Mandrem beaches.</p>
+  <p class="dist">🏖 Beachfront, directly on Morjim Beach · ✈ Dabolim 57.2 km · ✈ Mopa 18.3 km</p>
+  <div class="chips"><span class="chip hi">Directly on Morjim Beach with Arabian Sea views</span><span class="chip hi">Sea-view suites with jacuzzi or bathtub on the balcony</span><span class="chip hi">On-site beachfront restaurant and nightclub</span><span class="chip hi">Breakfast included and free parking</span><span class="chip hi">About 18 km from Mopa (Manohar International) Airport</span></div>
+  <details>
+    <summary>Rooms, amenities &amp; nearby</summary>
+    <p><b>Rooms:</b> 30 rooms · Deluxe Beach Cottage (non-sea-view balcony), Tropical Beach Cottage (non-sea-view balcony), Tropical Beach Suite with bathtub in balcony (non-sea view), Signature Beach Suite with jacuzzi in balcony (sea view), Sunset Beach Suite with bathtub in balcony (sea view)</p>
+    <div class="chips"><span class="chip">Swimming pool</span><span class="chip">Beachfront restaurant</span><span class="chip">Bar / SinQ Beach nightclub with sea-view seating</span><span class="chip">Complimentary breakfast (7:00 to 10:00 am)</span><span class="chip">Free Wi-Fi</span><span class="chip">Free parking</span><span class="chip">Paid airport shuttle</span><span class="chip">Air-conditioned rooms with minibar, safe and flat-screen TV</span><span class="chip">24-hour front desk</span><span class="chip">Concierge and tour/ticket assistance</span><span class="chip">Laundry</span><span class="chip">Luggage storage</span><span class="chip">Elevator</span></div>
+    <p><b>Dining:</b> SinQ Beach beachfront restaurant and nightclub with sea-view seating, crafted drinks and live music; buffet breakfast included</p>
+    <p><b>Check-in / out:</b> — / —</p>
+    <p><b>Nearby:</b> Morjim Beach (on site); Ashvem Beach (approx. 5-minute drive); Mandrem Beach (approx. 5-minute drive); Baga Beach (approx. 18 km); Mopa Airport (18.3 km); Thivim Railway Station (21.9 km); Dabolim Airport (57.2 km)</p>
+    <p class="meta"><a href="https://sinq.in/" target="_blank" rel="noopener">Official site</a> · +91 832 227 6922 (hotel); 1800 212 3578 (SinQ Hospitality)</p>
+  </details>
+</article></section>
+
+<footer>Bookings &amp; enquiries: Stayconnect Hotels · +91 98710 04087 · sales@stayconnecthotels.com · www.stayconnecthotels.com</footer>
+</div>
+<script>
+const grid=document.getElementById('grid'),cards=[...grid.children],q=document.getElementById('q'),cat=document.getElementById('cat'),area=document.getElementById('area'),sort=document.getElementById('sort'),count=document.getElementById('count');
+function apply(){
+  const s=q.value.trim().toLowerCase();let n=0;
+  cards.forEach(c=>{const ok=(!s||c.dataset.name.includes(s))&&(!cat.value||c.dataset.cat===cat.value)&&(!area.value||c.dataset.area===area.value);c.style.display=ok?'':'none';if(ok)n++;});
+  const v=sort.value,arr=[...cards];
+  if(v==='cp-asc')arr.sort((a,b)=>a.dataset.cp-b.dataset.cp);else if(v==='cp-desc')arr.sort((a,b)=>b.dataset.cp-a.dataset.cp);else if(v==='name')arr.sort((a,b)=>a.dataset.name.localeCompare(b.dataset.name));
+  arr.forEach(c=>grid.appendChild(c));count.textContent=n+' of '+cards.length+' hotels';
+}
+[q,cat,area,sort].forEach(el=>el.addEventListener('input',apply));apply();
+</script>
+</body>
+</html>
